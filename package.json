@@ -1,0 +1,25 @@
+{
+  "name": "recipe-box",
+  "version": "1.0.0",
+  "description": "a little mobile friendly place to put and pull your recipes for easy cooking access",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devrow-Code-Club/recipe-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devrow-Code-Club/recipe-box/issues"
+  },
+  "homepage": "https://github.com/Devrow-Code-Club/recipe-box#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}

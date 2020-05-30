@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Macaroni and Cheese",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "type": "dry macaroni"
+      },
+      {
+        "amount": 2.5,
+        "unit": "cups",
+        "type": "whole millk"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "type": "butter"
+      },
+      {
+        "amount": 8,
+        "unit": "oz",
+        "type": "shredded cheese"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "type": "cornstarch"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "type": "mustard"
+      },
+      {
+        "amount": 1,
+        "unit": "dash",
+        "type": "hot sauce"
+      }
+    ],
+    "directions": [
+      "pour the milk in a saucepan with the butter, bring to a boil",
+      "add pasta and simmer until tender",
+      "toss cheese with cornstarch, add to pasta when done, stir to combine",
+      "add mustard and hot sauce and stir to combine"
+    ]
+  },
+  {
+    "title": "Mexican Chorizo",
+    "ingredients": [
+      {
+        "amount": 1.10,
+        "unit": "lb",
+        "type": "ground pork"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "type": "cumin seed"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "type": "coriander seed"
+      },
+      {
+        "amount": 5,
+        "unit": "whole",
+        "type": "cloves"
+      },
+      {
+        "amount": 2,
+        "unit": "bay",
+        "type": "leaves"
+      },
+      {
+        "amount": 0.25,
+        "unit": "tsp",
+        "type": "ground cinnamon"
+      },
+      {
+        "amount": 0.25,
+        "unit": "tsp",
+        "type": "oregano"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "type": "thyme"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "type": "granulated garlic"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "type": "sea salt"
+      },
+      {
+        "amount": 5,
+        "unit": "whole",
+        "type": "peppercorns (or ½ tsp. ground black pepper)"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "type": "Ancho chile powder OR substitute with a combination of 2 tbsp. paprika mixed with ½ tsp. cayenne powder OR 2 tbsp. paprika mixed with 1 tsp. red chili powder"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "type": "apple cider vinegar (can substitute with red wine vinegar)"
+      }
+    ],
+    "directions": [
+      "Handling chili powders can cause burning to your hands. I highly advice to use plastic gloves for handling the chili and chorizo.",
+      "In a mortar and pestle grind the cumin seed, coriander seed and cloves. Break up the bay leaves with your hands as much as possible and add them to the spices in mortar and pestle, grind until you have a fine powder. Next add the remaining spices to the mortar and pestle and grind/mix until everything is well combined.",
+      "In a large glass bowl using your hands break up the the ground pork. Next you may want to put on some plastic gloves to prevent burning and staining to your hands. Pour in the vinegar and half the spices, spread them evenly on the pork, and start working it into the ground pork. Adding more of the spice mixture until it has all been used up. Keep working the meat until it turns red (from the chile) and all the spices have been well combined into the meat.",
+      "It is best to let the chorizo sit overnight before cooking with it. This will allow all of the flavors to come together and make for a better tasting chorizo.",
+      "Alternatively you can freeze the chorizo until you are ready to use it. Since this chorizo does not have casings you can form or shape sausages or patties and keep their form by wrapping them in plastic kitchen wrap. Another way to store the chorizo in the freezer is by portioning out amounts and storing it inside plastic bags. This way you defrost what you need or want without having to use the whole large batch.",
+      "Now you are ready to use the chorizo in all of your favorite Mexican recipes like tacos, sopes, frijoles charros, chiles rellenos or any of your other favorite fusion recipes."
+    ]
+  }
+]

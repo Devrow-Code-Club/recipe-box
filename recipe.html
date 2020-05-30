@@ -1,0 +1,116 @@
+---
+pagination:
+  data: recipes
+  size: 1
+  alias: recipe
+permalink: "recipes/{{ recipe.title }}/"
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ recipe.title }}</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Caudex&family=Chelsea+Market&display=swap');
+    * {
+      box-sizing:border-box;
+    }
+    html, body {
+      display:flex;
+      padding:0;
+      margin:0;
+      width:100%;
+    }
+    body {
+      flex-direction:column;
+      align-items: center;
+    }
+    #back {
+      top:8px;
+      left:8px;
+      height:50px;
+      width:50px;
+      background-color: #ddd;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      border-radius:8px;
+    }
+    header {
+      width:100%;
+      height: 66px;
+      display:grid;
+      grid-template-columns: 66px 1fr;
+      place-items:center;
+    }
+    h1, h2 {
+      margin:0;
+      padding:0;
+      font-family: 'Chelsea Market', cursive;
+      width:100%;
+      height: 1.5em;
+      font-size: 1.5rem;
+      display:flex;
+      align-items:center;
+      justify-content: center;
+    }
+    h2 {
+      justify-content:flex-start;
+      font-size: 1.25rem;
+      padding: 4px;
+    }
+    ul, ol {
+      font-family: 'Caudex', serif;
+      width:100%;
+      margin-block-start: 0;
+      margin-block-end: 0;
+      padding-inline-start:0;
+    }
+    ul {
+      list-style-type: none;
+    }
+    li {
+      display:flex;
+      align-items:center;
+      width:100%;
+      background-color:#dfdfdf;
+      text-decoration: none;
+      color:#333;
+      padding: 8px 16px;
+    }
+    input[type="checkbox"] {
+      margin-right:16px;
+    }
+    li:nth-child(even) {
+      background-color: #333;
+      color:#fff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="/" id='back'><-</a>
+    <h1>{{ recipe.title }}</h1>  
+  </header>
+  <main>
+    <h2>Ingredients</h2>
+    <ul>
+      {% for ingredient in recipe.ingredients %}
+        <li>
+          <input type='checkbox' />
+          <span>{{ ingredient.amount }}</span>&nbsp;
+          <span>{{ ingredient.unit }}</span>&nbsp;
+          <span>{{ ingredient.type }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+    <h2>Directions</h2>
+    <ol>
+      {% for direction in recipe.directions %}
+        <li>{{ direction }}</li>
+      {% endfor %}
+    </ol>
+  </main>
+</body>
+</html>
