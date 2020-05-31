@@ -99,9 +99,7 @@ permalink: "recipes/{{ recipe.title }}/"
       {% for ingredient in recipe.ingredients %}
         <li>
           <input type='checkbox' />
-          <span>{{ ingredient.amount }}</span>&nbsp;
-          <span>{{ ingredient.unit }}</span>&nbsp;
-          <span>{{ ingredient.type }}</span>
+          <span>{{ ingredient }}</span>
         </li>
       {% endfor %}
     </ul>
