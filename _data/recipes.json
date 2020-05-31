@@ -2,41 +2,13 @@
   {
     "title": "Macaroni and Cheese",
     "ingredients": [
-      {
-        "amount": 2,
-        "unit": "cups",
-        "type": "dry macaroni"
-      },
-      {
-        "amount": 2.5,
-        "unit": "cups",
-        "type": "whole millk"
-      },
-      {
-        "amount": 1,
-        "unit": "tbsp",
-        "type": "butter"
-      },
-      {
-        "amount": 8,
-        "unit": "oz",
-        "type": "shredded cheese"
-      },
-      {
-        "amount": 1,
-        "unit": "tbsp",
-        "type": "cornstarch"
-      },
-      {
-        "amount": 1,
-        "unit": "tsp",
-        "type": "mustard"
-      },
-      {
-        "amount": 1,
-        "unit": "dash",
-        "type": "hot sauce"
-      }
+      "2 cups dry macaroni",
+      "2.5 cups whole millk",
+      "1 tbsp butter",
+      "8 oz shredded cheese",
+      "1 tbsp cornstarch",
+      "1 tsp mustard",
+      "1 dash hot sauce"
     ],
     "directions": [
       "pour the milk in a saucepan with the butter, bring to a boil",
@@ -48,71 +20,19 @@
   {
     "title": "Mexican Chorizo",
     "ingredients": [
-      {
-        "amount": 1.10,
-        "unit": "lb",
-        "type": "ground pork"
-      },
-      {
-        "amount": 1,
-        "unit": "tbsp",
-        "type": "cumin seed"
-      },
-      {
-        "amount": 1,
-        "unit": "tsp",
-        "type": "coriander seed"
-      },
-      {
-        "amount": 5,
-        "unit": "whole",
-        "type": "cloves"
-      },
-      {
-        "amount": 2,
-        "unit": "bay",
-        "type": "leaves"
-      },
-      {
-        "amount": 0.25,
-        "unit": "tsp",
-        "type": "ground cinnamon"
-      },
-      {
-        "amount": 0.25,
-        "unit": "tsp",
-        "type": "oregano"
-      },
-      {
-        "amount": 0.5,
-        "unit": "tsp",
-        "type": "thyme"
-      },
-      {
-        "amount": 1,
-        "unit": "tbsp",
-        "type": "granulated garlic"
-      },
-      {
-        "amount": 1,
-        "unit": "tsp",
-        "type": "sea salt"
-      },
-      {
-        "amount": 5,
-        "unit": "whole",
-        "type": "peppercorns (or ½ tsp. ground black pepper)"
-      },
-      {
-        "amount": 2,
-        "unit": "tbsp",
-        "type": "Ancho chile powder OR substitute with a combination of 2 tbsp. paprika mixed with ½ tsp. cayenne powder OR 2 tbsp. paprika mixed with 1 tsp. red chili powder"
-      },
-      {
-        "amount": 3,
-        "unit": "tbsp",
-        "type": "apple cider vinegar (can substitute with red wine vinegar)"
-      }
+      "1.10 lb ground pork",
+      "1 tbsp cumin seed",
+      "1 tsp coriander seed",
+      "5 whole cloves",
+      "2 bay leaves",
+      "0.25 tsp ground cinnamon",
+      "0.25 tsp oregano",
+      "0.5 tsp thyme",
+      "1 tbsp granulated garlic",
+      "1 tsp sea salt",
+      "5 whole peppercorns (or ½ tsp. ground black pepper)",
+      "2 tbsp Ancho chile powder OR substitute with a combination of 2 tbsp. paprika mixed with ½ tsp. cayenne powder OR 2 tbsp. paprika mixed with 1 tsp. red chili powder",
+      "3 tbsp apple cider vinegar (can substitute with red wine vinegar)"
     ],
     "directions": [
       "Handling chili powders can cause burning to your hands. I highly advice to use plastic gloves for handling the chili and chorizo.",
@@ -122,5 +42,22 @@
       "Alternatively you can freeze the chorizo until you are ready to use it. Since this chorizo does not have casings you can form or shape sausages or patties and keep their form by wrapping them in plastic kitchen wrap. Another way to store the chorizo in the freezer is by portioning out amounts and storing it inside plastic bags. This way you defrost what you need or want without having to use the whole large batch.",
       "Now you are ready to use the chorizo in all of your favorite Mexican recipes like tacos, sopes, frijoles charros, chiles rellenos or any of your other favorite fusion recipes."
     ]
-  }
+  },
+  {
+    "title": "Rich and Creamy Tomato Basil Soup",
+    "ingredients": [
+      "4 tomatoes - peeled, seeded and diced",
+      "4 cups tomato juice",
+      "14 leaves fresh basil",
+      "1 cup heavy whipping cream",
+      "1/2 cup butter",
+      "salt and pepper to taste",
+      "Add all ingredients to list"
+    ],
+    "directions": [
+      "Place tomatoes and juice in a stock pot over medium heat. Simmer for 30 minutes. Puree the tomato mixture along with the basil leaves, and return the puree to the stock pot.",
+      "Place the pot over medium heat, and stir in the heavy cream and butter. Season with salt and pepper. Heat, stirring until the butter is melted. Do not boil."
+    ]
+  },
+  {"title":"Microwave White Chicken Chili","ingredients":["3 whole heads garlic (about 48 cloves), unpeeled","3/4 tsp salt, divided","3 tbsp olive oil, divided","2   poblano peppers","1 medium onion","1 1/2 lb boneless, skinless chicken thighs","2 tbsp Southwestern Seasoning Mix","2 cans (15.5 oz each) Great Northern beans, drained","1 jar (16 oz) salsa verde"],"directions":["Using (5-in.) Santoku Knife, slice about 1/4 in. off the pointed top of garlic heads to expose cloves. Place garlic cut side up in Classic Batter Bowl. Sprinkle garlic with 1/4 tsp of the salt and drizzle with 2 tbsp of the oil. Cover batter bowl with lid; microwave on HIGH 3 minutes or until garlic is soft. Set aside to cool.","Meanwhile, finely dice peppers using Santoku Knife. Chop onion using Food Chopper. Combine peppers and onion in Deep Covered Baker. Trim and finely dice chicken using Boning Knife. Add chicken, seasoning mix, remaining 1 tbsp oil and remaining 1/2 tsp salt to baker; mix well using Master Scraper. Microwave, covered, on HIGH 4 minutes; stir to separate chicken. Cover; microwave an additional 4-6 minutes or until chicken is cooked through.","Meanwhile, gently squeeze cooled garlic from heads into batter bowl (discard skins); mash using Mix 'N Masher. Add beans and salsa to batter bowl. Transfer bean mixture to baker; mix well. Microwave, covered, on HIGH 5-7 minutes or until chili is heated through."]}
 ]
