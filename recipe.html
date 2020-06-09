@@ -94,6 +94,7 @@ permalink: "recipes/{{ recipe.title }}/"
     <h1>{{ recipe.title }}</h1>  
   </header>
   <main>
+    <input type='hidden' value="{{ recipe.key }}" id='recipe-key' />
     <h2>Ingredients</h2>
     <ul>
       {% for ingredient in recipe.ingredients %}

@@ -7,7 +7,11 @@ function getRecipes() {
         recipes += chunk
       });
       response.on('end', () => {
-        recipes = JSON.parse(recipes).map(r => JSON.parse(r.recipe));
+        recipes = JSON.parse(recipes).map(r => {
+          const recipe = JSON.parse(r.recipe);
+          recipe.key = r.key;
+          return recipe
+        });
         console.log(recipes);
         resolve(recipes);
       })
