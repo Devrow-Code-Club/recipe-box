@@ -86,6 +86,12 @@ permalink: "recipes/{{ recipe.title }}/"
       background-color: #333;
       color:#fff;
     }
+    main {
+      width: 100%;
+    }
+    input:checked + span {
+      text-decoration: line-through;
+    }
   </style>
 </head>
 <body>
@@ -99,8 +105,10 @@ permalink: "recipes/{{ recipe.title }}/"
     <ul>
       {% for ingredient in recipe.ingredients %}
         <li>
-          <input type='checkbox' />
-          <span>{{ ingredient }}</span>
+          <label>
+            <input type='checkbox' />
+            <span>{{ ingredient }}</span>
+          </label>
         </li>
       {% endfor %}
     </ul>
