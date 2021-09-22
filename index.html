@@ -56,7 +56,7 @@
 <body>
   <h1>Recipe Box</h1>
   <nav>
-    {% for recipe in recipes %}
+    {% for recipe in static-recipes %}
     <a href="recipes/{{ recipe.title }}">{{ recipe.title }}</a>
     {% endfor %}
   </nav>
