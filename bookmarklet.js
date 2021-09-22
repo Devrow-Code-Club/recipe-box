@@ -18,5 +18,5 @@
   }
   const recipeJSON = JSON.stringify(pullRecipeCard(), 2);
   console.log(recipeJSON);
-  document.write(`<pre>${recipeJSON}</pre>`);
+  document.body.innerHTML = `<pre>${recipeJSON}</pre>`;
 })()
