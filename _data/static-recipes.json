@@ -1,5 +1,26 @@
 [
   {
+      "title": "Beef Rice-A-Roni",
+      "ingredients": [
+          "1 cup regular long grain rice not instant",
+          "½ cup broken thin spaghetti",
+          "2 tbsp butter",
+          "2¾ cup beef broth",
+          "2 tsp beef bouillon",
+          "1 tsp onion powder",
+          "4½ tsp Worcestershire",
+          "1½ tsp soy sauce",
+          "½ tsp garlic powder",
+          "½ tsp black pepper",
+          "3 Tbsp diced canned carrots"
+      ],
+      "directions": [
+          "In a large skillet, melt 2 Tbsp butter. Add broken pasta and rice. Cook until lightly brown.",
+          "Add remaining ingredients. Bring to a boil. Reduce heat to low and cover.",
+          "Cook 15-20 minutes, stirring occasionally, until water is absorbed."
+      ]
+  },
+  {
       "title": "Blueberry Buckle",
       "ingredients": [
           "3/4 cup white sugar",
@@ -49,6 +70,31 @@
       ]
   },
   {
+      "title": "Chicken Pot Pie",
+      "ingredients": [
+          "1 pound skinless, boneless chicken breast halves - cubed",
+          "1 cup sliced carrots",
+          "24 oz mushrooms",
+          "½ cup sliced celery",
+          "⅓ cup butter",
+          "⅓ cup chopped onion",
+          "⅓ cup all-purpose flour",
+          "½ teaspoon salt",
+          "¼ teaspoon black pepper",
+          "¼ teaspoon celery seed",
+          "1 ¾ cups chicken broth",
+          "⅔ cup milk",
+          "2 (9 inch) unbaked pie crusts"
+      ],
+      "directions": [
+          "Preheat oven to 425 degrees F (220 degrees C.)",
+          "In a saucepan, combine chicken, carrots, mushrooms, and celery. Add water to cover and boil for 15 minutes. Remove from heat, drain and set aside.",
+          "In the saucepan over medium heat, cook onions in butter until soft and translucent. Stir in flour, salt, pepper, and celery seed. Slowly stir in chicken broth and milk. Simmer over medium-low heat until thick. Remove from heat and set aside.",
+          "Place the chicken mixture in bottom pie crust. Pour hot liquid mixture over. Cover with top crust, seal edges, and cut away excess dough. Make several small slits in the top to allow steam to escape.",
+          "Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden brown and filling is bubbly. Cool for 10 minutes before serving."
+      ]
+  },
+  {
       "title": "Creamy Parmesan Garlic Mushroom Chicken",
       "ingredients": [
           "4 boneless skinless chicken breasts, thinly sliced",
@@ -69,6 +115,58 @@
       "directions": [
           "In a large skillet add olive oil and cook the chicken on medium high heat for 3-5 minutes on each side or until brown on each side and cooked until no longer pink in center. Remove chicken and set aside on a plate. Add the sliced mushrooms and cook for a few minutes until tender. Remove and set aside.",
           "To make the sauce add the butter and melt. Add garlic and cook until tender. Whisk in the flour until it thickens. Whisk in chicken broth, heavy cream, parmesan cheese, garlic powder, pepper and salt. Add the spinach and let simmer until it starts to thicken and spinach wilts. Add the chicken and ,mushrooms back to the sauce and serve over pasta is desired."
+      ]
+  },
+  {
+      "title": "Elote Grilled Mexican Corn Salad",
+      "ingredients": [
+          "6 Ears Sweet Corn , husked",
+          "1/3 Cup Crema  *see note for substitution",
+          "4  Tablespoons Lime Juice (fresh is best)",
+          "1/2  Teaspoon  Ground Cumin",
+          "3/4  Teaspoons  Smoked Paprika",
+          "1/2 Teaspoon Chili Powder",
+          "1/4  Teaspoon  Black Pepper",
+          "1/4  Teaspoon Salt , plus more to taste",
+          "1/2 Cup  Cheese Crumbled Cotija",
+          "1/2 Onion Red , minced",
+          "1/3-1/2 Bunch  Cilantro , chopped"
+      ],
+      "directions": [
+          "Heat a grill to medium heat. Add the corn, turning occasionally until slightly charred on each side.",
+          "Remove from the grill and allow to cool for a few minutes.",
+          "Holding the corn by the small end, cut off all of the kernels.",
+          "Place the kernels in a big bowl and add all remaining ingredients.",
+          "Fold gently with a rubber spatula, seasoning with additional salt as needed.",
+          "Serve slightly warm, room temperature or cold."
+      ]
+  },
+  {
+      "title": "German Apple-Almond Cake",
+      "ingredients": [
+          "4 medium apples",
+          "1 lemon, zested and juiced",
+          "7 ounces (200g) almond paste",
+          "1/3 cup sugar",
+          "1/2 teaspoon salt",
+          "14 tablespoons (200g) unsalted butter, melted and cooled",
+          "1 teaspoons almond extract",
+          "4 large eggs, at room temperature",
+          "1 cup, 3 tablespoons (150g) flour",
+          "9 tablespoons (80g) cornstarch",
+          "2 teaspoons baking powder, preferably aluminum free",
+          "1/4 cup (75g) apricot jam, strained if lumpy"
+      ],
+      "directions": [
+          "Butter a 9- to 10-inch (23cm) springform pan and line the bottom with parchment paper.",
+          "Peel and core the apples. Divide the lemon juice into two separate bowls. Slice two of the peeled and cored apples into 1/2-inch (1,25cm) slices, and toss the apple slices in one bowl of lemon juice. Dice the other two apples into 1/3-inch (1cm) cubes. Toss in the other bowl of lemon juice.",
+          "Preheat the oven to 350ºF (180ºC).",
+          "Using a grater with large holes, grate the almond paste into the bowl of a stand mixer fitted with the paddle attachment. Add the sugar and salt and mix until the almond paste is finely broken up.",
+          "Add the melted butter, almond extract, and lemon zest, and continue mixing until smooth. Add the eggs one at a time, stopping the mixer and scraping down the sides of the bowl after each addition.",
+          "Whisk together the flour, cornstarch and baking powder in a small bowl. Stir the dry ingredients into the almond batter mixture by hand, then fold in the diced apples, along with any lemon juice in the bowl.",
+          "Scrape the batter into the prepared pan and smooth the top. Place the sliced apples in concentric circles on top of the batter, pressing them in very lightly.",
+          "Bake the cake until the top is golden brown and a toothpick inserted into the center comes out clean, about 1 hour and 10 minutes.",
+          "Remove the cake from the oven. Warm the apricot jam in a small saucepan and brush it over the top while the cake is hot. Let the cake cool completely, then run a knife around the inside of the cake pan to release the cake, and remove the sides of the cake pan. Brush the top of the cake with the apricot jam."
       ]
   },
   {
@@ -433,6 +531,33 @@
       ]
   },
   {
+      "title": "Spaghetti",
+      "ingredients": [
+          "1 pound ground beef (or ½ lb ground Italian sausage and ½ lb ground beef)",
+          "salt and freshly ground black pepper , to taste",
+          "1 medium onion , chopped",
+          "15 ounces tomato sauce",
+          "6 ounces tomato paste",
+          "1/2 teaspoon Italian seasoning",
+          "1 Tablespoon dried parsley flakes",
+          "1 teaspoon garlic powder",
+          "crushed red pepper flakes , to taste",
+          "1 Tablespoon Worcestershire sauce",
+          "1 Tablespoon granulated sugar",
+          "1 cup water",
+          "1/4 cup fresh basil leaves (optional)",
+          "spaghetti noodles , for serving"
+      ],
+      "directions": [
+          "Season ground beef with salt and pepper.",
+          "In a large skillet, add the beef and chopped onion and brown.  Drain excess grease.",
+          "Add tomato sauce, tomato paste, Italian seasoning, parsley, garlic powder, crushed red pepper, worcestershire, and sugar to the skillet.",
+          "Stir well to combine and bring to a boil. Add water and stir well.",
+          "Reduce heat and simmer for 30 minutes. Add chopped basil before serving, if desired.",
+          "This sauce tastes great in Spaghetti Pie, Million Dollar Spaghetti, Slow Cooker Lasagna and Instant Pot Spaghetti."
+      ]
+  },
+  {
       "title": "Street Corn Nachos",
       "ingredients": [
           "2 \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttbsp.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\textra-virgin olive oil",
@@ -475,6 +600,24 @@
       ]
   },
   {
+      "title": "Tomatillo Salsa Verde",
+      "ingredients": [
+          "1 pound tomatillos, husked",
+          "½ cup finely chopped onion",
+          "1 teaspoon minced garlic",
+          "1 serrano chile peppers, minced",
+          "2 tablespoons chopped cilantro",
+          "1 tablespoon chopped fresh oregano",
+          "½ teaspoon ground cumin",
+          "1 ½ teaspoons salt, or to taste",
+          "2 cups water"
+      ],
+      "directions": [
+          "Place tomatillos, onion, garlic, and chile pepper into a saucepan. Season with cilantro, oregano, cumin, and salt; pour in water. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the tomatillos are soft, 10 to 15 minutes.",
+          "Using a blender, carefully puree the tomatillos and water in batches until smooth."
+      ]
+  },
+  {
       "title": "Tomato Basil Soup",
       "ingredients": [
           "4 tomatoes - peeled, seeded and diced",
@@ -487,6 +630,59 @@
       "directions": [
           "Place tomatoes and juice in a stock pot over medium heat. Simmer for 30 minutes. Puree the tomato mixture along with the basil leaves, and return the puree to the stock pot.",
           "Place the pot over medium heat, and stir in the heavy cream and butter. Season with salt and pepper. Heat, stirring until the butter is melted. Do not boil."
+      ]
+  },
+  {
+      "title": "Zuppa Toscana",
+      "ingredients": [
+          "16 oz spicy Italian sausage",
+          "8 slices of bacon",
+          "½ large onion diced",
+          "2-3 cloves of garlic minced",
+          "28 oz low-sodium chicken broth",
+          "3 cups water",
+          "5 medium russet potatoes thinly sliced",
+          "1 tsp crushed red pepper flakes optional",
+          "Salt and pepper optional",
+          "4 cups chopped kale",
+          "1 cup heavy whipping cream",
+          "Parmesan cheese"
+      ],
+      "directions": [
+          "Brown sausage in a large pot or dutch oven.",
+          "Remove sausage with a slotted spoon and set aside.",
+          "Cut bacon into small pieces.",
+          "Add bacon to pot and cook until crispy.",
+          "Stir in chopped onion. Cook for 5 to 6 minutes or until onion is translucent.",
+          "Stir in minced garlic and cook for 1 minute, stirring frequently.",
+          "Add chicken broth and water to the pot. Add crushed red pepper flakes, salt, and pepper if desired.",
+          "Add thinly sliced potatoes (I use a mandoline) and the cooked sausage to the pot and bring to a simmer over medium heat.",
+          "Continue cooking until potatoes are tender, about 10 minutes.",
+          "Add the kale to the soup, and simmer for an additional 5 to 10 minutes, stirring occasionally.",
+          "Stir in the heavy cream and let heat through.",
+          "Ladle soup into bowls and serve with Parmesan cheese."
+      ]
+  },
+  {
+      "title": "wild mushroom gravy with red wine",
+      "ingredients": [
+          "2 tablespoon oil",
+          "1 cup chopped white onion",
+          "24 ounces mushrooms, sliced or chopped (I used Porcini, Shiitake, Oyster Mushrooms)",
+          "4 cloves garlic, finely chopped",
+          "1 tablespoon finely chopped fresh rosemary",
+          "2 tablespoons finely chopped fresh thyme",
+          "¼ cup red wine",
+          "2 cups vegetable broth",
+          "3 tablespoons organic soy sauce",
+          "2 tablespoons tapioca flour",
+          "¼ teaspoon ground black pepper",
+          "salt, to taste"
+      ],
+      "directions": [
+          "Heat oil in a large skillet over medium-high heat, then add onion and cook for 3 to 4 minutes or until translucent.",
+          "Add mushrooms and cook for 10 to 12 minutes or until they release their liquid and become tender. Stir in garlic, rosemary and thyme and continue to cook for 1 minute until fragrant. Add wine and cook 1 minute, stirring constantly. Stir in broth and bring to a simmer.",
+          "In a small bowl, whisk together soy sauce and tapioca flour to form a thick paste. Add mixture to the skillet, whisking constantly to make sure paste dissolves. Bring mixture to a boil and cook 2 minutes, stirring constantly. Add pepper and serve gravy hot."
       ]
   }
 ]
