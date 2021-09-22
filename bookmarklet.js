@@ -16,5 +16,7 @@
     if(document.querySelector('.wprm-recipe-container')) return buildRecipeCard('.wprm-recipe-name', '.wprm-recipe-ingredient', '.wprm-recipe-instruction')
     return {"message": "Could not extract recipe."};
   }
-  document.write(JSON.stringify(pullRecipeCard())).catch(alert);
+  const recipeJSON = JSON.stringify(pullRecipeCard(), 2);
+  console.log(recipeJSON);
+  document.write(`<pre>${recipeJSON}</pre>`);
 })()
