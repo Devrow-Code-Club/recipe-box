@@ -1,5 +1,44 @@
 [
   {
+      "title": "Alfredo Sauce",
+      "ingredients": [
+          "½ cup butter",
+          "1 pint heavy whipping cream 2 cups",
+          "4 ounces cream cheese",
+          "½ teaspoon minced garlic",
+          "1 teaspoon garlic powder",
+          "1 teaspoon italian seasoning",
+          "¼ teaspoon salt",
+          "¼ teaspoon pepper",
+          "1 cup grated parmesan cheese"
+      ],
+      "directions": [
+          "In a medium saucepan add butter, heavy whipping cream, and cream cheese. Cook over medium heat and whisk until melted.",
+          "Add the minced garlic, garlic powder, italian seasoning, salt and pepper. Continue to whisk until smooth. Add the grated parmesan cheese.",
+          "Bring to a simmer and continue to cook for about 3-5 minutes or until it starts to thicken. Toss it with your favorite pasta!"
+      ]
+  },
+  {
+      "title": "Baileys Irish Cream Brownies",
+      "ingredients": [
+          "1 Boxed Fudge Brownie Mix 9x13 size plus box indicated ingredients or your favorite homemade brownies",
+          "¾ cup unsalted butter , softened",
+          "⅓ cup Baileys Irish Cream",
+          "3 cups powdered sugar",
+          "¾ cup semi-sweet chocolate chips",
+          "2 tablespoons heavy cream",
+          "½ cup Baileys Irish Cream"
+      ],
+      "directions": [
+          "Prepare brownies according to package directions. Cool completely.",
+          "Beat butter on medium speed until fluffy. Add in Baileys and mix well.",
+          "Add powdered sugar a little at a time until completely incorporated. Beat until soft and fluffy.",
+          "Spread over brownies and refrigerate while making the Baileys ganache.",
+          "Combine Baileys and heavy cream in a sauce pan over medium high heat. Bring just to a boil and immediately pour over chocolate chips. Let sit 5 minutes without stirring.",
+          "Whisk until smooth and spread over frosted brownies. Let sit at room temperature about 30 minutes. Refrigerate until set."
+      ]
+  },
+  {
       "title": "Beef Rice-A-Roni",
       "ingredients": [
           "1 cup regular long grain rice not instant",
@@ -18,6 +57,32 @@
           "In a large skillet, melt 2 Tbsp butter. Add broken pasta and rice. Cook until lightly brown.",
           "Add remaining ingredients. Bring to a boil. Reduce heat to low and cover.",
           "Cook 15-20 minutes, stirring occasionally, until water is absorbed."
+      ]
+  },
+  {
+      "title": "Black Beans",
+      "ingredients": [
+          "1 1/2 cup dried black beans picked over, rinsed, soaked, and rinsed again.",
+          "1 bay leaves",
+          "1/4 cup coconut oil avocado oil or ghee",
+          "1 1/2 cups minced yellow onion",
+          "2 cups diced bell pepper",
+          "1 1/2 tablespoon ground cumin",
+          "1 tablespoon dry oregano",
+          "5 cloves garlic minced (or 1 teaspoon garlic powder), or to taste",
+          "1/4 cup tomato paste",
+          "5 cups broth",
+          "cayenne to taste optional",
+          "salt and pepper to taste"
+      ],
+      "directions": [
+          "Combine all ingredients EXECPT FOR SALT in your Instant Pot. Stir a few times to mix.",
+          "Place the lid on the Instant Pot, lock in place and turn the valve to sealing.",
+          "Select the MANUAL setting and use the +/- buttons to set cook time for 9 minutes on HIGH pressure. It will take your pressure cooker about 10 minutes to get up to pressure. This is normal.",
+          "Once the beans are done cooking, allow the pressure to naturally release for 15 minutes before quick releasing the remaining pressure.",
+          "Remove bay leaves. Stir in salt to taste.",
+          "Drain some (or alof the cooking liquid off of beans. How much you drain off is up to you. If you plan on enjoying all of the beans right away, feel free to remove as much of the liquid as you like. However, if you plan to store these beans, I recommend saving some to help the beans from becoming to dry in the fridge. Or keep all the cooking liquid in and enjoy the beans as a soup!",
+          "Store leftovers in fridge from up to a week or in freezer for months to come!"
       ]
   },
   {
@@ -95,6 +160,41 @@
       ]
   },
   {
+      "title": "Cottage pie",
+      "ingredients": [
+          "3 tbsp olive oil",
+          "1¼ kg beef mince",
+          "2 onions, finely chopped",
+          "3 carrots, chopped",
+          "3 celery sticks, chopped",
+          "2 garlic cloves, finely chopped",
+          "3 tbsp plain flour",
+          "1 tbsp tomato purée",
+          "large glass red wine (optional)",
+          "850ml beef stock",
+          "4 tbsp Worcestershire sauce",
+          "few thyme sprigs",
+          "2 bay leaves",
+          "1.8kg potatoes, chopped",
+          "225ml milk",
+          "25g butter",
+          "200g strong cheddar, grated",
+          "freshly grated nutmeg"
+      ],
+      "directions": [
+          "Heat 1 tbsp olive oil in a large saucepan and fry 1¼ kg beef mince until browned – you may need to do this in batches. Set aside as it browns.",
+          "Put the other 2 tbsp olive oil into the pan, add 2 finely chopped onions, 3 chopped carrots and 3 chopped celery sticks and cook on a gentle heat until soft, about 20 mins.",
+          "Add 2 finely chopped garlic cloves, 3 tbsp plain flour and 1 tbsp tomato purée, increase the heat and cook for a few mins, then return the beef to the pan.",
+          "Pour over a large glass of red wine, if using, and boil to reduce it slightly before adding the 850ml beef stock, 4 tbsp Worcestershire sauce, a few thyme sprigs and 2 bay leaves.",
+          "Bring to a simmer and cook, uncovered, for 45 mins. By this time the gravy should be thick and coating the meat. Check after about 30 mins – if a lot of liquid remains, increase the heat slightly to reduce the gravy a little. Season well, then discard the bay leaves and thyme stalks.",
+          "Meanwhile, make the mash. In a large saucepan, cover the 1.8kg potatoes which you've peeled and chopped, in salted cold water, bring to the boil and simmer until tender.",
+          "Drain well, then allow to steam-dry for a few mins. Mash well with the 225ml milk, 25g butter, and three-quarters of the 200g strong cheddar cheese, then season with freshly grated nutmeg and some salt and pepper.",
+          "Spoon the meat into 2 ovenproof dishes. Pipe or spoon on the mash to cover. Sprinkle on the remaining cheese.",
+          "If eating straight away, heat oven to 220C/200C fan/gas 7 and cook for 25-30 mins, or until the topping is golden.",
+          "If you want to use a slow cooker, brown your mince in batches then tip into your slow cooker and stir in the vegetables, flour, purée, wine, stock, Worcestershire sauce and herbs with some seasoning. Cover and cook on High for 4-5 hours. Make the mash following the previous steps, and then oven cook in the same way to finish."
+      ]
+  },
+  {
       "title": "Creamy Parmesan Garlic Mushroom Chicken",
       "ingredients": [
           "4 boneless skinless chicken breasts, thinly sliced",
@@ -142,6 +242,23 @@
       ]
   },
   {
+      "title": "Fried Cabbage",
+      "ingredients": [
+          "5-6  thick bacon strips Cut into small pieces",
+          "1/3 cup onion Finely chopped",
+          "1/2  head green cabbage shredded or roughly chopped",
+          "Salt To taste",
+          "Pepper To taste",
+          "1/4 tsp Smoked paprika"
+      ],
+      "directions": [
+          "Cook bacon in a non-stick pan over medium heat until crisp. Use a slotted spatula to remove the bacon and place it on plate. Do not discard the bacon grease and drippings!",
+          "In the same pan, add onion and cook until translucent.",
+          "Add cabbage, salt, pepper, paprika and mix everything together. Cook for about 7 minutes or until cabbage is tender.",
+          "Add bacon back into the pan and mix it together with the cabbage and serve warm."
+      ]
+  },
+  {
       "title": "German Apple-Almond Cake",
       "ingredients": [
           "4 medium apples",
@@ -184,6 +301,29 @@
           "in a crock pot add chicken, enchilada sauce and broth and cook on low for 6-8 hours",
           "30 minutes before serving, shred chicken, add cheeses, half n half, salsa verde",
           "stir until cheeses are melted"
+      ]
+  },
+  {
+      "title": "Homemade Green Enchilada Sauce",
+      "ingredients": [
+          "2 tablespoons oil",
+          "1/2 cup finely chopped onion",
+          "1-2 garlic cloves, finely minced",
+          "3 tablespoons flour",
+          "1/4 teaspoon cumin",
+          "1/4 teaspoon black pepper",
+          "1 1/2 cups low-sodium chicken or vegetable broth",
+          "1 cup Anaheim or poblano chiles, roasted and peeled OR 1 cup canned diced green chiles, rinsed and drained",
+          "1/4 teaspoon dried oregano",
+          "1/2 teaspoon salt",
+          "1 medium jalapeno, finely diced (optional)"
+      ],
+      "directions": [
+          "In a medium saucepan, heat the oil over medium heat until hot. Add the onion and garlic and cover. Cook for 5-6 minutes, stirring once or twice to make sure the garlic and onions aren't sticking (adjust the heat if they are). Cook until the onions are soft but not browned.",
+          "Stir in the flour and cook for 2-3 minutes, stirring constantly. It's ok if the flour clumps around the onions, just keep stirring to let the flour get golden and toasty.",
+          "Gradually add the broth, whisking quickly and constantly to smooth out any lumps.",
+          "Add all the remaining ingredients and bring to a boil. Reduce the heat to low and simmer for 30 minutes, stirring occasionally. The sauce should be silky and thickened - able to coat a spoon but still drip off. Add more broth to thin out if needed.",
+          "Add additional salt to taste, if needed. The sauce can be processed in a blender if you prefer a smoother consistency. It will keep well in the fridge for up to 2 weeks. Otherwise, it can be frozen - probably up to a month or two if well sealed."
       ]
   },
   {
@@ -581,25 +721,6 @@
       ]
   },
   {
-      "title": "The Best Homemade Alfredo Sauce Ever!",
-      "ingredients": [
-          "½ cup butter",
-          "1 pint heavy whipping cream 2 cups",
-          "4 ounces cream cheese",
-          "½ teaspoon minced garlic",
-          "1 teaspoon garlic powder",
-          "1 teaspoon italian seasoning",
-          "¼ teaspoon salt",
-          "¼ teaspoon pepper",
-          "1 cup grated parmesan cheese"
-      ],
-      "directions": [
-          "In a medium saucepan add butter, heavy whipping cream, and cream cheese. Cook over medium heat and whisk until melted.",
-          "Add the minced garlic, garlic powder, italian seasoning, salt and pepper. Continue to whisk until smooth. Add the grated parmesan cheese.",
-          "Bring to a simmer and continue to cook for about 3-5 minutes or until it starts to thicken. Toss it with your favorite pasta!"
-      ]
-  },
-  {
       "title": "Tomatillo Salsa Verde",
       "ingredients": [
           "1 pound tomatillos, husked",
@@ -630,6 +751,23 @@
       "directions": [
           "Place tomatoes and juice in a stock pot over medium heat. Simmer for 30 minutes. Puree the tomato mixture along with the basil leaves, and return the puree to the stock pot.",
           "Place the pot over medium heat, and stir in the heavy cream and butter. Season with salt and pepper. Heat, stirring until the butter is melted. Do not boil."
+      ]
+  },
+  {
+      "title": "Tzatziki",
+      "ingredients": [
+          "1/2 of a large cucumber, unpeeled",
+          "1 1/2 cups plain full-fat Greek yogurt",
+          "2 large garlic cloves, finely minced",
+          "2 tablespoons extra virgin olive oil",
+          "1 tablespoon white vinegar",
+          "1/2 teaspoon salt",
+          "1 tablespoon minced fresh dill"
+      ],
+      "directions": [
+          "Grate the cucumber and drain through a fine mesh sieve overnight in the fridge.",
+          "Combine the yogurt, garlic, oil, vinegar, and salt in a large bowl. Cover and refrigerate overnight.",
+          "Transfer the grated cucumber and fresh dill to the yogurt mixture and stir to combine. Serve chilled with pita bread for dipping."
       ]
   },
   {
