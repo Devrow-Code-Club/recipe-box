@@ -17,6 +17,8 @@
     if(document.querySelector('body.recipe-template-default')) return buildRecipeCard('.recipe-title', '.recipe-ingredients__list li', '.recipe-directions__list .recipe-directions__item')
     if(document.querySelector('.mv-recipe-card')) return buildRecipeCard('.mv-create-title-primary', '.mv-create-ingredients li', '.mv-create-instructions li')
     if(document.querySelector('.tasty-recipes')) return buildRecipeCard('.tasty-recipes-title', '.tasty-recipes-ingredients-body li', '.tasty-recipes-instructions-body li')
+    if(document.querySelector('.structured-project-content')) return buildRecipeCard('.recipe-block__header', '.structured-ingredients__list-item', '.section--instructions li')
+
     return {"message": "Could not extract recipe."};
   }
   const recipeJSON = JSON.stringify(pullRecipeCard(), null, 2);
