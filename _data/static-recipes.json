@@ -444,7 +444,7 @@
         ]
     },
     {
-        "title": "Homemade Green Enchilada Sauce",
+        "title": "Green Enchilada Sauce",
         "ingredients": [
             "2 tablespoons oil",
             "1/2 cup finely chopped onion",
@@ -467,7 +467,7 @@
         ]
     },
     {
-        "title": "Homemade Hamburger Helper",
+        "title": "Hamburger Helper",
         "ingredients": [
             "1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tpound (500g)\n\t\t\t\t\t\t\t\t\t\tlean ground beef",
             "1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsmall onion, finely chopped",
@@ -487,7 +487,21 @@
             "Stir in the milk, broth, macaroni and tomato sauce. Bring to a boil, cover and reduce heat to a simmer. Cook for 10-12 minutes or until pasta is tender. Stir occasionally to prevent sticking.",
             "Stir in cheddar cheese until melted."
         ]
-    },
+    },{
+        "title": "Hollandaise Sauce",
+        "ingredients": [
+          "2 tbsp (30 mL) lemon juice",
+          "1 tbsp (15 mL) water",
+          "3   egg yolks",
+          "1   stick (½ cup/125 mL) butter, cold, cubed",
+          "¼ tsp (1 mL) salt",
+          "1   stick (½ cup/125 mL) butter, cold, cubed"
+        ],
+        "directions": [
+          "Add the first stage ingredients, in the order listed, to the Deluxe Cooking Blender. Replace and lock the lid. Turn the wheel to select the SAUCE setting; press the wheel to start.",
+          "When prompted to “Add”, press CANCEL. Add the butter and press PULSE until combined."
+        ]
+      },
     {
         "title": "Hungarian Mushroom Soup",
         "ingredients": [
@@ -513,7 +527,7 @@
         ]
     },
     {
-        "title": "Instant Pot Honey Garlic Chicken",
+        "title": "Honey Garlic Chicken",
         "ingredients": [
             "1/3 cup honey",
             "4 cloves garlic, minced",
