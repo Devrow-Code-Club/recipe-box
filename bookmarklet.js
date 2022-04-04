@@ -20,6 +20,7 @@
     if(document.querySelector('.tasty-recipes')) return buildRecipeCard('.tasty-recipes-title', '.tasty-recipes-ingredients-body li', '.tasty-recipes-instructions-body li')
     if(document.querySelector('.structured-project-content')) return buildRecipeCard('.recipe-block__header', '.structured-ingredients__list-item', '.section--instructions li')
     if(document.querySelector('[data-app="tasty_ui"]')) return buildRecipeCard('.recipe-name', '.ingredient', '.prep-steps li')
+    if(document.querySelector('.tabtitle')) return buildRecipeCard('.tabtitle', '.ingredient', '.instruction')
     
     return {"message": "Could not extract recipe."};
   }
