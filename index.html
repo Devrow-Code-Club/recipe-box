@@ -36,16 +36,20 @@
       margin-block-end: 0;
       padding-inline-start:0;
       width:100%;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(135px, 1fr));
     }
     a {
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      height: max(50px, 2em);
-      width:100%;
-      background-color:#dfdfdf;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      background-color: #dfdfdf;
       text-decoration: none;
-      color:#333;
+      color: #333;
+      aspect-ratio: 1 / 1;
+      text-align: center;
+      padding: 4px;
     }
     a:nth-child(even) {
       background-color: #333;
