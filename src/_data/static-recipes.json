@@ -211,7 +211,8 @@
       "Meanwhile, chop the basil with the Coated Utility Knife. Process the croutons in the Manual Food Processor until finely chopped. Remove the blade and add the Parmesan cheese. Stir with the Small Mix ‘N Scraper® to combine.",
       "Remove the pan from the heat. Stir in the cream cheese and basil until blended. Sprinkle the crouton mixture evenly over the pasta. Place the pan 2\"–4\" (5–10 cm) from the heating element. Broil for 1–2 minutes, or until the top is golden brown."
     ]
-  },{
+  },
+  {
     "title": "Chicken Shawarma (Air-Fried)",
     "source": "https://bluejeanchef.com/recipes/chicken-shawarma-wrap/",
     "meal": "dinner",
@@ -229,7 +230,7 @@
       "1½ pounds boneless chicken breast about 3 chicken breasts"
     ],
     "directions": [
-      "Combine the the olive oil, garlic, lemon juice, and spices in a small bowl, whisking well.", 
+      "Combine the the olive oil, garlic, lemon juice, and spices in a small bowl, whisking well.",
       "Cut the chicken breasts in half lengthwise. Place the chicken in a zipper sealable plastic bag and add the marinade. Massage the chicken in the bag to coat all sides of the chicken with the marinade. Marinate the chicken in the refrigerator for 6 hours, or as long as overnight.",
       "Pre-heat the air fryer to 380°F.",
       "Transfer the marinated chicken breasts to the air fryer basket and air-fry at 380ºF for 8 to 10 minutes, flipping the chicken over halfway through the cooking process."
@@ -421,6 +422,31 @@
     ]
   },
   {
+    "title": "Egg Roll in a Bowl",
+    "source": "https://www.theseasonedmom.com/egg-roll-in-a-bowl/#recipe",
+    "meal": "dinner",
+    "ingredients": [
+      "1 lb. ground pork",
+      "1 sweet onion, diced",
+      "1 tablespoon sesame oil",
+      "1 tablespoon rice vinegar",
+      "2 teaspoons minced fresh garlic",
+      "1 teaspoon ground ginger",
+      "¼ cup less sodium soy sauce",
+      "1 (16 ounce) bag coleslaw mix",
+      "½ cup grated or “matchstick” carrots",
+      "2 green onions, thinly sliced",
+      "Salt and pepper, to taste",
+      "1  tablespoon hoisin sauce (optional, but recommended)"
+    ],
+    "directions": [
+      "Heat a large skillet over medium-high heat. Add ground meat and cook, stirring, until no longer pink. Drain; return meat to skillet.",
+      "Add diced onion, sesame oil, and rice vinegar to the skillet. Cook, stirring, for a few more minutes (until onion is tender).",
+      "Add garlic, ginger, soy sauce, hoisin sauce (optional), coleslaw mix, and carrots to the skillet. Cook, stirring, for about 5-7 more minutes, or until cabbage is wilted.",
+      "Remove skillet from the heat. Stir in green onions and season with salt and pepper, to taste."
+    ]
+  },
+  {
     "title": "Elote Grilled Mexican Corn Salad",
     "meal": "side",
     "ingredients": [
@@ -480,7 +506,8 @@
       "Add cabbage, salt, pepper, paprika and mix everything together. Cook for about 7 minutes or until cabbage is tender.",
       "Add bacon back into the pan and mix it together with the cabbage and serve warm."
     ]
-  },{
+  },
+  {
     "title": "Frikadellen",
     "source": "https://www.daringgourmet.com/frikadeller-frikadellen/#recipe",
     "meal": "dinner",
@@ -892,7 +919,7 @@
       "Heat 1/4 inch oil in the bottom of a heavy skillet over medium-high heat. Drop two or three 1/4-cup mounds of batter into hot oil, and flatten with back of a spatula to make 1/2-inch-thick pancakes. Fry, turning pancakes once, until golden brown.",
       "Transfer pancakes to a plate lined with a paper towel to drain. Keep warm in the oven until serving. Repeat until all potato mixture is used."
     ]
-  },  
+  },
   {
     "title": "Pot Roast Hash",
     "meal": "dinner",
@@ -1235,6 +1262,33 @@
       "Deglaze the pan that you browned the meat in with by adding the beef consomme and scrapping up any brown bits. Add to the slow cooker on top of the beef.",
       "Add the remaining ingredients, stir.",
       "Place the lid on the slow cooker. Cook on LOW for 7 hours or HIGH for 4 hours with out opening the lid during the cooking time."
+    ]
+  },
+  {
+    "title": "Thai Peanut Chicken (Air Fryer)",
+    "source": "https://twosleevers.com/thai-peanut-chicken/",
+    "meal": "dinner",
+    "ingredients": [
+      "▢ 1 pound   Bone-in Skin-on Chicken Thighs",
+      "▢ 1/4 cup   Creamy Peanut Butter",
+      "▢ 1 tablespoon   Sriracha Sauce, (adjust for your spice needs)",
+      "▢ 1 tablespoon   Soy Sauce",
+      "▢ 2 tablespoons   Thai sweet chili sauce",
+      "▢ 2 tablespoons   lime juice",
+      "▢ 1 teaspoon   Minced Garlic",
+      "▢ 1 teaspoon   Minced Ginger",
+      "▢ 1/2 teaspoon   Kosher Salt, to taste",
+      "▢ 1/2 cup   hot water",
+      "▢ 5-6 teaspoons   Cilantro, finely chopped",
+      "▢ 1/4 cup   Chopped Green Scallions",
+      "▢ 2-3 tablespoons   crushed peanuts"
+    ],
+    "directions": [
+      "Mix together peanut butter, sriracha, soy sauce, sweet chili sauce, lime juice, and salt. Pour in the hot water and mix until you have a smooth mixture.",
+      "Place the chicken in a zip-top bag. Pour in half of the sauce and mix until the chicken is well coated. If you have the time, allow the chicken to marinate for 30 minutes or up to 24 hours in the refrigerator.",
+      "Remove the chicken from the bag, bringing with it as much of the marinade as you can. Place the coated chicken in the air fryer basket.",
+      "Set the air fryer to 350F for 20-22 minutes or until the chicken thighs are heated 165F at their thickest part.",
+      "Garnish with cilantro, onion, and peanuts. Serve with the rest of the sauce for dipping."
     ]
   },
   {
