@@ -30,7 +30,7 @@
     if(document.querySelector('[data-app="tasty_ui"]')) return buildRecipeCard('.recipe-name', '.ingredient', '.prep-steps li')
     if(document.querySelector('.tabtitle')) return buildRecipeCard('.tabtitle', '.ingredient', '.instruction')
     if(document.querySelector('body.post-template-default')) return buildRecipeCard('.post-title', '#css_fv_recipe_table td', '#css_fv_recipe_method li')
-    if (document.querySelector(".post .hentry")) return buildRecipeCard(".post-title", "li.ingredient", ".instructions > div > div");
+    if (document.querySelector(".post.hentry")) return buildRecipeCard(".post-title", "li.ingredient", ".instructions > div > div");
       return { message: "Could not extract recipe." };
   }
   const recipe = pullRecipeCard();
