@@ -37,5 +37,6 @@ export const globalStyles = css`
     border: none;
     background: none;
     flex-grow: 1;
+    cursor: pointer;
   }
 `;
