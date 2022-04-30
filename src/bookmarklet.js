@@ -1,20 +1,25 @@
 (_ => { 
   const replacers = ["▢","\n","\t"];
-  const replacerRegex = new RegExp(replacers.join("|"), 'gi')
+  const replacerRegex = new RegExp(replacers.join("|"), 'gi');
+  function santize(x) {
+    return x.replace(replacerRegex, "").trim()
+  }
   function extractContent(nodes) {
     return Array.from(nodes)
-      .map((n) => n.textContent.replace(replacerRegex, "").trim())
+      .map((n) => santize(n.textContent))
       .filter((n) => n);
   }
   function buildRecipeCard(titleSelector, ingredientSelector, directionSelector) {
     const meal = prompt("meal type:", "dinner");
     return {
-      title: document.querySelector(titleSelector).textContent,
+      title: santize(document.querySelector(titleSelector).textContent),
       source: window.location.href,
       meal,
-      ingredients: extractContent(document.querySelectorAll(ingredientSelector)),
-      directions: extractContent(document.querySelectorAll(directionSelector))
-    }
+      ingredients: extractContent(
+        document.querySelectorAll(ingredientSelector)
+      ),
+      directions: extractContent(document.querySelectorAll(directionSelector)),
+    };
   }
   function pullRecipeCard() {
     if(document.querySelector('.easyrecipe')) return buildRecipeCard('.ERSName', '.ingredient', '.instruction');
