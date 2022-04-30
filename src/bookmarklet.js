@@ -1,6 +1,10 @@
 (_ => { 
+  const replacers = ["▢","\n","\t"];
+  const replacerRegex = new RegExp(replacers.join("|"), 'gi')
   function extractContent(nodes) {
-    return Array.from(nodes).map(n => n.textContent.trim()).filter(n => n)
+    return Array.from(nodes)
+      .map((n) => n.textContent.replace(replacerRegex, "").trim())
+      .filter((n) => n);
   }
   function buildRecipeCard(titleSelector, ingredientSelector, directionSelector) {
     const meal = prompt("meal type:", "dinner");
