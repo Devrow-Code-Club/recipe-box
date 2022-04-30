@@ -30,6 +30,8 @@
     return {"message": "Could not extract recipe."};
   }
   const recipeJSON = JSON.stringify(pullRecipeCard(), null, 2);
-  console.log(recipeJSON);
-  document.body.innerHTML = `<pre>${recipeJSON}</pre>`;
+  document.body.innerHTML = `<pre>${recipeJSON}</pre><button id="copy">Copy</button>`;
+  document.querySelector('#copy').addEventListener('click', () => {
+    navigator.clipboard.writeText(recipeJSON);
+  })
 })()
