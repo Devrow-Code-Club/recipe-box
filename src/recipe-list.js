@@ -48,7 +48,7 @@ class RecipeList extends LitElement {
     fetch('/_data/static-recipes.json')
       .then(response => response.json())
       .then(recipes => {
-        this.recipes = recipes;
+        this.recipes = recipes.sort((a, b) => a.title > b.title ? -1 : 1);
       });
   }
 
