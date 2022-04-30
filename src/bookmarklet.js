@@ -5,6 +5,7 @@
   function buildRecipeCard(titleSelector, ingredientSelector, directionSelector) {
     return {
       title: document.querySelector(titleSelector).textContent,
+      source: window.location.href,
       ingredients: extractContent(document.querySelectorAll(ingredientSelector)),
       directions: extractContent(document.querySelectorAll(directionSelector))
     }

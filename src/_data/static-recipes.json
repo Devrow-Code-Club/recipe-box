@@ -214,6 +214,7 @@
   },{
     "title": "Chicken Shawarma (Air-Fried)",
     "source": "https://bluejeanchef.com/recipes/chicken-shawarma-wrap/",
+    "meal": "dinner",
     "ingredients": [
       "2 tablespoons olive oil",
       "2 garlic cloves minced",
@@ -445,6 +446,24 @@
     ]
   },
   {
+    "title": "French String Beans with Shallots",
+    "meal": "side",
+    "ingredients": [
+      "2 tablespoons extra virgin olive oil or unsalted butter",
+      "2  large shallots, thinly sliced",
+      "½ cup water",
+      "¾ pound (12 ounces) French string beans (haricots verts), trimmed",
+      "½ teaspoon salt",
+      "¼ teaspoon freshly ground black pepper",
+      "Pinch sugar"
+    ],
+    "directions": [
+      "Heat the oil in a large skillet over medium-low heat. Add the shallots and cook, stirring frequently, until soft and translucent, about 8 minutes. Do not brown.",
+      "Add the beans, salt, pepper and water; bring to a boil. Cover the skillet, reduce the heat to low, and cook for 8 minutes.",
+      "Remove the lid and increase the heat to high. Cook, stirring frequently, until the liquid is evaporated, the beans are tender, and the shallots are jammy, about 6 minutes. Taste and adjust the seasoning with salt, pepper, and a pinch of sugar. Serve warm."
+    ]
+  },
+  {
     "title": "Fried Cabbage",
     "meal": "side",
     "ingredients": [
@@ -464,6 +483,7 @@
   },{
     "title": "Frikadellen",
     "source": "https://www.daringgourmet.com/frikadeller-frikadellen/#recipe",
+    "meal": "dinner",
     "ingredients": [
       "1/2 pound ground beef",
       "1/2 pound ground pork",
