@@ -3,9 +3,11 @@
     return Array.from(nodes).map(n => n.textContent.trim()).filter(n => n)
   }
   function buildRecipeCard(titleSelector, ingredientSelector, directionSelector) {
+    const meal = prompt("meal type:", "dinner");
     return {
       title: document.querySelector(titleSelector).textContent,
       source: window.location.href,
+      meal,
       ingredients: extractContent(document.querySelectorAll(ingredientSelector)),
       directions: extractContent(document.querySelectorAll(directionSelector))
     }
