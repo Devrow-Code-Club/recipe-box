@@ -13,6 +13,7 @@ class RecipeList extends LitElement {
         section {
           display: grid;
           grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+          gap: 4px;
         }
         .recipe {
           text-align: center;
@@ -20,6 +21,9 @@ class RecipeList extends LitElement {
           flex-direction: column;
           justify-content: space-between;
           flex: 1;
+          box-shadow: black 2px 2px 4px;
+          border-radius: 4px;
+          overflow: hidden;
         }
         .actions {
           display: flex;
