@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "build": "wireit",
-    "inject-sw-manifest": "wireit",
     "build-sw": "wireit",
     "copy-index": "wireit",
     "copy-data": "wireit",
@@ -24,14 +23,8 @@
         "copy-bookmarklet"
       ]
     },
-    "inject-sw-manifest": {
-      "command": "workbox injectManifest"
-    },
     "build-sw": {
-      "command": "esbuild --bundle --format=esm --outdir=dist/ --taget=es2020 --minify src/sw.js",
-      "dependencies": [
-        "inject-sw-manifest"
-      ]
+      "command": "workbox injectManifest"
     },
     "copy-index": {
       "command": "cp src/index.html dist/index.html"
