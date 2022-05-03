@@ -46,6 +46,10 @@
   "bugs": {
     "url": "https://github.com/Devrow-Code-Club/recipe-box/issues"
   },
+  "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
+  },
   "homepage": "https://github.com/Devrow-Code-Club/recipe-box#readme",
   "devDependencies": {
     "wireit": "^0.3.1",
