@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "wireit",
+    "inject-sw-manifest": "wireit",
+    "build-sw": "wireit",
     "copy-index": "wireit",
     "copy-data": "wireit",
     "copy-bookmarklet": "wireit",
@@ -16,13 +18,20 @@
     "build": {
       "command": "esbuild --bundle --splitting --format=esm --outdir=dist/ --target=es2020 --minify src/index.js",
       "dependencies": [
+        "build-sw",
         "copy-index",
         "copy-data",
         "copy-bookmarklet"
       ]
     },
+    "inject-sw-manifest": {
+      "command": "workbox injectManifest"
+    },
     "build-sw": {
-      "command": "esbuild --bundle --format=esm --outdir=dist/ --taget=es2020 --minify src/sw.js"
+      "command": "esbuild --bundle --format=esm --outdir=dist/ --taget=es2020 --minify src/sw.js",
+      "dependencies": [
+        "inject-sw-manifest"
+      ]
     },
     "copy-index": {
       "command": "cp src/index.html dist/index.html"
@@ -45,7 +54,8 @@
   },
   "homepage": "https://github.com/Devrow-Code-Club/recipe-box#readme",
   "devDependencies": {
-    "wireit": "^0.3.1"
+    "wireit": "^0.3.1",
+    "workbox-cli": "^6.5.3"
   },
   "dependencies": {
     "@web/dev-server": "^0.1.30",
