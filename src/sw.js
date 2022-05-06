@@ -24,21 +24,21 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
     let requestUrl = event.request.url;
-    if (requestUrl === `${location.origin}/`) requestUrl = new URL(`${location.origin}/index.html`);
-      if (Object.keys(precacheManifold).includes(requestUrl))
-        event.respondWith(
-          (async () => {
-            const cache = await caches.open(PRECACHE);
-            const entry = precacheManifold[requestUrl];
-            if(!entry) {
-                console.log(requestUrl);
-                return fetch(requestUrl);
-            }
-            const url = entryToUrl(entry);
-            const match = cache.match(url);
-            return match || fetch(requestUrl);
-          })()
-        );
+    if (requestUrl === `${location.origin}/`) requestUrl = new URL(`${location.origin}/index.html`).toString();
+    if (Object.keys(precacheManifold).includes(requestUrl))
+    event.respondWith(
+        (async () => {
+        const cache = await caches.open(PRECACHE);
+        const entry = precacheManifold[requestUrl];
+        if(!entry) {
+            console.log(requestUrl);
+            return fetch(requestUrl);
+        }
+        const url = entryToUrl(entry);
+        const match = cache.match(url);
+        return match || fetch(requestUrl);
+        })()
+    );
     console.log('nope', requestUrl, precacheManifold)
     return fetch(requestUrl);
 })
