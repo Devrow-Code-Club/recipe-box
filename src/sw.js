@@ -1,4 +1,5 @@
 const PRECACHE = 'precache';
+const CACHE = 'cache';
 const precacheManifest = (self.__WB_MANIFEST);
 const entryToUrl = ({ url, revision }) => new URL(`${location.origin}/${url}?v=${revision}`).toString();
 const precacheManifold = Object.fromEntries(precacheManifest.map(entry => [new URL(`${location.origin}/${entry.url}`).toString(), entryToUrl(entry)]));
@@ -22,19 +23,23 @@ self.addEventListener('activate', event => {
     })());
 });
 
-self.addEventListener('fetch', event => {
+self.addEventListener('fetch', async event => {
     let requestUrl = event.request.url;
     if (requestUrl === `${location.origin}/`) requestUrl = new URL(`${location.origin}/index.html`).toString();
     if (Object.keys(precacheManifold).includes(requestUrl))
-    event.respondWith(
-        (async () => {
-        const cache = await caches.open(PRECACHE);
-        const url = precacheManifold[requestUrl];
-        if(!url) return fetch(requestUrl);
-        const match = await cache.match(url);
-        return match;
-        })()
-    );
-    console.log('nope', requestUrl, precacheManifold)
-    return fetch(requestUrl);
+        return event.respondWith(
+            (async () => {
+            const cache = await caches.open(PRECACHE);
+            const url = precacheManifold[requestUrl];
+            if(!url) return fetch(requestUrl);
+            const match = await cache.match(url);
+            return match;
+            })()
+        );  
+    const cache = caches.open(CACHE);
+    const match = await cache.match(event.request);
+    if(match) return event.responseWith(match);
+    const response = await fetch(requestUrl);
+    cache.put(response.clone());
+    return event.respondWith(response);
 })
