@@ -59,19 +59,19 @@ self.addEventListener("fetch", (event) => {
     );
     }
     console.log("cache check", requestUrl);
-    event.waitUntil(
+    event.respondWith(
       (async () => {
         const cache = await caches.open(CACHE);
         const match = await cache.match(requestUrl);
         if (match) {
           console.log("match found, cache response", match);
-          return event.respondWith(match);
+          return match;
         }
 
         const response = await fetch(requestUrl);
         cache.put(requestUrl, response.clone());
         console.log("match not found, caching -> network response", requestUrl);
-        return event.respondWith(response);
+        return response;
       })()
     );
 });
