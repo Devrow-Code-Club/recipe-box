@@ -1,7 +1,7 @@
 const PRECACHE = 'precache';
 const precacheManifest = (self.__WB_MANIFEST);
 const entryToUrl = ({ url, revision }) => new URL(`${location.origin}/${url}?v=${revision}`).toString();
-const precacheManifold = precacheManifest.map(entry => [new URL(`${location.origin}/${entry.url}`).toString(), entryToUrl(entry)]);
+const precacheManifold = Object.fromEntries(precacheManifest.map(entry => [new URL(`${location.origin}/${entry.url}`).toString(), entryToUrl(entry)]));
 
 self.addEventListener('install', event => {
     console.log('installing');
@@ -39,5 +39,6 @@ self.addEventListener('fetch', event => {
             return match || fetch(requestUrl);
           })()
         );
+    console.log('nope', requestUrl, precacheManifold)
     return fetch(requestUrl);
 })
