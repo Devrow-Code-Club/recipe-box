@@ -1,5 +1,5 @@
 (_ => { 
-  const replacers = ["▢","\n","\t"];
+  const replacers = ["▢", "\n", "\t", " "];
   const replacerRegex = new RegExp(replacers.join("|"), 'gi');
   function santize(x) {
     return x.replace(replacerRegex, "").trim()
