@@ -2,7 +2,7 @@ const PRECACHE = 'precache';
 const precacheManifest = (self.__WB_MANIFEST);
 const entryToUrl = ({ url, revision }) => `${url}?v=${revision}`;
 const precacheUrls = precacheManifest.map((entry) => entryToUrl(entry));
-const cleanPrecacheUrls = precacheManifest.map(({url}) => url);
+const cleanPrecacheUrls = precacheManifest.map(({url}) => (new URL(url)).toString());
 
 self.addEventListener('install', event => {
     console.log('installing');
@@ -17,8 +17,9 @@ self.addEventListener('activate', event => {
         const cache = await caches.open(PRECACHE);
         const urls = (await cache.keys()).map(request => new URL(request.url));
         urls.forEach(url => {
-            if(precacheUrls.includes(`${url.pathname}${url.search}`)) return;
-            cache.delete(url);
+            const urlPath = `${url.pathname}${url.search}`;
+            console.log(urlPath, precacheUrls);
+            if(!precacheUrls.includes(urlPath)) cache.delete(url);
         })
     })());
 });
