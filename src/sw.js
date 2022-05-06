@@ -34,7 +34,8 @@ self.addEventListener('fetch', event => {
             const url = entryToUrl(
               precacheManifest.find((entry) => entry.url === requestUrl)
             );
-            return cache.match(url);
+            const match = cache.match(url);
+            return match || fetch(requestUrl);
           })()
         );
 })
