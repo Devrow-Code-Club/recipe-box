@@ -29,10 +29,12 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
     event.waitUntil(async () => {
+    console.log('fetch request');
       let requestUrl = event.request.url;
       if (requestUrl === `${location.origin}/`)
         requestUrl = new URL(`${location.origin}/index.html`).toString();
       if (Object.keys(precacheManifold).includes(requestUrl))
+        console.log('precache response');
         return event.respondWith(
           (async () => {
             const cache = await caches.open(PRECACHE);
@@ -42,11 +44,16 @@ self.addEventListener('fetch', event => {
             return match;
           })()
         );
+    console.log('cache check')
       const cache = await caches.open(CACHE);
       const match = await cache.match(requestUrl);
-      if (match) return event.respondWith(match);
+      if (match) {
+          console.log('match found, cache response')
+          return event.respondWith(match);
+      }
       const response = await fetch(requestUrl);
       cache.put(requestUrl, response.clone());
+      console.log('match not found, caching -> network response');
       return event.respondWith(response);
     });
 })
