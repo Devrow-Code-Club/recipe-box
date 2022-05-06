@@ -8,12 +8,16 @@ self.addEventListener('install', event => {
     console.log('installing');
     event.waitUntil((async () => {
         const cache = await caches.open(PRECACHE);
-        return Promise.all(precacheManifest.map(entry => cache.add(entryToUrl(entry)))).then(() => console.log('done install'));
+        return Promise.all(precacheManifest.map(entry => cache.add(entryToUrl(entry)))).then(() => {
+            console.log('done install');
+            self.skipWaiting();
+        });
     })());
 });
 
 self.addEventListener('activate', event => {
     event.waitUntil((async () => {
+        self.clients.claim();
         const cache = await caches.open(PRECACHE);
         const urls = (await cache.keys()).map(request => new URL(request.url).toString());
         const precacheUrls = Object.values(precacheManifold);
