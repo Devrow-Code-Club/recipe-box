@@ -25,10 +25,16 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-    console.log(event.request);
-    if(cleanPrecacheUrls.includes(event.request.url)) event.respondWith((async () => {
-        const cache = await caches.open(PRECACHE);
-        const url = entryToUrl(precacheManifest.find(entry => entry.url === event.request.url));
-        return cache.match(url);
-    })());
+    let requestUrl = event.request.url;
+    if (requestUrl === location.href) requestUrl = new URL(`${location.origin}/index.html`);
+      if (cleanPrecacheUrls.includes(requestUrl))
+        event.respondWith(
+          (async () => {
+            const cache = await caches.open(PRECACHE);
+            const url = entryToUrl(
+              precacheManifest.find((entry) => entry.url === requestUrl)
+            );
+            return cache.match(url);
+          })()
+        );
 })
