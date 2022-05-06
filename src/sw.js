@@ -19,8 +19,7 @@ self.addEventListener('activate', event => {
         const cache = await caches.open(PRECACHE);
         const urls = (await cache.keys()).map(request => new URL(request.url).toString());
         urls.forEach(url => {
-            console.log(url, precacheUrls);
-            if(!precacheUrls.includes(urlPath)) cache.delete(url);
+            if(!precacheUrls.includes(url)) cache.delete(url);
         })
     })());
 });
