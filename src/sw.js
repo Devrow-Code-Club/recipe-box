@@ -38,7 +38,7 @@ self.addEventListener('fetch', async event => {
         );  
     const cache = await caches.open(CACHE);
     const match = await cache.match(requestUrl);
-    if(match) return event.responseWith(match);
+    if(match) return event.respondWith(match);
     const response = await fetch(requestUrl);
     cache.put(requestUrl, response.clone());
     return event.respondWith(response);
