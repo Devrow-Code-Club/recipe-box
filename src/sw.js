@@ -33,7 +33,7 @@ self.addEventListener('fetch', event => {
       let requestUrl = event.request.url;
       if (requestUrl === `${location.origin}/`)
         requestUrl = new URL(`${location.origin}/index.html`).toString();
-      if (Object.keys(precacheManifold).includes(requestUrl))
+      if (Object.keys(precacheManifold).includes(requestUrl)) {
         console.log('precache response');
         return event.respondWith(
           (async () => {
@@ -44,6 +44,7 @@ self.addEventListener('fetch', event => {
             return match;
           })()
         );
+      }
     console.log('cache check')
       const cache = await caches.open(CACHE);
       const match = await cache.match(requestUrl);
