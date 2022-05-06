@@ -35,8 +35,8 @@ self.addEventListener('fetch', event => {
             return fetch(requestUrl);
         }
         const url = entryToUrl(entry);
-        const match = cache.match(url);
-        return match || fetch(requestUrl);
+        const match = await cache.match(url);
+        return match;
         })()
     );
     console.log('nope', requestUrl, precacheManifold)
