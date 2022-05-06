@@ -29,12 +29,8 @@ self.addEventListener('fetch', event => {
     event.respondWith(
         (async () => {
         const cache = await caches.open(PRECACHE);
-        const entry = precacheManifold[requestUrl];
-        if(!entry) {
-            console.log(requestUrl);
-            return fetch(requestUrl);
-        }
-        const url = entryToUrl(entry);
+        const url = precacheManifold[requestUrl];
+        if(!url) return fetch(requestUrl);
         const match = await cache.match(url);
         return match;
         })()
