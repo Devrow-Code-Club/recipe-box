@@ -15,15 +15,16 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
     event.waitUntil((async () => {
         const cache = await caches.open(PRECACHE);
-        const urls = await cache.keys();
+        const urls = (await cache.keys()).map(request => new URL(request.url));
         urls.forEach(url => {
-            if(precacheUrls.includes(url)) return;
+            if(precacheUrls.includes(`${url.pathname}${url.search}`)) return;
             cache.delete(url);
         })
     })());
 });
 
 self.addEventListener('fetch', event => {
+    console.log(event.request);
     if(cleanPrecacheUrls.includes(event.request.url)) event.respondWith((async () => {
         const cache = await caches.open(PRECACHE);
         const url = entryToUrl(precacheManifest.find(entry => entry.url === event.request.url));
