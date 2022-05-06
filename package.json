@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "wireit",
-    "build-sw": "wireit",
+    "bundle": "wireit",
     "copy-index": "wireit",
     "copy-data": "wireit",
     "copy-bookmarklet": "wireit",
@@ -16,16 +16,16 @@
   },
   "wireit": {
     "build": {
-      "command": "esbuild --bundle --splitting --format=esm --outdir=dist/ --target=es2020 --minify src/index.js",
+      "command": "workbox injectManifest ./workbox-config.cjs",
       "dependencies": [
-        "build-sw",
+        "bundle",
         "copy-index",
         "copy-data",
         "copy-bookmarklet"
       ]
     },
-    "build-sw": {
-      "command": "workbox injectManifest ./workbox-config.cjs"
+    "bundle": {
+      "command": "esbuild --bundle --splitting --format=esm --outdir=dist/ --target=es2020 --minify src/index.js"
     },
     "copy-index": {
       "command": "cp src/index.html dist/index.html"
