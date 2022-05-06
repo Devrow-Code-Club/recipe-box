@@ -1,6 +1,9 @@
 const PRECACHE = 'precache';
 const precacheManifest = (self.__WB_MANIFEST);
-const entryToUrl = ({ url, revision }) => new URL(`/${url}?v=${revision}`).toString();
+const entryToUrl = ({ url, revision }) => {
+    console.log(`/${url}?v=${revision}`);
+    return new URL(`/${url}?v=${revision}`).toString()
+};
 const precacheUrls = precacheManifest.map((entry) => entryToUrl(entry));
 const cleanPrecacheUrls = precacheManifest.map(({url}) => (new URL(`/${url}`)).toString());
 
