@@ -1,3 +1,3 @@
-import { precacheAndRoute } from "https://cdn.jsdelivr.net/npm/workbox-precaching/build/workbox-precaching.prod.js";
+import "https://cdn.jsdelivr.net/npm/workbox-precaching/build/workbox-precaching.prod.js";
 
-precacheAndRoute(self.__WB_MANIFEST);
+this.workbox.precaching.precacheAndRoute(self.__WB_MANIFEST);
