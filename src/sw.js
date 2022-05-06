@@ -23,23 +23,26 @@ self.addEventListener('activate', event => {
     })());
 });
 
-self.addEventListener('fetch', async event => {
-    let requestUrl = event.request.url;
-    if (requestUrl === `${location.origin}/`) requestUrl = new URL(`${location.origin}/index.html`).toString();
-    if (Object.keys(precacheManifold).includes(requestUrl))
+self.addEventListener('fetch', event => {
+    event.waitUntil(async () => {
+      let requestUrl = event.request.url;
+      if (requestUrl === `${location.origin}/`)
+        requestUrl = new URL(`${location.origin}/index.html`).toString();
+      if (Object.keys(precacheManifold).includes(requestUrl))
         return event.respondWith(
-            (async () => {
+          (async () => {
             const cache = await caches.open(PRECACHE);
             const url = precacheManifold[requestUrl];
-            if(!url) return fetch(requestUrl);
+            if (!url) return fetch(requestUrl);
             const match = await cache.match(url);
             return match;
-            })()
-        );  
-    const cache = await caches.open(CACHE);
-    const match = await cache.match(requestUrl);
-    if(match) return event.respondWith(match);
-    const response = await fetch(requestUrl);
-    cache.put(requestUrl, response.clone());
-    return event.respondWith(response);
+          })()
+        );
+      const cache = await caches.open(CACHE);
+      const match = await cache.match(requestUrl);
+      if (match) return event.respondWith(match);
+      const response = await fetch(requestUrl);
+      cache.put(requestUrl, response.clone());
+      return event.respondWith(response);
+    });
 })
