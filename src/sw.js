@@ -28,7 +28,7 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-    event.waitUntil(async () => {
+    event.waitUntil((async () => {
     console.log('fetch request');
       let requestUrl = event.request.url;
       if (requestUrl === `${location.origin}/`)
@@ -55,5 +55,5 @@ self.addEventListener('fetch', event => {
       cache.put(requestUrl, response.clone());
       console.log('match not found, caching -> network response');
       return event.respondWith(response);
-    });
+    })());
 })
