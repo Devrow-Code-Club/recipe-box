@@ -26,7 +26,7 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
     let requestUrl = event.request.url;
-    if (requestUrl === location.href) requestUrl = new URL(`${location.origin}/index.html`);
+    if (requestUrl === `${location.origin}/`) requestUrl = new URL(`${location.origin}/index.html`);
       if (cleanPrecacheUrls.includes(requestUrl))
         event.respondWith(
           (async () => {
