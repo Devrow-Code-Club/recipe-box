@@ -1,8 +1,8 @@
 const PRECACHE = 'precache';
 const precacheManifest = (self.__WB_MANIFEST);
-const entryToUrl = ({ url, revision }) => `${url}?v=${revision}`;
+const entryToUrl = ({ url, revision }) => new URL(`/${url}?v=${revision}`).toString();
 const precacheUrls = precacheManifest.map((entry) => entryToUrl(entry));
-const cleanPrecacheUrls = precacheManifest.map(({url}) => (new URL(url)).toString());
+const cleanPrecacheUrls = precacheManifest.map(({url}) => (new URL(`/${url}`)).toString());
 
 self.addEventListener('install', event => {
     console.log('installing');
@@ -15,10 +15,9 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
     event.waitUntil((async () => {
         const cache = await caches.open(PRECACHE);
-        const urls = (await cache.keys()).map(request => new URL(request.url));
+        const urls = (await cache.keys()).map(request => new URL(request.url).toString());
         urls.forEach(url => {
-            const urlPath = `${url.pathname}${url.search}`;
-            console.log(urlPath, precacheUrls);
+            console.log(url, precacheUrls);
             if(!precacheUrls.includes(urlPath)) cache.delete(url);
         })
     })());
