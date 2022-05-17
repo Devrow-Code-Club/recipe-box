@@ -37,6 +37,12 @@
     if(document.querySelector('body.post-template-default')) return buildRecipeCard('.post-title', '#css_fv_recipe_table td, .ingredients li', '#css_fv_recipe_method li, .instructions li')
     if (document.querySelector(".post.hentry")) return buildRecipeCard(".post-title", "li.ingredient", ".instructions > div > div");
     if (document.querySelector(".o-Recipe")) return buildRecipeCard(".o-AssetTitle__a-HeadlineText",".o-Ingredients__a-Ingredient--CheckboxLabel",".o-Method__m-Step");
+    if (document.querySelector("h1.recipe-hed"))
+      return buildRecipeCard(
+        "h1.recipe-hed",
+        ".ingredient-item",
+        ".direction-lists li"
+      );
       return { message: "Could not extract recipe." };
   }
   const recipe = pullRecipeCard();
