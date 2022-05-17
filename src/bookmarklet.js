@@ -43,6 +43,13 @@
         ".ingredient-item",
         ".direction-lists li"
       );
+    if (document.querySelector(".itr-recipe-title h1"))
+      return buildRecipeCard(
+        ".itr-recipe-title h1",
+        ".itr-ingredients p",
+        ".itr-directions p"
+      );
+      
       return { message: "Could not extract recipe." };
   }
   const recipe = pullRecipeCard();
