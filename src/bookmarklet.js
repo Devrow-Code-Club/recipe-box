@@ -43,9 +43,9 @@
         ".ingredient-item",
         ".direction-lists li"
       );
-    if (document.querySelector(".itr-recipe-title h1"))
+    if (document.querySelector(".itr-recipe-title h2"))
       return buildRecipeCard(
-        ".itr-recipe-title h1",
+        ".itr-recipe-title h2",
         ".itr-ingredients p",
         ".itr-directions p"
       );
