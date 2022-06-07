@@ -113,7 +113,7 @@ class RecipeDisplay extends LitElement {
         )}
       </ol>
       <div>
-          ${until(this.nutrition, html`Nutrition Incoming`)}
+          ${until(this.nutrition(), html`Nutrition Incoming`)}
       </div>
       <button id="close" @click=${() => this.dispatchEvent(new CustomEvent('close-dialog'))}>
         ${closeIcon}
