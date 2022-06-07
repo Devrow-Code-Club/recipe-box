@@ -117,20 +117,22 @@ class RecipeDisplay extends LitElement {
           }]
         }
     */
-    this.nutritionPerIngredient = (await fetch(`https://api.calorieninjas.com/v1/nutrition?query=${query}`, {
+    const nutritionPerIngredient = await fetch(`https://api.calorieninjas.com/v1/nutrition?query=${query}`, {
       method: "GET",
       headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
       contentType: "application/json",
-    }).then((res) => res.json())).items.map(item => {
+    }).then((res) => res.json());
+    console.log(nutritionPerIngredient);
+    this.nutritionPerIngredient = nutritionPerIngredient.items.map((item) => {
       ingredientFractions.forEach((fraction, ingredient) => {
-        if (!ingredient.includes(item.name)) return item;
+        if (!ingredient.includes(item.name)) return;
         const itemKeys = Object.keys(item);
-        itemKeys.forEach(key => {
-          if(key === 'name') return;
+        itemKeys.forEach((key) => {
+          if (key === "name") return;
           item[key] *= fraction;
         });
-        return item;
       });
+      return item;
     });
     const overallNutrition = this.nutritionPerIngredient.reduce((accumulation, current) => {
       if(!accumulation) accumulation = {};
