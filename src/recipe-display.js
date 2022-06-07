@@ -45,7 +45,7 @@ class RecipeDisplay extends LitElement {
   }
 
   static get properties() {
-    return { recipe: Object };
+    return { recipe: Object, nutrition: Object, nutritionPerIngredient: Object };
   }
 
   constructor() {
@@ -57,7 +57,7 @@ class RecipeDisplay extends LitElement {
     target.parentElement.classList.toggle('strike');
   }
 
-  async nutrition() {
+  async _nutrition() {
     if(!this.recipe.ingredients) return;
     const { ingredients } = this.recipe;
     const query = ingredients.join(", ");
@@ -84,7 +84,7 @@ class RecipeDisplay extends LitElement {
       headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
       contentType: "application/json",
     }).then((res) => res.json());
-    const nutrition = this.nutritionPerIngredient.items.reduce((accumulation, current) => {
+    this.nutrition = this.nutritionPerIngredient.items.reduce((accumulation, current) => {
       if(!accumulation) accumulation = {};
       const keys = Object.keys(current);
       for(let key of keys) {
@@ -93,8 +93,9 @@ class RecipeDisplay extends LitElement {
       }
       return accumulation;
     }, {})
-    nutrition.name = this.recipe.title;
-    return html`<pre id='nutrition'>${JSON.stringify(nutrition, '', 2)}</pre>`;
+    this.nutrition.name = this.recipe.title;
+    return html`<pre id="nutrition">${JSON.stringify(this.nutrition, "", 2)}</pre
+    >`;
   }
 
   render() {
@@ -132,7 +133,7 @@ class RecipeDisplay extends LitElement {
             </li>`
         )}
       </ol>
-      <div>${until(this.nutrition(), html`Nutrition Incoming`)}</div>
+      <div>${until(this.nutrition, html`Nutrition Incoming`)}</div>
       <button
         id="close"
         @click=${() => this.dispatchEvent(new CustomEvent("close-dialog"))}
