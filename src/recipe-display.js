@@ -98,7 +98,7 @@ class RecipeDisplay extends LitElement {
       return accumulation;
     }, {})
     this.nutrition.name = this.recipe.title;
-    return html`<pre id="nutrition">${JSON.stringify(this.nutrition, "", 2)}</pre
+    this.nutrition= html`<pre id="nutrition">${JSON.stringify(this.nutrition, "", 2)}</pre
     >`;
   }
 
