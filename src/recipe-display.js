@@ -48,6 +48,18 @@ class RecipeDisplay extends LitElement {
         #close svg {
           fill: white;
         }
+        #nutrition {
+          display:flex;
+          flex-direction:column;
+        }
+        #nutrition div {
+          display:flex;
+          flex-direction:row;
+          justify-content:space-between;
+        }
+        #nutrition div[indented] {
+          padding-left: 8px;
+        }
       `,
     ];
   }
@@ -120,8 +132,6 @@ class RecipeDisplay extends LitElement {
       return [key, servingValue];
     }))
     this.nutrition.servings = servings;
-    this.nutrition= html`<pre id="nutrition">${JSON.stringify(this.nutrition, "", 2)}</pre
-    >`;
   }
 
   render() {
@@ -138,9 +148,14 @@ class RecipeDisplay extends LitElement {
                 />${ingredient}</label
               >
               <span class="budget"
-                >${until(Math.round(this.nutritionPerIngredient?.items?.find((item) =>
-                  ingredient.includes(item.name)
-                )?.serving_size_g), html`?`)}g</span
+                >${until(
+                  Math.round(
+                    this.nutritionPerIngredient?.items?.find((item) =>
+                      ingredient.includes(item.name)
+                    )?.serving_size_g
+                  ),
+                  html`?`
+                )}g</span
               >
             </li>`
         )}
@@ -159,7 +174,53 @@ class RecipeDisplay extends LitElement {
             </li>`
         )}
       </ol>
-      <div>${until(this.nutrition, html`Nutrition Incoming`)}</div>
+      <div id="nutrition">
+        ${this.nutrition
+          ? html`
+              <div>
+                <span>Service Size</span
+                ><span>${this.nutrition.serving_size_g}g</span>
+              </div>
+              <div>
+                <span>Servings per Recipe</span
+                ><span>${this.nutrition.servings}</span>
+              </div>
+              <div>
+                <span>Calories</span><span>${this.nutrition.calories}</span>
+              </div>
+              <div>
+                <span>Fat</span><span>${this.nutrition.fat_total_g}g</span>
+              </div>
+              <div indented>
+                <span>Saturated Fat</span><span>${this.nutrition.fat_saturated_g}g</span>
+              </div>
+              <div>
+                <span>Cholesterol</span
+                ><span>${this.nutrition.cholesterol_mg}mg</span>
+              </div>
+              <div>
+                <span>Sodium</span><span>${this.nutrition.sodium_mg}mg</span>
+              </div>
+              <div>
+                <span>Potassium</span
+                ><span>${this.nutrition.potassium_mg}mg</span>
+              </div>
+              <div>
+                <span>Carbs</span
+                ><span>${this.nutrition.carbohydrates_total_g}g</span>
+              </div>
+              <div indented>
+                <span>Sugar</span><span>${this.nutrition.sugar_g}g</span>
+              </div>
+              <div indented>
+                <span>fiber</span><span>${this.nutrition.fiber_g}g</span>
+              </div>
+              <div>
+                <span>Protein</span><span>${this.nutrition.protein_g}g</span>
+              </div>
+            `
+          : html`<span>Nutrition Incoming</span>`}
+      </div>
       <button
         id="close"
         @click=${() => this.dispatchEvent(new CustomEvent("close-dialog"))}
