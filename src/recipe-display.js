@@ -1,4 +1,5 @@
 import { LitElement, html, css } from 'lit';
+import { until } from "lit/directives/until.js";
 import { globalStyles } from './global.css.js';
 import { checklistStyles } from './checklist.css.js';
 
@@ -56,6 +57,41 @@ class RecipeDisplay extends LitElement {
     target.parentElement.classList.toggle('strike');
   }
 
+  async nutrition() {
+    const { ingredients } = this.recipe;
+    const query = ingredients.join(", ");
+    /*
+        [{
+          "sugar_g": 13.3,
+          "fiber_g": 4,
+          "serving_size_g": 283.495,
+          "sodium_mg": 8,
+          "name": "onion",
+          "potassium_mg": 99,
+          "fat_saturated_g": 0.1,
+          "fat_total_g": 0.5,
+          "calories": 126.7,
+          "cholesterol_mg": 0,
+          "protein_g": 3.9,
+          "carbohydrates_total_g": 28.6
+        }]
+    */
+    const nutritionPerIngredient = await fetch({
+      method: "GET",
+      url: `https://api.calorieninjas.com/v1/nutrition?query=${query}`,
+      headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
+      contentType: "application/json",
+    }).then((res) => res.json());
+    const nutrition = nutritionPerIngredient.reduce((accumulation, current) => {
+      const keys = Object.keys(current);
+      for(let key in keys) {
+        if(!accumulation[key]) accumulation[key] = 0;
+        accumulation[key] += current[key];
+      }
+    }, {})
+    return html`<pre id='nutrition'>${JSON.stringify(nutrition, '', 2)}</pre>`;
+  }
+
   render() {
     return html` <h2>${this.recipe.title}</h2>
       <h3>Ingredients</h3>
@@ -76,6 +112,9 @@ class RecipeDisplay extends LitElement {
             </li>`,
         )}
       </ol>
+      <div>
+          ${until(this.nutrition, html`Nutrition Incoming`)}
+      </div>
       <button id="close" @click=${() => this.dispatchEvent(new CustomEvent('close-dialog'))}>
         ${closeIcon}
       </button>`;
