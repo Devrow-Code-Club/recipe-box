@@ -45,7 +45,7 @@ class RecipeDisplay extends LitElement {
   }
 
   static get properties() {
-    return { recipe: Object, nutritionPerIngredient: Object };
+    return { recipe: Object };
   }
 
   constructor() {
