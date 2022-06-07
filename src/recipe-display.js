@@ -116,8 +116,8 @@ class RecipeDisplay extends LitElement {
     );
     this.nutrition = Object.fromEntries(Object.entries(overallNutrition).map(([key, value]) => {
       if(key === 'name') return [key, value];
-      const newValue = Math.round(value / servings);
-      return [key, serviceValue];
+      const servingValue = Math.round(value / servings);
+      return [key, servingValue];
     }))
     this.nutrition.servings = servings;
     this.nutrition= html`<pre id="nutrition">${JSON.stringify(this.nutrition, "", 2)}</pre
