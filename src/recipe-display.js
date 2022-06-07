@@ -85,6 +85,7 @@ class RecipeDisplay extends LitElement {
       contentType: "application/json",
     }).then((res) => res.json());
     const nutrition = nutritionPerIngredient.items.reduce((accumulation, current) => {
+      if(!accumulation) accumulation = {};
       const keys = Object.keys(current);
       for(let key of keys) {
         if(!accumulation[key]) accumulation[key] = 0;
