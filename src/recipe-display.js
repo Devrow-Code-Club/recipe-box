@@ -91,6 +91,7 @@ class RecipeDisplay extends LitElement {
         if(!accumulation[key]) accumulation[key] = 0;
         accumulation[key] += current[key];
       }
+      return accumulation;
     }, {})
     return html`<pre id='nutrition'>${JSON.stringify(nutrition, '', 2)}</pre>`;
   }
