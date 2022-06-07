@@ -192,7 +192,7 @@ class RecipeDisplay extends LitElement {
                 ><span>${this.nutrition.servings}</span>
               </div>
               <div>
-                <span>Calories</span><span>${this.nutrition.calories}</span>
+                <span><b>Calories</b></span><span><b>${this.nutrition.calories}</b></span>
               </div>
               <div>
                 <span>Fat</span><span>${this.nutrition.fat_total_g}g</span>
