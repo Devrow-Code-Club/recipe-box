@@ -58,7 +58,7 @@ class RecipeDisplay extends LitElement {
   }
 
   async nutrition() {
-    if(!this.recipe) return;
+    if(!this.recipe.ingredients) return;
     const { ingredients } = this.recipe;
     const query = ingredients.join(", ");
     /*
