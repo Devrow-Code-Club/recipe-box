@@ -69,7 +69,7 @@ self.addEventListener("fetch", (event) => {
       }
 
       const response = await fetch(event.request);
-      cache.put(requestUrl, response.clone());
+      if(response.status === 200) cache.put(requestUrl, response.clone());
       console.log("match not found, caching -> network response", requestUrl);
       return response;
     })()
