@@ -45,7 +45,7 @@ class RecipeDisplay extends LitElement {
   }
 
   static get properties() {
-    return { recipe: Object };
+    return { recipe: Object, nutritionPerIngredient: Object };
   }
 
   constructor() {
@@ -79,12 +79,12 @@ class RecipeDisplay extends LitElement {
           }]
         }
     */
-    const nutritionPerIngredient = await fetch(`https://api.calorieninjas.com/v1/nutrition?query=${query}`, {
+    this.nutritionPerIngredient = await fetch(`https://api.calorieninjas.com/v1/nutrition?query=${query}`, {
       method: "GET",
       headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
       contentType: "application/json",
     }).then((res) => res.json());
-    const nutrition = nutritionPerIngredient.items.reduce((accumulation, current) => {
+    const nutrition = this.nutritionPerIngredient.items.reduce((accumulation, current) => {
       if(!accumulation) accumulation = {};
       const keys = Object.keys(current);
       for(let key of keys) {
@@ -93,6 +93,7 @@ class RecipeDisplay extends LitElement {
       }
       return accumulation;
     }, {})
+    nutrition.name = this.recipe.title;
     return html`<pre id='nutrition'>${JSON.stringify(nutrition, '', 2)}</pre>`;
   }
 
@@ -101,25 +102,41 @@ class RecipeDisplay extends LitElement {
       <h3>Ingredients</h3>
       <ul>
         ${this.recipe.ingredients?.map(
-          ingredient =>
+          (ingredient) =>
             html`<li class="ingredient">
-              <label><input type="checkbox" @change=${this.strike} />${ingredient}</label>
-            </li>`,
+              <label
+                ><input
+                  type="checkbox"
+                  @change=${this.strike}
+                />${ingredient}</label
+              >
+              <span class="budget"
+                >${this.nutritionPerIngredient.items.find((item) =>
+                  ingredient.includes(item.name)
+                ).serving_size_g}g</span
+              >
+            </li>`
         )}
       </ul>
       <h3>Directions</h3>
       <ol>
         ${this.recipe.directions?.map(
-          direction =>
+          (direction) =>
             html`<li class="direction">
-              <label><input type="checkbox" @change=${this.strike} />${direction}</label>
-            </li>`,
+              <label
+                ><input
+                  type="checkbox"
+                  @change=${this.strike}
+                />${direction}</label
+              >
+            </li>`
         )}
       </ol>
-      <div>
-          ${until(this.nutrition(), html`Nutrition Incoming`)}
-      </div>
-      <button id="close" @click=${() => this.dispatchEvent(new CustomEvent('close-dialog'))}>
+      <div>${until(this.nutrition(), html`Nutrition Incoming`)}</div>
+      <button
+        id="close"
+        @click=${() => this.dispatchEvent(new CustomEvent("close-dialog"))}
+      >
         ${closeIcon}
       </button>`;
   }
