@@ -12,6 +12,9 @@ export const checklistStyles = css`
   }
   li {
     padding: 4px 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
   }
   label {
     display: flex;
