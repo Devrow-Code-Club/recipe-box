@@ -51,11 +51,16 @@ class RecipeDisplay extends LitElement {
         #nutrition {
           display:flex;
           flex-direction:column;
+          padding: 0 8px;
         }
         #nutrition div {
           display:flex;
           flex-direction:row;
           justify-content:space-between;
+        }
+        #nutrition div:nth-child(even) {
+          background-color: var(--muted-accent);
+          color: white;
         }
         #nutrition div[indented] {
           padding-left: 8px;
