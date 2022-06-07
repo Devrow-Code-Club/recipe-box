@@ -53,6 +53,10 @@ class RecipeDisplay extends LitElement {
     this.recipe = {};
   }
 
+  updated(changeProperties) {
+    if(changeProperties.has('recipe')) this._nutrition();
+  }
+
   strike({ target }) {
     target.parentElement.classList.toggle('strike');
   }
