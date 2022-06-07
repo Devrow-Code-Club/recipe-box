@@ -132,7 +132,7 @@ class RecipeDisplay extends LitElement {
         return item;
       });
     });
-    const overallNutrition = this.nutritionPerIngredient.items.reduce((accumulation, current) => {
+    const overallNutrition = this.nutritionPerIngredient.reduce((accumulation, current) => {
       if(!accumulation) accumulation = {};
       const keys = Object.keys(current);
       for(let key of keys) {
@@ -168,10 +168,10 @@ class RecipeDisplay extends LitElement {
                 />${ingredient}</label
               >
               <span class="budget"
-                >${this.nutritionPerIngredient?.items ?
+                >${this.nutritionPerIngredient?.length ?
                   html`
                   <span>${Math.round(
-                    this.nutritionPerIngredient?.items?.find((item) =>
+                    this.nutritionPerIngredient?.find((item) =>
                       ingredient.toLowerCase().includes(item.name)
                     )?.serving_size_g
                   )}</span>` : 
