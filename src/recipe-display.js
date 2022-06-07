@@ -58,23 +58,26 @@ class RecipeDisplay extends LitElement {
   }
 
   async nutrition() {
+    if(!this.recipe) return;
     const { ingredients } = this.recipe;
     const query = ingredients.join(", ");
     /*
-        [{
-          "sugar_g": 13.3,
-          "fiber_g": 4,
-          "serving_size_g": 283.495,
-          "sodium_mg": 8,
-          "name": "onion",
-          "potassium_mg": 99,
-          "fat_saturated_g": 0.1,
-          "fat_total_g": 0.5,
-          "calories": 126.7,
-          "cholesterol_mg": 0,
-          "protein_g": 3.9,
-          "carbohydrates_total_g": 28.6
-        }]
+        {
+          "items": [{
+            "sugar_g": 13.3,
+            "fiber_g": 4,
+            "serving_size_g": 283.495,
+            "sodium_mg": 8,
+            "name": "onion",
+            "potassium_mg": 99,
+            "fat_saturated_g": 0.1,
+            "fat_total_g": 0.5,
+            "calories": 126.7,
+            "cholesterol_mg": 0,
+            "protein_g": 3.9,
+            "carbohydrates_total_g": 28.6
+          }]
+        }
     */
     const nutritionPerIngredient = await fetch({
       method: "GET",
