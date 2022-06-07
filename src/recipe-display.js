@@ -89,7 +89,16 @@ class RecipeDisplay extends LitElement {
 
   async _nutrition() {
     if(!this.recipe.ingredients) return;
-    const ingredients = this.recipe.ingredients;
+    const ingredientFractions = new Map();
+    const ingredients = this.recipe.ingredients.map(ingredient => {
+      const fraction = ingredient.match(/\d? ?\d\/\d/);
+      if(fraction) {
+        ingredient.replace(fraction[0], 1);
+        ingredientFractions.set(ingredient.toLowerCase(), eval(fraction[0]));
+      };
+      return ingredient;
+    });
+    const query = ingredients.join(", ").replace();
     /*
         {
           "items": [{
@@ -108,23 +117,22 @@ class RecipeDisplay extends LitElement {
           }]
         }
     */
-    this.nutritionPerIngredient = (
-      await Promise.all(
-        ingredients.map((ingredient) => {
-          return fetch(
-            `https://api.calorieninjas.com/v1/nutrition?query=${ingredient}`,
-            {
-              method: "GET",
-              headers: {
-                "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0",
-              },
-              contentType: "application/json",
-            }
-          ).then((res) => res.json());
-        })
-      )
-    ).map((ingredientNutrition) => ingredientNutrition.items[0]);
-    const overallNutrition = this.nutritionPerIngredient.reduce((accumulation, current) => {
+    this.nutritionPerIngredient = (await fetch(`https://api.calorieninjas.com/v1/nutrition?query=${query}`, {
+      method: "GET",
+      headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
+      contentType: "application/json",
+    }).then((res) => res.json())).items.map(item => {
+      ingredientFractions.forEach((fraction, ingredient) => {
+        if (!ingredient.includes(item.name)) return item;
+        const itemKeys = Object.keys(item);
+        itemKeys.forEach(key => {
+          if(key === 'name') return;
+          item[key] *= fraction;
+        });
+        return item;
+      });
+    });
+    const overallNutrition = this.nutritionPerIngredient.items.reduce((accumulation, current) => {
       if(!accumulation) accumulation = {};
       const keys = Object.keys(current);
       for(let key of keys) {
@@ -160,11 +168,11 @@ class RecipeDisplay extends LitElement {
                 />${ingredient}</label
               >
               <span class="budget"
-                >${this.nutritionPerIngredient?.length ?
+                >${this.nutritionPerIngredient?.items ?
                   html`
                   <span>${Math.round(
-                    this.nutritionPerIngredient?.find((item) =>
-                      ingredient.includes(item.name)
+                    this.nutritionPerIngredient?.items?.find((item) =>
+                      ingredient.toLowerCase().includes(item.name)
                     )?.serving_size_g
                   )}</span>` : 
                   html`<span>?</span>`
