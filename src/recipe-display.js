@@ -160,7 +160,7 @@ class RecipeDisplay extends LitElement {
                 />${ingredient}</label
               >
               <span class="budget"
-                >${this.nutritionPerIngredient.length ?
+                >${this.nutritionPerIngredient?.length ?
                   html`
                   <span>${Math.round(
                     this.nutritionPerIngredient?.find((item) =>
