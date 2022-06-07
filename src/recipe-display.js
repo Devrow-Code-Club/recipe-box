@@ -79,9 +79,8 @@ class RecipeDisplay extends LitElement {
           }]
         }
     */
-    const nutritionPerIngredient = await fetch({
+    const nutritionPerIngredient = await fetch(`https://api.calorieninjas.com/v1/nutrition?query=${query}`, {
       method: "GET",
-      url: `https://api.calorieninjas.com/v1/nutrition?query=${query}`,
       headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
       contentType: "application/json",
     }).then((res) => res.json());
