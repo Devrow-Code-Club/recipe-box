@@ -63,8 +63,12 @@ class RecipeDisplay extends LitElement {
 
   async _nutrition() {
     if(!this.recipe.ingredients) return;
-    const { ingredients } = this.recipe;
-    const query = ingredients.join(", ");
+    const ingredients = this.recipe.ingredients.map(ingredient => {
+      const [fraction] = ingredient.match(/\d\/\d/);
+      if(fraction) return ingredient.replace(fraction, eval(fraction));
+      return ingredient;
+    });
+    const query = ingredients.join(", ").replace();
     /*
         {
           "items": [{
