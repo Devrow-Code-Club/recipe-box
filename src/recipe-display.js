@@ -120,9 +120,9 @@ class RecipeDisplay extends LitElement {
                 />${ingredient}</label
               >
               <span class="budget"
-                >${until(this.nutritionPerIngredient?.items?.find((item) =>
+                >${until(Math.round(this.nutritionPerIngredient?.items?.find((item) =>
                   ingredient.includes(item.name)
-                )?.serving_size_g, html`?`)}g</span
+                )?.serving_size_g), html`?`)}g</span
               >
             </li>`
         )}
