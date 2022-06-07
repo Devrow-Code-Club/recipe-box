@@ -51,6 +51,7 @@ class RecipeDisplay extends LitElement {
         #nutrition {
           display:flex;
           flex-direction:column;
+          border-top: 2px solid black;
         }
         #nutrition div {
           display:flex;
