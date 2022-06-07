@@ -5,6 +5,14 @@ import { checklistStyles } from './checklist.css.js';
 
 import { closeIcon } from './icons.js';
 
+const dishTypeCalories = {
+  dinner: 300,
+  side: 150,
+  breakfast: 350,
+  dessert: 100,
+  condiment: 50
+};
+
 class RecipeDisplay extends LitElement {
   static get styles() {
     return [
@@ -92,7 +100,7 @@ class RecipeDisplay extends LitElement {
       headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
       contentType: "application/json",
     }).then((res) => res.json());
-    this.nutrition = this.nutritionPerIngredient.items.reduce((accumulation, current) => {
+    const overallNutrition = this.nutritionPerIngredient.items.reduce((accumulation, current) => {
       if(!accumulation) accumulation = {};
       const keys = Object.keys(current);
       for(let key of keys) {
@@ -101,7 +109,17 @@ class RecipeDisplay extends LitElement {
       }
       return accumulation;
     }, {})
-    this.nutrition.name = this.recipe.title;
+    overallNutrition.name = this.recipe.title;
+    const servings = Math.floor(
+      overallNutrition.calories /
+        (dishTypeCalories[this.recipe.meal] ?? overallNutrition.calories)
+    );
+    this.nutrition = Object.fromEntries(Object.entries(overallNutrition).map(([key, value]) => {
+      if(key === 'name') return [key, value];
+      const newValue = Math.round(value / servings);
+      return [key, serviceValue];
+    }))
+    this.nutrition.servings = servings;
     this.nutrition= html`<pre id="nutrition">${JSON.stringify(this.nutrition, "", 2)}</pre
     >`;
   }
