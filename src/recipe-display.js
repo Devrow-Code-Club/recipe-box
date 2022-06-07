@@ -85,7 +85,7 @@ class RecipeDisplay extends LitElement {
       headers: { "X-Api-Key": "yzK3yNfosvqTlI+2oWmKTQ==D4ZN5Q34kevOt7L0" },
       contentType: "application/json",
     }).then((res) => res.json());
-    const nutrition = nutritionPerIngredient.reduce((accumulation, current) => {
+    const nutrition = nutritionPerIngredient.items.reduce((accumulation, current) => {
       const keys = Object.keys(current);
       for(let key in keys) {
         if(!accumulation[key]) accumulation[key] = 0;
