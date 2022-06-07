@@ -42,36 +42,36 @@ self.addEventListener("activate", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
-    let requestUrl = event.request.url;
-    console.log("fetch request", requestUrl);
-    if (requestUrl === `${location.origin}/`)
+  let requestUrl = event.request.url;
+  console.log("fetch request", requestUrl);
+  if (requestUrl === `${location.origin}/`)
     requestUrl = new URL(`${location.origin}/index.html`).toString();
-    if (Object.keys(precacheManifold).includes(requestUrl)) {
+  if (Object.keys(precacheManifold).includes(requestUrl)) {
     console.log("precache response");
     return event.respondWith(
-        (async () => {
+      (async () => {
         const cache = await caches.open(PRECACHE);
         const url = precacheManifold[requestUrl];
         if (!url) return fetch(requestUrl);
         const match = await cache.match(url);
         return match;
-        })()
-    );
-    }
-    console.log("cache check", requestUrl);
-    event.respondWith(
-      (async () => {
-        const cache = await caches.open(CACHE);
-        const match = await cache.match(requestUrl);
-        if (match) {
-          console.log("match found, cache response", match);
-          return match;
-        }
-
-        const response = await fetch(requestUrl);
-        cache.put(requestUrl, response.clone());
-        console.log("match not found, caching -> network response", requestUrl);
-        return response;
       })()
     );
+  }
+  console.log("cache check", requestUrl);
+  event.respondWith(
+    (async () => {
+      const cache = await caches.open(CACHE);
+      const match = await cache.match(requestUrl);
+      if (match) {
+        console.log("match found, cache response", match);
+        return match;
+      }
+
+      const response = await fetch(event.request);
+      cache.put(requestUrl, response.clone());
+      console.log("match not found, caching -> network response", requestUrl);
+      return response;
+    })()
+  );
 });
