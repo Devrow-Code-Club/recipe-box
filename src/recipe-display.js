@@ -93,13 +93,13 @@ class RecipeDisplay extends LitElement {
     const ingredients = this.recipe.ingredients.map(ingredient => {
       const fraction = ingredient.match(/\d? ?\d\/\d/);
       if(fraction) {
-        ingredient.replace(fraction[0], "1");
+        ingredient = ingredient.replace(fraction[0], "1");
         ingredientFractions.set(ingredient.toLowerCase(), eval(fraction[0]));
       };
       return ingredient;
     });
-    console.log(ingredientFractions);
-    const query = ingredients.join(", ").replace();
+    console.log(ingredients, ingredientFractions);
+    const query = ingredients.join(", ");
     /*
         {
           "items": [{
