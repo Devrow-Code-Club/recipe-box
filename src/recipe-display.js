@@ -177,8 +177,8 @@ class RecipeDisplay extends LitElement {
                   <span>${Math.round(
                     this.nutritionPerIngredient?.find((item) =>
                       ingredient.toLowerCase().includes(item.name)
-                    )?.serving_size_g
-                  )}</span>` : 
+                    )?.serving_size_g)
+                  }</span>` : 
                   html`<span>?</span>`
                 }g</span
               >
