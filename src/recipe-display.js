@@ -94,7 +94,7 @@ class RecipeDisplay extends LitElement {
       const fraction = ingredient.match(/\d? ?\d\/\d/);
       if(fraction) {
         ingredient = ingredient.replace(fraction[0], "1");
-        ingredientFractions.set(ingredient.toLowerCase(), eval(fraction[0]));
+        ingredientFractions.set(ingredient.toLowerCase(), eval(fraction[0].replace(' ', '*')));
       };
       return ingredient;
     });
