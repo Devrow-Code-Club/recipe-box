@@ -1,0 +1,239 @@
+{
+  "title": "Zuppa Toscana",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "16 oz spicy Italian sausage",
+      "nutrition": {
+        "sugar_g": 8.5,
+        "fiber_g": 0.5,
+        "serving_size_g": 453.592,
+        "sodium_mg": 3380,
+        "name": "spicy italian sausage",
+        "potassium_mg": 777,
+        "fat_saturated_g": 46.2,
+        "fat_total_g": 122.4,
+        "calories": 1582.7,
+        "cholesterol_mg": 261,
+        "protein_g": 86.1,
+        "carbohydrates_total_g": 19
+      }
+    },
+    {
+      "name": "8 slices of bacon",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 276,
+        "sodium_mg": 4622,
+        "name": "bacon",
+        "potassium_mg": 1050,
+        "fat_saturated_g": 33.2,
+        "fat_total_g": 96.4,
+        "calories": 1287.1,
+        "cholesterol_mg": 272,
+        "protein_g": 93.9,
+        "carbohydrates_total_g": 4.8
+      }
+    },
+    {
+      "name": "1/2 large onion diced",
+      "nutrition": {
+        "sugar_g": 2.2,
+        "fiber_g": 0.65,
+        "serving_size_g": 47,
+        "sodium_mg": 1,
+        "name": "onion",
+        "potassium_mg": 16,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 21,
+        "cholesterol_mg": 0,
+        "protein_g": 0.65,
+        "carbohydrates_total_g": 4.75
+      }
+    },
+    {
+      "name": "2-3 cloves of garlic minced",
+      "nutrition": {
+        "sugar_g": 2.4,
+        "fiber_g": 33.6,
+        "serving_size_g": 100,
+        "sodium_mg": 276,
+        "name": "cloves",
+        "potassium_mg": 103,
+        "fat_saturated_g": 3.8,
+        "fat_total_g": 12.8,
+        "calories": 269.5,
+        "cholesterol_mg": 0,
+        "protein_g": 6.2,
+        "carbohydrates_total_g": 64.5
+      }
+    },
+    {
+      "name": "28 oz low-sodium chicken broth",
+      "nutrition": {
+        "sugar_g": 3.4,
+        "fiber_g": 0,
+        "serving_size_g": 793.786,
+        "sodium_mg": 2960,
+        "name": "chicken broth",
+        "potassium_mg": 31,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 1.7,
+        "calories": 49,
+        "cholesterol_mg": 16,
+        "protein_g": 5.1,
+        "carbohydrates_total_g": 3.6
+      }
+    },
+    {
+      "name": "3 cups water",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 711,
+        "sodium_mg": 28,
+        "name": "water",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "5 medium russet potatoes thinly sliced",
+      "nutrition": {
+        "sugar_g": 9.3,
+        "fiber_g": 19.5,
+        "serving_size_g": 865,
+        "sodium_mg": 120,
+        "name": "russet potatoes",
+        "potassium_mg": 608,
+        "fat_saturated_g": 0.3,
+        "fat_total_g": 1.1,
+        "calories": 849.8,
+        "cholesterol_mg": 0,
+        "protein_g": 22.9,
+        "carbohydrates_total_g": 188
+      }
+    },
+    {
+      "name": "1 tsp crushed red pepper flakes optional",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.5,
+        "serving_size_g": 1.8,
+        "sodium_mg": 0,
+        "name": "crushed red pepper",
+        "potassium_mg": 5,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 5.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1
+      }
+    },
+    {
+      "name": "Salt and pepper optional",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 6.6,
+        "serving_size_g": 100,
+        "sodium_mg": 28353,
+        "name": "salt and pepper",
+        "potassium_mg": 44,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.9,
+        "calories": 68.7,
+        "cholesterol_mg": 0,
+        "protein_g": 2.9,
+        "carbohydrates_total_g": 16.9
+      }
+    },
+    {
+      "name": "4 cups chopped kale",
+      "nutrition": {
+        "sugar_g": 6.5,
+        "fiber_g": 10.4,
+        "serving_size_g": 520,
+        "sodium_mg": 121,
+        "name": "kale",
+        "potassium_mg": 147,
+        "fat_saturated_g": 0.3,
+        "fat_total_g": 2,
+        "calories": 141.4,
+        "cholesterol_mg": 0,
+        "protein_g": 9.9,
+        "carbohydrates_total_g": 29.3
+      }
+    },
+    {
+      "name": "1 cup heavy whipping cream",
+      "nutrition": {
+        "sugar_g": 0.9,
+        "fiber_g": 0,
+        "serving_size_g": 29.8,
+        "sodium_mg": 8,
+        "name": "heavy whipping cream",
+        "potassium_mg": 17,
+        "fat_saturated_g": 6.9,
+        "fat_total_g": 10.6,
+        "calories": 102.4,
+        "cholesterol_mg": 33,
+        "protein_g": 0.9,
+        "carbohydrates_total_g": 0.8
+      }
+    },
+    {
+      "name": "Parmesan cheese",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 1831,
+        "name": "parmesan cheese",
+        "potassium_mg": 639,
+        "fat_saturated_g": 15.4,
+        "fat_total_g": 27.3,
+        "calories": 424.6,
+        "cholesterol_mg": 87,
+        "protein_g": 28.4,
+        "carbohydrates_total_g": 14
+      }
+    }
+  ],
+  "directions": [
+    "Brown sausage in a large pot or dutch oven.",
+    "Remove sausage with a slotted spoon and set aside.",
+    "Cut bacon into small pieces.",
+    "Add bacon to pot and cook until crispy.",
+    "Stir in chopped onion. Cook for 5 to 6 minutes or until onion is translucent.",
+    "Stir in minced garlic and cook for 1 minute, stirring frequently.",
+    "Add chicken broth and water to the pot. Add crushed red pepper flakes, salt, and pepper if desired.",
+    "Add thinly sliced potatoes (I use a mandoline) and the cooked sausage to the pot and bring to a simmer over medium heat.",
+    "Continue cooking until potatoes are tender, about 10 minutes.",
+    "Add the kale to the soup, and simmer for an additional 5 to 10 minutes, stirring occasionally.",
+    "Stir in the heavy cream and let heat through.",
+    "Ladle soup into bowls and serve with Parmesan cheese."
+  ],
+  "nutrition": {
+    "sugar_g": 2,
+    "fiber_g": 5,
+    "serving_size_g": 256,
+    "sodium_mg": 2607,
+    "name": "Zuppa Toscana",
+    "potassium_mg": 224,
+    "fat_saturated_g": 7,
+    "fat_total_g": 17,
+    "calories": 309,
+    "cholesterol_mg": 42,
+    "protein_g": 16,
+    "carbohydrates_total_g": 24,
+    "servings": 16
+  }
+}

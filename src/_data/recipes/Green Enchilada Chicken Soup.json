@@ -1,0 +1,145 @@
+{
+  "title": "Green Enchilada Chicken Soup",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2.5lbs boneless skinless chicken thighs",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 11339.8,
+        "sodium_mg": 19876,
+        "name": "boneless skinless chicken thighs",
+        "potassium_mg": 22955,
+        "fat_saturated_g": 274.4,
+        "fat_total_g": 878.6,
+        "calories": 18832.6,
+        "cholesterol_mg": 13696,
+        "protein_g": 2752.7,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "28oz green enchilada sauce",
+      "nutrition": {
+        "sugar_g": 27.5,
+        "fiber_g": 15,
+        "serving_size_g": 793.786,
+        "sodium_mg": 4707,
+        "name": "green enchilada sauce",
+        "potassium_mg": 331,
+        "fat_saturated_g": 0,
+        "fat_total_g": 7.2,
+        "calories": 307.1,
+        "cholesterol_mg": 0,
+        "protein_g": 9,
+        "carbohydrates_total_g": 49.6
+      }
+    },
+    {
+      "name": "24oz chicken broth",
+      "nutrition": {
+        "sugar_g": 2.9,
+        "fiber_g": 0,
+        "serving_size_g": 680.3879999999999,
+        "sodium_mg": 2537,
+        "name": "chicken broth",
+        "potassium_mg": 27,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 1.4,
+        "calories": 42,
+        "cholesterol_mg": 13,
+        "protein_g": 4.3,
+        "carbohydrates_total_g": 3.1
+      }
+    },
+    {
+      "name": "1 cup half n half or heavy cream",
+      "nutrition": {
+        "sugar_g": 0.9,
+        "fiber_g": 0,
+        "serving_size_g": 29.8,
+        "sodium_mg": 8,
+        "name": "heavy cream",
+        "potassium_mg": 17,
+        "fat_saturated_g": 6.9,
+        "fat_total_g": 10.9,
+        "calories": 103.8,
+        "cholesterol_mg": 33,
+        "protein_g": 0.8,
+        "carbohydrates_total_g": 0.8
+      }
+    },
+    {
+      "name": "2 cups monterey jack cheese",
+      "nutrition": {
+        "sugar_g": 0.3,
+        "fiber_g": 0,
+        "serving_size_g": 56.7,
+        "sodium_mg": 340,
+        "name": "monterey jack cheese",
+        "potassium_mg": 256,
+        "fat_saturated_g": 10.7,
+        "fat_total_g": 17.2,
+        "calories": 215.3,
+        "cholesterol_mg": 49,
+        "protein_g": 14,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "4 oz cream cheese",
+      "nutrition": {
+        "sugar_g": 4.2,
+        "fiber_g": 0,
+        "serving_size_g": 113.398,
+        "sodium_mg": 351,
+        "name": "cream cheese",
+        "potassium_mg": 120,
+        "fat_saturated_g": 22.8,
+        "fat_total_g": 38.5,
+        "calories": 387.8,
+        "cholesterol_mg": 113,
+        "protein_g": 7,
+        "carbohydrates_total_g": 6.2
+      }
+    },
+    {
+      "name": "4 oz salsa verde",
+      "nutrition": {
+        "sugar_g": 4,
+        "fiber_g": 2.2,
+        "serving_size_g": 113.398,
+        "sodium_mg": 669,
+        "name": "salsa verde",
+        "potassium_mg": 47,
+        "fat_saturated_g": 0,
+        "fat_total_g": 1,
+        "calories": 42.6,
+        "cholesterol_mg": 0,
+        "protein_g": 1.3,
+        "carbohydrates_total_g": 7.4
+      }
+    }
+  ],
+  "directions": [
+    "in a crock pot add chicken, enchilada sauce and broth and cook on low for 6-8 hours",
+    "30 minutes before serving, shred chicken, add cheeses, half n half, salsa verde",
+    "stir until cheeses are melted"
+  ],
+  "nutrition": {
+    "sugar_g": 1,
+    "fiber_g": 0,
+    "serving_size_g": 199,
+    "sodium_mg": 432,
+    "name": "Green Enchilada Chicken Soup",
+    "potassium_mg": 360,
+    "fat_saturated_g": 5,
+    "fat_total_g": 14,
+    "calories": 302,
+    "cholesterol_mg": 211,
+    "protein_g": 42,
+    "carbohydrates_total_g": 1,
+    "servings": 66
+  }
+}

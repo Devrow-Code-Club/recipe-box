@@ -1,0 +1,146 @@
+{
+  "title": "Sloppy Joes",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound lean ground beef",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 453.592,
+        "sodium_mg": 394,
+        "name": "lean ground beef",
+        "potassium_mg": 1113,
+        "fat_saturated_g": 21.3,
+        "fat_total_g": 54.7,
+        "calories": 1048.2,
+        "cholesterol_mg": 407,
+        "protein_g": 127.9,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/4 cup chopped onion",
+      "nutrition": {
+        "sugar_g": 1.1,
+        "fiber_g": 0.325,
+        "serving_size_g": 23.5,
+        "sodium_mg": 0.5,
+        "name": "onion",
+        "potassium_mg": 8,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 10.5,
+        "cholesterol_mg": 0,
+        "protein_g": 0.325,
+        "carbohydrates_total_g": 2.375
+      }
+    },
+    {
+      "name": "1/2 teaspoon garlic powder",
+      "nutrition": {
+        "sugar_g": 0.05,
+        "fiber_g": 0.15,
+        "serving_size_g": 1.55,
+        "sodium_mg": 0.5,
+        "name": "garlic powder",
+        "potassium_mg": 6,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 5.15,
+        "cholesterol_mg": 0,
+        "protein_g": 0.25,
+        "carbohydrates_total_g": 1.1
+      }
+    },
+    {
+      "name": "1 teaspoon prepared yellow mustard",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 5,
+        "sodium_mg": 54,
+        "name": "yellow mustard",
+        "potassium_mg": 5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 3.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.3
+      }
+    },
+    {
+      "name": "3/4 cup ketchup",
+      "nutrition": {
+        "sugar_g": 2.7,
+        "fiber_g": 0,
+        "serving_size_g": 12.75,
+        "sodium_mg": 113.25,
+        "name": "ketchup",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 12.825000000000001,
+        "cholesterol_mg": 0,
+        "protein_g": 0.15000000000000002,
+        "carbohydrates_total_g": 3.5250000000000004
+      }
+    },
+    {
+      "name": "salt to taste",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 38395,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "ground black pepper to taste",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 24.9,
+        "serving_size_g": 100,
+        "sodium_mg": 20,
+        "name": "ground black pepper",
+        "potassium_mg": 160,
+        "fat_saturated_g": 1.3,
+        "fat_total_g": 3,
+        "calories": 253.3,
+        "cholesterol_mg": 0,
+        "protein_g": 10.4,
+        "carbohydrates_total_g": 64.7
+      }
+    }
+  ],
+  "directions": [
+    "In a medium skillet over medium heat, brown the ground beef, and onion; drain off liquids.",
+    "Stir in the garlic powder, mustard, and ketchup.",
+    "Reduce heat, and simmer for 30 minutes.",
+    "Season with salt and pepper."
+  ],
+  "nutrition": {
+    "sugar_g": 1,
+    "fiber_g": 6,
+    "serving_size_g": 174,
+    "sodium_mg": 9744,
+    "name": "Sloppy Joes",
+    "potassium_mg": 324,
+    "fat_saturated_g": 6,
+    "fat_total_g": 14,
+    "calories": 333,
+    "cholesterol_mg": 102,
+    "protein_g": 35,
+    "carbohydrates_total_g": 18,
+    "servings": 4
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "title": "Moo Goo Gai Pan",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound of boneless skinless chicken breasts, thinly sliced",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 453.592,
+        "sodium_mg": 336,
+        "name": "boneless skinless chicken breasts",
+        "potassium_mg": 1042,
+        "fat_saturated_g": 4.6,
+        "fat_total_g": 16.4,
+        "calories": 769.1,
+        "cholesterol_mg": 389,
+        "protein_g": 140.3,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 large egg white",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0,
+        "serving_size_g": 50,
+        "sodium_mg": 72,
+        "name": "large egg",
+        "potassium_mg": 100,
+        "fat_saturated_g": 1.6,
+        "fat_total_g": 4.7,
+        "calories": 72.8,
+        "cholesterol_mg": 186,
+        "protein_g": 6.3,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "2 tablespoons + 1 teaspoon of cornstarch divided use",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 1.2,
+        "serving_size_g": 128,
+        "sodium_mg": 11,
+        "name": "cornstarch",
+        "potassium_mg": 16,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 494.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 115.1
+      }
+    },
+    {
+      "name": "1 tablespoon vegetable oil divided use",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 13.6,
+        "sodium_mg": 0,
+        "name": "vegetable oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 1,
+        "fat_total_g": 13.4,
+        "calories": 119.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "2 teaspoons minced garlic",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 5.6,
+        "sodium_mg": 0,
+        "name": "minced garlic",
+        "potassium_mg": 8,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 8.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 1.9
+      }
+    },
+    {
+      "name": "1 teaspoon minced ginger",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 2,
+        "sodium_mg": 0,
+        "name": "ginger",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "2 cups of sliced mushrooms",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 0.5,
+        "serving_size_g": 24,
+        "sodium_mg": 0,
+        "name": "sliced mushrooms",
+        "potassium_mg": 20,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 6.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.5,
+        "carbohydrates_total_g": 1.3
+      }
+    },
+    {
+      "name": "8 oz baby corn",
+      "nutrition": {
+        "sugar_g": 2.4,
+        "fiber_g": 1.3,
+        "serving_size_g": 226.796,
+        "sodium_mg": 2,
+        "name": "baby corn",
+        "potassium_mg": 41,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.8,
+        "calories": 49.7,
+        "cholesterol_mg": 0,
+        "protein_g": 1.8,
+        "carbohydrates_total_g": 11
+      }
+    },
+    {
+      "name": "1/2 cup of thinly sliced carrots",
+      "nutrition": {
+        "sugar_g": 0.8,
+        "fiber_g": 0.7,
+        "serving_size_g": 23,
+        "sodium_mg": 13,
+        "name": "carrots",
+        "potassium_mg": 6.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 8.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.15,
+        "carbohydrates_total_g": 1.85
+      }
+    },
+    {
+      "name": "8-ounce of sliced water chestnuts drained",
+      "nutrition": {
+        "sugar_g": 1.7,
+        "fiber_g": 1.6,
+        "serving_size_g": 100,
+        "sodium_mg": 32,
+        "name": "water chestnuts",
+        "potassium_mg": 24,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 31.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.9,
+        "carbohydrates_total_g": 6.8
+      }
+    },
+    {
+      "name": "1 head of napa cabbage, thickly sliced",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 109,
+        "sodium_mg": 12,
+        "name": "napa cabbage",
+        "potassium_mg": 20,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 12.8,
+        "cholesterol_mg": 0,
+        "protein_g": 1.2,
+        "carbohydrates_total_g": 2.4
+      }
+    },
+    {
+      "name": "3/4 cup chicken stock",
+      "nutrition": {
+        "sugar_g": 2.8499999999999996,
+        "fiber_g": 0,
+        "serving_size_g": 180,
+        "sodium_mg": 254.25,
+        "name": "chicken stock",
+        "potassium_mg": 48,
+        "fat_saturated_g": 0.6000000000000001,
+        "fat_total_g": 2.175,
+        "calories": 64.35,
+        "cholesterol_mg": 5.25,
+        "protein_g": 4.5,
+        "carbohydrates_total_g": 6.375
+      }
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 16,
+        "sodium_mg": 866,
+        "name": "soy sauce",
+        "potassium_mg": 26,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 8.5,
+        "cholesterol_mg": 0,
+        "protein_g": 1.3,
+        "carbohydrates_total_g": 0.8
+      }
+    },
+    {
+      "name": "1  1/2 teaspoons sesame oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 6.8,
+        "sodium_mg": 0,
+        "name": "sesame oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0.95,
+        "fat_total_g": 6.85,
+        "calories": 58.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "salt and pepper to taste",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 6.6,
+        "serving_size_g": 100,
+        "sodium_mg": 28353,
+        "name": "salt and pepper",
+        "potassium_mg": 44,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.9,
+        "calories": 68.7,
+        "cholesterol_mg": 0,
+        "protein_g": 2.9,
+        "carbohydrates_total_g": 16.9
+      }
+    }
+  ],
+  "directions": [
+    "In a medium bowl whisk together the egg white and 1 tablespoon of cornstarch. Add the chicken slices and toss to coat. Refrigerate for 30 minutes, then strain and discard any excess liquid.",
+    "In a large saucepan, heat 1 teaspoon of oil over medium high heat. Add the carrots and 1 tablespoon of water and cook 2-3 minutes, stirring constantly.",
+    "Add the mushrooms and cook for 3-4 minutes or until mushrooms are browned and tender.",
+    "Add the cabbage and cook 1-2 minutes more or until tender. Stir in the water chestnuts and baby corn. Season the vegetables to taste with salt and pepper.",
+    "Remove the vegetables from the pan and place on a plate. Cover the plate with foil to keep warm.",
+    "Wipe out the pan with a paper towel. Heat the remaining 2 teaspoons of oil over medium high heat.",
+    "Add the the chicken to the pan and season with salt and pepper to taste. Cook, stirring occasionally, until chicken is cooked through, 3-4 minutes. Add the garlic and ginger and cook for 30 seconds more.",
+    "In a small bowl whisk together the chicken stock, soy sauce and sesame oil. Whisk in 1 tablespoon + 1 teaspoon of cornstarch.",
+    "Add the vegetables back to the pan and heat through, approximately 1 minute. Pour in the sauce and turn the high to heat. Bring the sauce to a boil and boil for approximately 1 minute or until sauce has just started to thicken, stirring occasionally.",
+    "Serve immediately, over rice if desired."
+  ],
+  "nutrition": {
+    "sugar_g": 2,
+    "fiber_g": 2,
+    "serving_size_g": 256,
+    "sodium_mg": 5020,
+    "name": "Moo Goo Gai Pan",
+    "potassium_mg": 235,
+    "fat_saturated_g": 1,
+    "fat_total_g": 8,
+    "calories": 304,
+    "cholesterol_mg": 97,
+    "protein_g": 29,
+    "carbohydrates_total_g": 28,
+    "servings": 6
+  }
+}

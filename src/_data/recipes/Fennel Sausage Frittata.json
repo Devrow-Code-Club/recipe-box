@@ -1,0 +1,153 @@
+{
+  "title": "Fennel Sausage Frittata",
+  "source": "https://chefesrecipes.com/how-to-make-fennel-sausage-frittata",
+  "meal": "breakfast",
+  "ingredients": [
+    "1 onion",
+    "Salt",
+    {
+      "name": "Pepper",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 25.4,
+        "serving_size_g": 100,
+        "sodium_mg": 19,
+        "name": "pepper",
+        "potassium_mg": 160,
+        "fat_saturated_g": 1.3,
+        "fat_total_g": 3,
+        "calories": 248.5,
+        "cholesterol_mg": 0,
+        "protein_g": 10.5,
+        "carbohydrates_total_g": 63.1
+      }
+    },
+    {
+      "name": "Fennel seeds 1 tablespoon",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 39.4,
+        "serving_size_g": 100,
+        "sodium_mg": 88,
+        "name": "fennel seeds",
+        "potassium_mg": 483,
+        "fat_saturated_g": 0.5,
+        "fat_total_g": 14.9,
+        "calories": 336.1,
+        "cholesterol_mg": 0,
+        "protein_g": 16.1,
+        "carbohydrates_total_g": 53
+      }
+    },
+    {
+      "name": "2 sausages",
+      "nutrition": {
+        "sugar_g": 1,
+        "fiber_g": 0,
+        "serving_size_g": 92,
+        "sodium_mg": 744,
+        "name": "sausages",
+        "potassium_mg": 138,
+        "fat_saturated_g": 8,
+        "fat_total_g": 24.8,
+        "calories": 297.3,
+        "cholesterol_mg": 79,
+        "protein_g": 17.1,
+        "carbohydrates_total_g": 1.3
+      }
+    },
+    {
+      "name": "6 eggs",
+      "nutrition": {
+        "sugar_g": 1.1,
+        "fiber_g": 0,
+        "serving_size_g": 300,
+        "sodium_mg": 431,
+        "name": "eggs",
+        "potassium_mg": 600,
+        "fat_saturated_g": 9.4,
+        "fat_total_g": 28.1,
+        "calories": 432.9,
+        "cholesterol_mg": 1120,
+        "protein_g": 37.8,
+        "carbohydrates_total_g": 2.1
+      }
+    },
+    {
+      "name": "Parmesan 50g",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 1811,
+        "name": "parmesan",
+        "potassium_mg": 635,
+        "fat_saturated_g": 15.4,
+        "fat_total_g": 27.6,
+        "calories": 419.3,
+        "cholesterol_mg": 85,
+        "protein_g": 28.6,
+        "carbohydrates_total_g": 14.1
+      }
+    },
+    {
+      "name": "Mozzarella 50g",
+      "nutrition": {
+        "sugar_g": 0.5,
+        "fiber_g": 0,
+        "serving_size_g": 50,
+        "sodium_mg": 314,
+        "name": "mozzarella",
+        "potassium_mg": 175,
+        "fat_saturated_g": 6.6,
+        "fat_total_g": 11.3,
+        "calories": 147.7,
+        "cholesterol_mg": 39,
+        "protein_g": 11,
+        "carbohydrates_total_g": 1.1
+      }
+    },
+    {
+      "name": "Parsley 30g",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 1.7,
+        "serving_size_g": 50,
+        "sodium_mg": 28,
+        "name": "parsley",
+        "potassium_mg": 29,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.4,
+        "calories": 18,
+        "cholesterol_mg": 0,
+        "protein_g": 1.5,
+        "carbohydrates_total_g": 3.1
+      }
+    }
+  ],
+  "directions": [
+    "To start, chop one big onion and put it in the hot pan with olive oil.",
+    "Season with salt and pepper, add fennel seeds.",
+    "Take two sausages out of the skin, cut it and add to the onion. Cook for 4-5 minutes.",
+    "Crack 6 eggs, give them a good mix.",
+    "Chop some parsley, add parmesan. Give a little touch of fresh pepper and salt. Mix with eggs.",
+    "Add the eggs to the onion and sausage.",
+    "Slice some mozzarella and add to the eggs.",
+    "Finish with parmesan. Bake it for 4 minutes. Cook this recipe with a photo!"
+  ],
+  "nutrition": {
+    "sugar_g": 1,
+    "fiber_g": 13,
+    "serving_size_g": 159,
+    "sodium_mg": 776,
+    "name": "Fennel Sausage Frittata",
+    "potassium_mg": 444,
+    "fat_saturated_g": 8,
+    "fat_total_g": 22,
+    "calories": 380,
+    "cholesterol_mg": 265,
+    "protein_g": 25,
+    "carbohydrates_total_g": 28,
+    "servings": 5
+  }
+}

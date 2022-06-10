@@ -1,0 +1,135 @@
+{
+  "title": "Hummus",
+  "source": "https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/",
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "1 (15-ounce) can chickpeas or 1 1/2 cups (250 grams) cooked chickpeas",
+      "nutrition": {
+        "sugar_g": 11.7,
+        "fiber_g": 18.450000000000003,
+        "serving_size_g": 246,
+        "sodium_mg": 585,
+        "name": "chickpeas",
+        "potassium_mg": 411,
+        "fat_saturated_g": 0.6000000000000001,
+        "fat_total_g": 6.300000000000001,
+        "calories": 408.45000000000005,
+        "cholesterol_mg": 0,
+        "protein_g": 21.75,
+        "carbohydrates_total_g": 68.55000000000001
+      }
+    },
+    {
+      "name": "1/4 cup fresh lemon juice",
+      "nutrition": {
+        "sugar_g": 0.025,
+        "fiber_g": 0,
+        "serving_size_g": 1.25,
+        "sodium_mg": 0.25,
+        "name": "lemon juice",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.075
+      }
+    },
+    {
+      "name": "1/4 cup tahini",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.175,
+        "serving_size_g": 3.75,
+        "sodium_mg": 1.25,
+        "name": "tahini",
+        "potassium_mg": 29.5,
+        "fat_saturated_g": 0.275,
+        "fat_total_g": 2.025,
+        "calories": 22.125,
+        "cholesterol_mg": 0,
+        "protein_g": 0.65,
+        "carbohydrates_total_g": 0.8
+      }
+    },
+    {
+      "name": "1 small garlic clove",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.1,
+        "serving_size_g": 3,
+        "sodium_mg": 0,
+        "name": "garlic",
+        "potassium_mg": 4,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 4.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1
+      }
+    },
+    {
+      "name": "2 tablespoons extra-virgin olive oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 27,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 3.7,
+        "fat_total_g": 27.3,
+        "calories": 234.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "nutrition": {
+        "sugar_g": 0.05,
+        "fiber_g": 0.1,
+        "serving_size_g": 1.05,
+        "sodium_mg": 1.5,
+        "name": "ground cumin",
+        "potassium_mg": 5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.25,
+        "calories": 4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.45
+      }
+    }
+  ],
+  "directions": [
+    "In the bowl of a food processor, combine the tahini and lemon juice and process for 1 minute, scrape the sides and bottom of the bowl then process for 30 seconds more.",
+    "Add the olive oil, minced garlic, cumin, and a 1/2 teaspoon of salt to the whipped tahini and lemon juice.",
+    "Process for 30 seconds, scrape the sides and bottom of the bowl then process another 30 seconds or until well blended.",
+    "Open, drain, and rinse the chickpeas.",
+    "Add half of the chickpeas to the food processor and process for 1 minute.",
+    "Scrape sides and bottom of the bowl, then add remaining chickpeas and process until thick and quite smooth; 1 to 2 minutes.",
+    "If needed to thinnin, slowly add 2 to 3 tablespoons of water until you reach the perfect consistency.",
+    "Taste for salt and adjust as needed. Serve hummus with a drizzle of olive oil and dash of paprika.",
+    "Store homemade hummus in an airtight container and refrigerate up to one week."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 8,
+    "serving_size_g": 70,
+    "sodium_mg": 161,
+    "name": "Hummus",
+    "potassium_mg": 107,
+    "fat_saturated_g": 1,
+    "fat_total_g": 6,
+    "calories": 151,
+    "cholesterol_mg": 0,
+    "protein_g": 6,
+    "carbohydrates_total_g": 23,
+    "servings": 9
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "title": "Falafel",
+  "source": "https://www.inspiredtaste.net/42640/falafel-recipe/#itr-recipe-42640",
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "8 ounces (225 grams) dried chickpeas (1 heaping cup) *not canned chickpeas",
+      "nutrition": {
+        "sugar_g": 10.8,
+        "fiber_g": 16.9,
+        "serving_size_g": 226.796,
+        "sodium_mg": 540,
+        "name": "chickpeas",
+        "potassium_mg": 380,
+        "fat_saturated_g": 0.6,
+        "fat_total_g": 5.9,
+        "calories": 376.6,
+        "cholesterol_mg": 0,
+        "protein_g": 20.1,
+        "carbohydrates_total_g": 63.2
+      }
+    },
+    {
+      "name": "1 bunch scallions (85 grams) scallions, trimmed (5 to 6), see notes",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 0.4,
+        "serving_size_g": 15,
+        "sodium_mg": 2,
+        "name": "scallions",
+        "potassium_mg": 5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 4.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 1.1
+      }
+    },
+    {
+      "name": "2 to 4 medium garlic cloves, depending on how much you like garlic",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 12,
+        "sodium_mg": 2,
+        "name": "garlic cloves",
+        "potassium_mg": 18,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 18.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.8,
+        "carbohydrates_total_g": 4
+      }
+    },
+    {
+      "name": "2 cups packed fresh cilantro, parsley, or mint leaves, we prefer to use a mixture of all three",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 8,
+        "sodium_mg": 3,
+        "name": "fresh cilantro",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.3
+      }
+    },
+    {
+      "name": "1 teaspoon fine sea salt, plus more for serving",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 1.5,
+        "sodium_mg": 584,
+        "name": "sea salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 2.1,
+        "sodium_mg": 3,
+        "name": "ground cumin",
+        "potassium_mg": 10,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.5,
+        "calories": 8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 0.9
+      }
+    },
+    {
+      "name": "1/2 teaspoon ground coriander",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.4,
+        "serving_size_g": 0.9,
+        "sodium_mg": 0,
+        "name": "ground coriander",
+        "potassium_mg": 3.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.15,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.5
+      }
+    },
+    {
+      "name": "1/2 teaspoon ground cardamom",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.3,
+        "serving_size_g": 1,
+        "sodium_mg": 0,
+        "name": "cardamom",
+        "potassium_mg": 1.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 3.15,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.7
+      }
+    },
+    {
+      "name": "1/8 to 1/4 teaspoon cayenne pepper, optional",
+      "nutrition": {
+        "sugar_g": 0.025,
+        "fiber_g": 0.0625,
+        "serving_size_g": 0.225,
+        "sodium_mg": 0,
+        "name": "cayenne pepper",
+        "potassium_mg": 0.625,
+        "fat_saturated_g": 0.0125,
+        "fat_total_g": 0.0375,
+        "calories": 0.725,
+        "cholesterol_mg": 0,
+        "protein_g": 0.025,
+        "carbohydrates_total_g": 0.125
+      }
+    },
+    {
+      "name": "1/4 teaspoon fresh ground black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.15,
+        "serving_size_g": 0.575,
+        "sodium_mg": 0,
+        "name": "ground black pepper",
+        "potassium_mg": 0.75,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.025,
+        "calories": 1.45,
+        "cholesterol_mg": 0,
+        "protein_g": 0.05,
+        "carbohydrates_total_g": 0.375
+      }
+    },
+    {
+      "name": "3/4 teaspoon baking powder, optional, see notes",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 3.4499999999999997,
+        "sodium_mg": 366,
+        "name": "baking powder",
+        "potassium_mg": 74.25,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.875,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.9750000000000001
+      }
+    },
+    {
+      "name": "2 to 3 cups (480 to 720ml) vegetable oil, for frying",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 40.8,
+        "sodium_mg": 0,
+        "name": "vegetable oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 3,
+        "fat_total_g": 40.3,
+        "calories": 358,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    }
+  ],
+  "directions": [
+    "Rinse the dried chickpeas then place into a large bowl and cover with cool water by about 4 inches. Cover and soak overnight or until the beans triple in size. Drain the soaked chickpeas, rinse, and then pat dry or add to a salad spinner to spin dry.",
+    "Add chickpeas, scallions, garlic, herbs, salt, cumin, coriander, cardamom, cayenne, black pepper, and the baking powder to a bowl of a food processor. Pulse the mixture until very finely minced, but not pureed, scraping the bowl down as necessary. You should be able to press a handful together and have it hold it's shape (it will be loose and a little crumbly). See our video and photos above for reference.",
+    "Transfer the falafel mix to a bowl and cover. Refrigerate for at least 15 minutes to help the balls hold together when cooking. If making ahead, you can refrigerate the mixture for a few days.",
+    "Use a tablespoon or small cookie scoop to scoop out 1 1/2 tablespoons of the falafel mix then gently shape it into a ball and place onto a clean plate. Repeat with as many falafel as you plan to cook. The mix will not act like dough, but will hold its shape. Watch the video to see how we do this. Optional step: As an extra fail-safe for preventing the balls from falling apart when they hit the oil, rest the falafel balls in the refrigerator for 30 to 60 minutes before cooking.",
+    "Add at least 3/4 inch of oil to a deep saucepan, cast iron skillet or Dutch oven. The smaller the pan, the less oil you will need. The wider the pan, the more falafel you can cook at one time).",
+    "Turn the heat to medium-high and heat the oil to between 350 degrees and 375 degrees Fahrenheit.",
+    "Fry the falafel in batches, placing them gently into the oil and without crowding in the pan, until they are browned on the bottom sides. Using two forks, carefully flip the falafel to brown the other side, 3 1/2 minutes to 4 minutes total.",
+    "Transfer the cooked falafel to a plate lined with paper towel, sprinkle with a little salt, and then repeat with the remaining falafel balls. Serve immediately."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 6,
+    "serving_size_g": 116,
+    "sodium_mg": 265,
+    "name": "Falafel",
+    "potassium_mg": 139,
+    "fat_saturated_g": 1,
+    "fat_total_g": 7,
+    "calories": 171,
+    "cholesterol_mg": 0,
+    "protein_g": 6,
+    "carbohydrates_total_g": 22,
+    "servings": 7
+  }
+}

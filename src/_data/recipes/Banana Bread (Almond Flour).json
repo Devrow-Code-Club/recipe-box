@@ -1,0 +1,167 @@
+{
+  "title": "Banana Bread (Almond Flour)",
+  "source": "https://healthyrecipesblogs.com/paleo-banana-bread/#recipe",
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "3 large eggs",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 0,
+        "serving_size_g": 150,
+        "sodium_mg": 210,
+        "name": "large eggs",
+        "potassium_mg": 301,
+        "fat_saturated_g": 4.7,
+        "fat_total_g": 14.4,
+        "calories": 210.6,
+        "cholesterol_mg": 564,
+        "protein_g": 18.7,
+        "carbohydrates_total_g": 1.1
+      }
+    },
+    {
+      "name": "3 large very ripe bananas well mashed (1.5 cups)",
+      "nutrition": {
+        "sugar_g": 43.1,
+        "fiber_g": 9.1,
+        "serving_size_g": 354,
+        "sodium_mg": 3,
+        "name": "bananas",
+        "potassium_mg": 78,
+        "fat_saturated_g": 0.4,
+        "fat_total_g": 1.2,
+        "calories": 309.5,
+        "cholesterol_mg": 0,
+        "protein_g": 3.9,
+        "carbohydrates_total_g": 79.4
+      }
+    },
+    {
+      "name": "1 tablespoon vanilla extract",
+      "nutrition": {
+        "sugar_g": 0.5,
+        "fiber_g": 0,
+        "serving_size_g": 4.2,
+        "sodium_mg": 0,
+        "name": "vanilla extract",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 12.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.5
+      }
+    },
+    {
+      "name": "2 tablespoons maple syrup",
+      "nutrition": {
+        "sugar_g": 24,
+        "fiber_g": 0,
+        "serving_size_g": 40,
+        "sodium_mg": 4,
+        "name": "maple syrup",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 107,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 27.1
+      }
+    },
+    {
+      "name": "2 cups blanched finely ground almond flour (8 oz)*",
+      "nutrition": {
+        "sugar_g": 9.7,
+        "fiber_g": 28.5,
+        "serving_size_g": 224,
+        "sodium_mg": 2,
+        "name": "almond flour",
+        "potassium_mg": 1080,
+        "fat_saturated_g": 8.5,
+        "fat_total_g": 109.8,
+        "calories": 1303.4,
+        "cholesterol_mg": 0,
+        "protein_g": 47.8,
+        "carbohydrates_total_g": 48.4
+      }
+    },
+    {
+      "name": "1 tablespoon ground cinnamon",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 1.4,
+        "serving_size_g": 2.6,
+        "sodium_mg": 0,
+        "name": "ground cinnamon",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 6.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 2.1
+      }
+    },
+    {
+      "name": "1/4 teaspoon Diamond Crystal kosher salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.375,
+        "sodium_mg": 147.5,
+        "name": "kosher salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 teaspoon baking soda",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 4.6,
+        "sodium_mg": 1268,
+        "name": "baking soda",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    }
+  ],
+  "directions": [
+    "Preheat your oven to 350°F. Line a small loaf pan (8.5 X 4.5 inches) with parchment paper strips, leaving an overhang on each side of the pan. Lightly spray the lined pan with oil.",
+    "In a medium bowl, whisk together the eggs, mashed bananas, vanilla, and sweetener.",
+    "Gradually whisk in the almond flour, cinnamon, kosher salt, and finally the baking soda. Whisk until smooth.",
+    "Using a rubber spatula, transfer the batter to the prepared pan. Gently tap the pan on the counter top to evenly distribute the batter.",
+    "Bake the banana bread until browned and set, and a toothpick inserted in its center comes out dry, 40-50 minutes.",
+    "Using the excess parchment paper as handles, carefully remove the banana bread from the pan and transfer it to a wire rack. Carefully remove the parchment, to allow air to circulate.",
+    "Cool the bread completely on the cooling rack, about 2 hours. Slice it into 12 slices and serve."
+  ],
+  "nutrition": {
+    "sugar_g": 16,
+    "fiber_g": 8,
+    "serving_size_g": 156,
+    "sodium_mg": 327,
+    "name": "Banana Bread (Almond Flour)",
+    "potassium_mg": 292,
+    "fat_saturated_g": 3,
+    "fat_total_g": 25,
+    "calories": 390,
+    "cholesterol_mg": 113,
+    "protein_g": 14,
+    "carbohydrates_total_g": 32,
+    "servings": 5
+  }
+}

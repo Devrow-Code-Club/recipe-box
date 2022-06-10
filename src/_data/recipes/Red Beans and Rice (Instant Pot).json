@@ -1,0 +1,304 @@
+{
+  "title": "Red Beans and Rice (Instant Pot)",
+  "source": "https://damndelicious.net/2018/04/30/instant-pot-red-beans-and-rice/",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups white long grain rice",
+      "nutrition": {
+        "sugar_g": 0.15000000000000002,
+        "fiber_g": 0.8999999999999999,
+        "serving_size_g": 237,
+        "sodium_mg": 1.5,
+        "name": "long grain rice",
+        "potassium_mg": 100.5,
+        "fat_saturated_g": 0.15000000000000002,
+        "fat_total_g": 0.6000000000000001,
+        "calories": 311.1,
+        "cholesterol_mg": 0,
+        "protein_g": 6.449999999999999,
+        "carbohydrates_total_g": 66.15
+      }
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 13.5,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 1.9,
+        "fat_total_g": 13.7,
+        "calories": 117.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 (12.8-ounce) package smoked andouille sausage, thinly sliced",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 0,
+        "serving_size_g": 68,
+        "sodium_mg": 566,
+        "name": "andouille sausage",
+        "potassium_mg": 106,
+        "fat_saturated_g": 6.3,
+        "fat_total_g": 19.3,
+        "calories": 208.2,
+        "cholesterol_mg": 40,
+        "protein_g": 8.2,
+        "carbohydrates_total_g": 0.6
+      }
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 12,
+        "sodium_mg": 2,
+        "name": "cloves garlic",
+        "potassium_mg": 18,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 17.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.8,
+        "carbohydrates_total_g": 4
+      }
+    },
+    {
+      "name": "1 onion, diced",
+      "nutrition": {
+        "sugar_g": 4.4,
+        "fiber_g": 1.3,
+        "serving_size_g": 94,
+        "sodium_mg": 2,
+        "name": "onion",
+        "potassium_mg": 32,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 42,
+        "cholesterol_mg": 0,
+        "protein_g": 1.3,
+        "carbohydrates_total_g": 9.5
+      }
+    },
+    {
+      "name": "2 stalks celery, thinly sliced",
+      "nutrition": {
+        "sugar_g": 1.8,
+        "fiber_g": 1.2,
+        "serving_size_g": 75,
+        "sodium_mg": 68,
+        "name": "celery",
+        "potassium_mg": 18,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 13.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.6,
+        "carbohydrates_total_g": 3
+      }
+    },
+    {
+      "name": "1 pound dry red beans",
+      "nutrition": {
+        "sugar_g": 1.4,
+        "fiber_g": 28.9,
+        "serving_size_g": 453.592,
+        "sodium_mg": 4,
+        "name": "red beans",
+        "potassium_mg": 629,
+        "fat_saturated_g": 0.3,
+        "fat_total_g": 2.3,
+        "calories": 582.4,
+        "cholesterol_mg": 0,
+        "protein_g": 39.6,
+        "carbohydrates_total_g": 105
+      }
+    },
+    {
+      "name": "1 1/2 teaspoons Cajun seasoning",
+      "nutrition": {
+        "sugar_g": 0.75,
+        "fiber_g": 2.8499999999999996,
+        "serving_size_g": 42.525000000000006,
+        "sodium_mg": 11416.5,
+        "name": "cajun seasoning",
+        "potassium_mg": 37.5,
+        "fat_saturated_g": 0.15000000000000002,
+        "fat_total_g": 0.8999999999999999,
+        "calories": 39.45,
+        "cholesterol_mg": 0,
+        "protein_g": 1.6500000000000001,
+        "carbohydrates_total_g": 8.55
+      }
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.4,
+        "serving_size_g": 1,
+        "sodium_mg": 0,
+        "name": "oregano",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.7
+      }
+    },
+    {
+      "name": "1/2 teaspoon dried basil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.15,
+        "serving_size_g": 0.35,
+        "sodium_mg": 0,
+        "name": "dried basil",
+        "potassium_mg": 0.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.15
+      }
+    },
+    {
+      "name": "1/4 teaspoon dried sage",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.075,
+        "serving_size_g": 0.175,
+        "sodium_mg": 0,
+        "name": "sage",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.025,
+        "calories": 0.55,
+        "cholesterol_mg": 0,
+        "protein_g": 0.025,
+        "carbohydrates_total_g": 0.1
+      }
+    },
+    {
+      "name": "2 sprigs fresh thyme",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 1.6,
+        "sodium_mg": 0,
+        "name": "thyme",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "2 bay leaves",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.1,
+        "serving_size_g": 0.4,
+        "sodium_mg": 0,
+        "name": "bay leaves",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.3
+      }
+    },
+    {
+      "name": "4 cup low sodium vegetable broth",
+      "nutrition": {
+        "sugar_g": 6.2,
+        "fiber_g": 1.2,
+        "serving_size_g": 947.88,
+        "sodium_mg": 598,
+        "name": "low sodium vegetable broth",
+        "potassium_mg": 65,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 61.6,
+        "cholesterol_mg": 0,
+        "protein_g": 1.5,
+        "carbohydrates_total_g": 14.8
+      }
+    },
+    {
+      "name": "Kosher salt and freshly ground black pepper, to taste",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 39348,
+        "name": "kosher salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "2 green onions, thinly sliced",
+      "nutrition": {
+        "sugar_g": 0.7,
+        "fiber_g": 0.8,
+        "serving_size_g": 30,
+        "sodium_mg": 4,
+        "name": "green onions",
+        "potassium_mg": 10,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 9.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.5,
+        "carbohydrates_total_g": 2.2
+      }
+    }
+  ],
+  "directions": [
+    "In a large saucepan of 3 cups water, cook rice according to package instructions; set aside.",
+    "Set pressure cooker to the high saute setting. Add olive oil and sausage.",
+    "Cook, stirring frequently, until sausage is lightly browned, about 3-4 minutes. Transfer to a paper towel-lined plate; set aside.",
+    "Add garlic, onion, bell pepper and celery. Cook, stirring occasionally, until tender, about 2-3 minutes.",
+    "Stir in sausage, red beans, Cajun seasoning, oregano, basil, sage, thyme, bay leaves and vegetable broth; season with salt and pepper, to taste.",
+    "Select manual setting; adjust pressure to high, and set time for 30-35 minutes.",
+    "Natural release about 20-30 minutes.",
+    "Serve immediately with rice and hot sauce, garnished with green onions, if desired."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 13,
+    "serving_size_g": 435,
+    "sodium_mg": 10406,
+    "name": "Red Beans and Rice (Instant Pot)",
+    "potassium_mg": 236,
+    "fat_saturated_g": 2,
+    "fat_total_g": 8,
+    "calories": 332,
+    "cholesterol_mg": 8,
+    "protein_g": 14,
+    "carbohydrates_total_g": 56,
+    "servings": 5
+  }
+}

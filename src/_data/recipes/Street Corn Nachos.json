@@ -1,0 +1,215 @@
+{
+  "title": "Street Corn Nachos",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp. extra-virgin olive oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 27,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 3.7,
+        "fat_total_g": 27.3,
+        "calories": 234.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "3 c. frozen corn",
+      "nutrition": {
+        "sugar_g": 14.1,
+        "fiber_g": 7.3,
+        "serving_size_g": 309,
+        "sodium_mg": 3,
+        "name": "corn",
+        "potassium_mg": 234,
+        "fat_saturated_g": 0.6,
+        "fat_total_g": 4.7,
+        "calories": 290,
+        "cholesterol_mg": 0,
+        "protein_g": 10.4,
+        "carbohydrates_total_g": 64.8
+      }
+    },
+    {
+      "name": "Kosher salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 39348,
+        "name": "kosher salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 24.9,
+        "serving_size_g": 100,
+        "sodium_mg": 20,
+        "name": "ground black pepper",
+        "potassium_mg": 160,
+        "fat_saturated_g": 1.3,
+        "fat_total_g": 3,
+        "calories": 253.3,
+        "cholesterol_mg": 0,
+        "protein_g": 10.4,
+        "carbohydrates_total_g": 64.7
+      }
+    },
+    "1 jalapeño, seeded and minced",
+    {
+      "name": "2 tbsp. lime juice, divided, plus wedges for serving",
+      "nutrition": {
+        "sugar_g": 1.5,
+        "fiber_g": 0.4,
+        "serving_size_g": 88,
+        "sodium_mg": 1,
+        "name": "lime juice",
+        "potassium_mg": 12,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 21.9,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 7.4
+      }
+    },
+    {
+      "name": "1/4c. sour cream",
+      "nutrition": {
+        "sugar_g": 0.85,
+        "fiber_g": 0,
+        "serving_size_g": 25,
+        "sodium_mg": 7.5,
+        "name": "sour cream",
+        "potassium_mg": 19,
+        "fat_saturated_g": 2.525,
+        "fat_total_g": 4.9,
+        "calories": 48.125,
+        "cholesterol_mg": 14.5,
+        "protein_g": 0.6,
+        "carbohydrates_total_g": 1.175
+      }
+    },
+    {
+      "name": "2 tbsp. mayonnaise",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0,
+        "serving_size_g": 27.6,
+        "sodium_mg": 172,
+        "name": "mayonnaise",
+        "potassium_mg": 5,
+        "fat_saturated_g": 3.3,
+        "fat_total_g": 20.6,
+        "calories": 190.3,
+        "cholesterol_mg": 11,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 0.2
+      }
+    },
+    {
+      "name": "1 (9-oz.) package corn tortilla chips",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 3,
+        "sodium_mg": 9,
+        "name": "corn tortilla chips",
+        "potassium_mg": 6,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.6,
+        "calories": 14.5,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 2
+      }
+    },
+    {
+      "name": "2 1/2c. shredded Monterey Jack",
+      "nutrition": {
+        "sugar_g": 1.25,
+        "fiber_g": 0,
+        "serving_size_g": 250,
+        "sodium_mg": 1517.5,
+        "name": "shredded monterey jack",
+        "potassium_mg": 1130,
+        "fat_saturated_g": 47.75,
+        "fat_total_g": 76.5,
+        "calories": 926.5,
+        "cholesterol_mg": 225,
+        "protein_g": 61,
+        "carbohydrates_total_g": 1.75
+      }
+    },
+    {
+      "name": "2 tbsp. crumbled cotija",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 10,
+        "sodium_mg": 142,
+        "name": "cotija",
+        "potassium_mg": 71,
+        "fat_saturated_g": 1.7,
+        "fat_total_g": 3,
+        "calories": 36.6,
+        "cholesterol_mg": 10,
+        "protein_g": 2,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "2 tbsp. freshly chopped cilantro",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 8,
+        "sodium_mg": 3,
+        "name": "chopped cilantro",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.3
+      }
+    }
+  ],
+  "directions": [
+    "Preheat oven to 375°. In a large ovenproof skillet over high heat, heat oil. Add corn and season with salt and pepper. Cook, tossing until just cooked through, about 2 minutes. Transfer corn to a large bowl and wipe the skillet.",
+    "Stir in jalapeño and 1 tablespoon lime juice to the corn. In a small bowl, stir together sour cream, mayonnaise, and remaining tablespoon lime juice. Season with salt.",
+    "Layer tortilla chips and Monterey Jack in skillet. Bake until cheese is melty, about 5 minutes.",
+    "Top broiled tortilla chips with corn mixture. Garnish with mayonnaise mixture, cotija, and cilantro."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 6,
+    "serving_size_g": 160,
+    "sodium_mg": 6871,
+    "name": "Street Corn Nachos",
+    "potassium_mg": 274,
+    "fat_saturated_g": 10,
+    "fat_total_g": 23,
+    "calories": 337,
+    "cholesterol_mg": 43,
+    "protein_g": 14,
+    "carbohydrates_total_g": 24,
+    "servings": 6
+  }
+}

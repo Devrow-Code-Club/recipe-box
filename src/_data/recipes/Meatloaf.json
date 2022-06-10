@@ -1,0 +1,390 @@
+{
+  "title": "Meatloaf",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds ground beef (or ground turkey, ground pork or a combination)",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 907.184,
+        "sodium_mg": 834,
+        "name": "ground beef",
+        "potassium_mg": 2028,
+        "fat_saturated_g": 58.8,
+        "fat_total_g": 155.1,
+        "calories": 2527.1,
+        "cholesterol_mg": 817,
+        "protein_g": 247,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "2 large eggs",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 140,
+        "name": "large eggs",
+        "potassium_mg": 201,
+        "fat_saturated_g": 3.1,
+        "fat_total_g": 9.6,
+        "calories": 140.4,
+        "cholesterol_mg": 376,
+        "protein_g": 12.5,
+        "carbohydrates_total_g": 0.7
+      }
+    },
+    {
+      "name": "4 Tablespoons ketchup",
+      "nutrition": {
+        "sugar_g": 7.25,
+        "fiber_g": 0.1,
+        "serving_size_g": 34,
+        "sodium_mg": 302.5,
+        "name": "ketchup",
+        "potassium_mg": 8.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 34.25,
+        "cholesterol_mg": 0,
+        "protein_g": 0.35,
+        "carbohydrates_total_g": 9.4
+      }
+    },
+    {
+      "name": "2 Tablespoons Tamari Soy Sauce",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 0.3,
+        "serving_size_g": 36,
+        "sodium_mg": 1972,
+        "name": "tamari",
+        "potassium_mg": 47,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 22.1,
+        "cholesterol_mg": 0,
+        "protein_g": 3.8,
+        "carbohydrates_total_g": 2
+      }
+    },
+    {
+      "name": "2 teaspoons dijon mustard",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.4,
+        "serving_size_g": 10.8,
+        "sodium_mg": 267,
+        "name": "dijon mustard",
+        "potassium_mg": 11,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.3,
+        "calories": 6.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 0.6
+      }
+    },
+    {
+      "name": "4 cloves garlic , minced (or 1 1/2 teaspoons garlic powder)",
+      "nutrition": {
+        "sugar_g": 0.15000000000000002,
+        "fiber_g": 0.30000000000000004,
+        "serving_size_g": 18,
+        "sodium_mg": 3,
+        "name": "cloves garlic",
+        "potassium_mg": 27,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.15000000000000002,
+        "calories": 26.099999999999998,
+        "cholesterol_mg": 0,
+        "protein_g": 1.2000000000000002,
+        "carbohydrates_total_g": 6
+      }
+    },
+    {
+      "name": "1 teaspoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.375,
+        "sodium_mg": 143.75,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 teaspoon freshly ground black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.3,
+        "serving_size_g": 1.15,
+        "sodium_mg": 0,
+        "name": "ground black pepper",
+        "potassium_mg": 1.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 2.9,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.75
+      }
+    },
+    {
+      "name": "1 teaspoon dried sage",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.3,
+        "serving_size_g": 0.7,
+        "sodium_mg": 0,
+        "name": "sage",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 2.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "1/2 cup sweet onion , diced (or 3 teaspoons dried minced onion",
+      "nutrition": {
+        "sugar_g": 8.3,
+        "fiber_g": 1.45,
+        "serving_size_g": 165.5,
+        "sodium_mg": 13,
+        "name": "sweet onion",
+        "potassium_mg": 44.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.15,
+        "calories": 51.85,
+        "cholesterol_mg": 0,
+        "protein_g": 1.35,
+        "carbohydrates_total_g": 12.3
+      }
+    },
+    {
+      "name": "1/2 cup breadcrumbs",
+      "nutrition": {
+        "sugar_g": 0.9,
+        "fiber_g": 0.65,
+        "serving_size_g": 14.175,
+        "sodium_mg": 101.5,
+        "name": "breadcrumbs",
+        "potassium_mg": 23.5,
+        "fat_saturated_g": 0.15,
+        "fat_total_g": 0.75,
+        "calories": 56.7,
+        "cholesterol_mg": 0,
+        "protein_g": 1.9,
+        "carbohydrates_total_g": 10.1
+      }
+    },
+    {
+      "name": "1/2 cup ketchup",
+      "nutrition": {
+        "sugar_g": 1.8,
+        "fiber_g": 0,
+        "serving_size_g": 8.5,
+        "sodium_mg": 75.5,
+        "name": "ketchup",
+        "potassium_mg": 2,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 8.55,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 2.35
+      }
+    },
+    {
+      "name": "2 teaspoons dijon mustard",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.4,
+        "serving_size_g": 10.8,
+        "sodium_mg": 267,
+        "name": "dijon mustard",
+        "potassium_mg": 11,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.3,
+        "calories": 6.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 0.6
+      }
+    },
+    {
+      "name": "1/4 teaspoon ground nutmeg",
+      "nutrition": {
+        "sugar_g": 0.025,
+        "fiber_g": 0.125,
+        "serving_size_g": 0.55,
+        "sodium_mg": 0,
+        "name": "ground nutmeg",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0.15,
+        "fat_total_g": 0.2,
+        "calories": 2.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.025,
+        "carbohydrates_total_g": 0.275
+      }
+    },
+    "--- Mashed Potatos ---",
+    {
+      "name": "3 pounds Yukon Gold Potatoes , quartered",
+      "nutrition": {
+        "sugar_g": 16.1,
+        "fiber_g": 30.5,
+        "serving_size_g": 1360.7759999999998,
+        "sodium_mg": 137,
+        "name": "yukon gold potatoes",
+        "potassium_mg": 968,
+        "fat_saturated_g": 0.5,
+        "fat_total_g": 1.8,
+        "calories": 1275,
+        "cholesterol_mg": 0,
+        "protein_g": 33.8,
+        "carbohydrates_total_g": 290.9
+      }
+    },
+    {
+      "name": "1 cup water",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 237,
+        "sodium_mg": 9,
+        "name": "water",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.375,
+        "sodium_mg": 143.75,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/4 cup milk",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 61.25,
+        "sodium_mg": 32.25,
+        "name": "milk",
+        "potassium_mg": 61.5,
+        "fat_saturated_g": 0.725,
+        "fat_total_g": 1.175,
+        "calories": 31.425,
+        "cholesterol_mg": 4.75,
+        "protein_g": 2.15,
+        "carbohydrates_total_g": 3
+      }
+    },
+    {
+      "name": "1/4 cup sour cream",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0,
+        "serving_size_g": 3,
+        "sodium_mg": 0.75,
+        "name": "sour cream",
+        "potassium_mg": 2.25,
+        "fat_saturated_g": 0.3,
+        "fat_total_g": 0.6,
+        "calories": 5.775,
+        "cholesterol_mg": 1.75,
+        "protein_g": 0.075,
+        "carbohydrates_total_g": 0.15
+      }
+    },
+    {
+      "name": "3 Tablespoons butter",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 42.599999999999994,
+        "sodium_mg": 271,
+        "name": "butter",
+        "potassium_mg": 10,
+        "fat_saturated_g": 21.7,
+        "fat_total_g": 33.9,
+        "calories": 307.4,
+        "cholesterol_mg": 91,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 teaspoon bouillon paste (I love 'Better than Bouillon)",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 0,
+        "serving_size_g": 2,
+        "sodium_mg": 481,
+        "name": "bouillon",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 5.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 0.4
+      }
+    }
+  ],
+  "directions": [
+    "Add all of the meatloaf ingredients to a large bowl and gently mix everything to combine (without over-working the meat).",
+    "Form the meat mixture into a round loaf that will fit into your instant pot.",
+    "Place the loaf on a large piece of aluminum foil and fold the edges up to make a secure nest for the meatloaf to rest in. (You want the edges high enough that grease from the loaf wont spill out onto the potatoes while cooking.)",
+    "Add the quartered potatoes, water, and salt to the bottom of the instant pot.",
+    "Lay the IP wire rack on top of the potatoes. Place the aluminum foil \"nest\" with the meatloaf on top of the rack.",
+    "Secure the lid on the pot and close the pressure release valve. Select manual/High pressure and cook at high pressure for 25 minutes*.  When the timer beeps, allow the pressure to naturally release for 10 minutes.",
+    "While the meatloaf cooks, make the sauce by combining all of the sauce ingredients in a bowl.",
+    "Remove the IP lid, and carefully remove the meatloaf. Discard the aluminum foil and dippings. Spoon the meatloaf sauce over the top and cut into slices.",
+    "Add the milk, sour cream, butter, bouillon paste, and salt and pepper to the bottom of the instant pot with the mashed potatoes. Mash to combine (but don't over-mash the potatoes).  Taste and adjust seasonings, as needed."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 2,
+    "serving_size_g": 204,
+    "sodium_mg": 634,
+    "name": "Meatloaf",
+    "potassium_mg": 244,
+    "fat_saturated_g": 6,
+    "fat_total_g": 14,
+    "calories": 305,
+    "cholesterol_mg": 88,
+    "protein_g": 22,
+    "carbohydrates_total_g": 21,
+    "servings": 17
+  }
+}

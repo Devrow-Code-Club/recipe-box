@@ -1,0 +1,253 @@
+{
+  "title": "Tandoori Chicken Recipe",
+  "source": "https://twosleevers.com/tandoori-chicken-recipe/",
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "1 pound  (453.59 g) chicken tenders, each cut in half",
+      "nutrition": {
+        "sugar_g": 1.1,
+        "fiber_g": 4,
+        "serving_size_g": 453.592,
+        "sodium_mg": 3572,
+        "name": "chicken tenders",
+        "potassium_mg": 1361,
+        "fat_saturated_g": 13.4,
+        "fat_total_g": 76,
+        "calories": 1348,
+        "cholesterol_mg": 204,
+        "protein_g": 85.7,
+        "carbohydrates_total_g": 85.9
+      }
+    },
+    {
+      "name": "1/4 cup  (50 g) Full-Fat Greek Yogurt",
+      "nutrition": {
+        "sugar_g": 1.375,
+        "fiber_g": 0,
+        "serving_size_g": 42.5,
+        "sodium_mg": 15.5,
+        "name": "greek yogurt",
+        "potassium_mg": 56.5,
+        "fat_saturated_g": 0.05,
+        "fat_total_g": 0.175,
+        "calories": 25.825,
+        "cholesterol_mg": 2,
+        "protein_g": 4.325,
+        "carbohydrates_total_g": 1.525
+      }
+    },
+    {
+      "name": "1 tablespoon  (1 tablespoon) Minced Ginger",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 2,
+        "sodium_mg": 0,
+        "name": "ginger",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "1 tablespoon  (1 tablespoon) Minced Garlic",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.1,
+        "serving_size_g": 2.8,
+        "sodium_mg": 0,
+        "name": "minced garlic",
+        "potassium_mg": 4,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 4.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.9
+      }
+    },
+    {
+      "name": "1/4 cup  (4 g) Cilantro, or sub parsley",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.025,
+        "serving_size_g": 1,
+        "sodium_mg": 0.25,
+        "name": "cilantro",
+        "potassium_mg": 0.25,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.225,
+        "cholesterol_mg": 0,
+        "protein_g": 0.025,
+        "carbohydrates_total_g": 0.05
+      }
+    },
+    {
+      "name": "1 teaspoon  (1 teaspoon) Kosher Salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 1.5,
+        "sodium_mg": 590,
+        "name": "kosher salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 teaspoon   Cayenne Pepper",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.25,
+        "serving_size_g": 0.9,
+        "sodium_mg": 0,
+        "name": "cayenne pepper",
+        "potassium_mg": 2.5,
+        "fat_saturated_g": 0.05,
+        "fat_total_g": 0.15,
+        "calories": 2.9,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.5
+      }
+    },
+    {
+      "name": "1 teaspoon  (1 teaspoon) Turmeric",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.7,
+        "serving_size_g": 3,
+        "sodium_mg": 0,
+        "name": "turmeric",
+        "potassium_mg": 8,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.1,
+        "calories": 9.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 2
+      }
+    },
+    {
+      "name": "1 teaspoon  (1 teaspoon) Garam Masala",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.4,
+        "serving_size_g": 1.47,
+        "sodium_mg": 1,
+        "name": "garam masala",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 4.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.8
+      }
+    },
+    {
+      "name": "1 teaspoon  (1 teaspoon) Smoked Paprika, to add a smoky flavor to the chicken, and color",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.8,
+        "serving_size_g": 2.3,
+        "sodium_mg": 1,
+        "name": "smoked paprika",
+        "potassium_mg": 7,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 6.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 1.2
+      }
+    },
+    {
+      "name": "1 tablespoon  (1 tablespoon) Oil, or ghee for basting",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 14,
+        "sodium_mg": 0,
+        "name": "oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0.9,
+        "fat_total_g": 14.1,
+        "calories": 123.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "2 teaspoons  (2 teaspoons) Lemon Juice, for finishing",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.1,
+        "serving_size_g": 10,
+        "sodium_mg": 2,
+        "name": "lemon juice",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.6
+      }
+    },
+    {
+      "name": "2 tablespoons  (2 tablespoons) chopped cilantro, for garnishing",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 8,
+        "sodium_mg": 3,
+        "name": "chopped cilantro",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.3
+      }
+    }
+  ],
+  "directions": [
+    "In a glass bowl, mix all ingredients except the basting oil, lemon juice and 2 tablespoons of cilantro. Marinate for 30 minutes.",
+    "Open up the air fryer and carefully lay the tandoori chicken in a single layer on either the rack or in the basket of your air fryer.",
+    "Using a silicone brush, baste the chicken with either oil or ghee on one side.",
+    "Cook at 350F for 10 minutes.",
+    "Remove and flip over the chicken, and baste on the other side,",
+    "Cook for another 5 minutes.",
+    "Using a meat thermometer, check to see if the internal temperature has reached 165F. Do not skip this step.",
+    "Remove and place on a serving plate. Add lemon juice and mix, and sprinkle with cilantro."
+  ],
+  "nutrition": {
+    "sugar_g": 4,
+    "fiber_g": 8,
+    "serving_size_g": 793,
+    "sodium_mg": 4403,
+    "name": "Tandoori Chicken Recipe",
+    "potassium_mg": 1699,
+    "fat_saturated_g": 81,
+    "fat_total_g": 206,
+    "calories": 2725,
+    "cholesterol_mg": 564,
+    "protein_g": 120,
+    "carbohydrates_total_g": 101,
+    "servings": 1
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "title": "Chicken Marsala",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound boneless skinless chicken thighs",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 453.592,
+        "sodium_mg": 795,
+        "name": "boneless skinless chicken thighs",
+        "potassium_mg": 918,
+        "fat_saturated_g": 11,
+        "fat_total_g": 35.1,
+        "calories": 753.3,
+        "cholesterol_mg": 547,
+        "protein_g": 110.1,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "3 tablespoons all-purpose flour",
+      "nutrition": {
+        "sugar_g": 1,
+        "fiber_g": 10.1,
+        "serving_size_g": 375,
+        "sodium_mg": 7,
+        "name": "flour",
+        "potassium_mg": 399,
+        "fat_saturated_g": 0.6,
+        "fat_total_g": 3.7,
+        "calories": 1359.7,
+        "cholesterol_mg": 0,
+        "protein_g": 38.4,
+        "carbohydrates_total_g": 288.6
+      }
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 13.5,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 1.9,
+        "fat_total_g": 13.7,
+        "calories": 117.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 42.599999999999994,
+        "sodium_mg": 4,
+        "name": "unsalted butter",
+        "potassium_mg": 10,
+        "fat_saturated_g": 21.6,
+        "fat_total_g": 34.5,
+        "calories": 309.5,
+        "cholesterol_mg": 91,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "20 oz mushrooms",
+      "nutrition": {
+        "sugar_g": 13.2,
+        "fiber_g": 12.3,
+        "serving_size_g": 566.99,
+        "sodium_mg": 11,
+        "name": "mushrooms",
+        "potassium_mg": 488,
+        "fat_saturated_g": 0.5,
+        "fat_total_g": 2.9,
+        "calories": 157.9,
+        "cholesterol_mg": 0,
+        "protein_g": 12.2,
+        "carbohydrates_total_g": 29.6
+      }
+    },
+    {
+      "name": "3 tablespoons shallot",
+      "nutrition": {
+        "sugar_g": 10.1,
+        "fiber_g": 4.1,
+        "serving_size_g": 127.59,
+        "sodium_mg": 15,
+        "name": "shallot",
+        "potassium_mg": 75,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 93.9,
+        "cholesterol_mg": 0,
+        "protein_g": 3.2,
+        "carbohydrates_total_g": 21.5
+      }
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 6,
+        "sodium_mg": 1,
+        "name": "cloves garlic",
+        "potassium_mg": 9,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 8.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 2
+      }
+    },
+    {
+      "name": "2/3 cup chicken broth",
+      "nutrition": {
+        "sugar_g": 0.7333333333333334,
+        "fiber_g": 0,
+        "serving_size_g": 166,
+        "sodium_mg": 618.6666666666666,
+        "name": "chicken broth",
+        "potassium_mg": 6,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.3333333333333333,
+        "calories": 10.266666666666666,
+        "cholesterol_mg": 3.333333333333333,
+        "protein_g": 1.0666666666666667,
+        "carbohydrates_total_g": 0.7333333333333334
+      }
+    },
+    {
+      "name": "2/3 cup dry Marsala wine",
+      "nutrition": {
+        "sugar_g": 0.3333333333333333,
+        "fiber_g": 0,
+        "serving_size_g": 19.333333333333332,
+        "sodium_mg": 119.33333333333333,
+        "name": "marsala wine",
+        "potassium_mg": 2.6666666666666665,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 9.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.06666666666666667,
+        "carbohydrates_total_g": 1.2666666666666666
+      }
+    },
+    {
+      "name": "2/3 cup heavy cream",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 0,
+        "serving_size_g": 19.866666666666667,
+        "sodium_mg": 5.333333333333333,
+        "name": "heavy cream",
+        "potassium_mg": 11.333333333333332,
+        "fat_saturated_g": 4.6,
+        "fat_total_g": 7.266666666666667,
+        "calories": 69.19999999999999,
+        "cholesterol_mg": 22,
+        "protein_g": 0.5333333333333333,
+        "carbohydrates_total_g": 0.5333333333333333
+      }
+    },
+    {
+      "name": "2 teaspoons fresh thyme",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 1.6,
+        "sodium_mg": 0,
+        "name": "thyme",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "2 tablespoons fresh Italian parsley",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.3,
+        "serving_size_g": 7.6,
+        "sodium_mg": 4,
+        "name": "italian parsley",
+        "potassium_mg": 4,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 2.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.5
+      }
+    }
+  ],
+  "directions": [
+    "Place the flour, 3/4 teaspoon salt, and 1/4 teaspoon pepper in a ziplock bag.",
+    "Add the chicken to the bag; seal bag tightly and shake to coat chicken evenly. Set aside.",
+    "Heat the oil and 2 tablespoons of the butter in a large skillet over medium-high heat.",
+    "Place the flour-dusted chicken in the pan, shaking off any excess first, and cook, turning once, until the chicken is golden and just barely cooked through, about 5 to 6 minutes total.",
+    "Transfer the chicken to a plate and set aside.",
+    "Melt the remaining tablespoon of butter in the pan.",
+    "Add the mushrooms and cook, stirring frequently, until the mushrooms begin to brown, 3 to 4 minutes.",
+    "Add the shallots, garlic, and 1/4 teaspoon of salt; cook for 1 to 2 minutes more.",
+    "Add the broth, Marsala, heavy cream, thyme, 1/4 teaspoon salt, and ⅛ teaspoon of pepper; use a wooden spoon to scrape any brown bits from the pan into the liquid.",
+    "Bring the liquid to a boil, then reduce the heat to medium and gently boil, uncovered, until the sauce is reduced by about half, slightly thickened, and darkened in color, 10 to 15 minutes.",
+    "Add the chicken back to the pan, along with any juices that accumulated on the plate.",
+    "Reduce the heat to low and simmer until the chicken is warmed through and the sauce thickens a bit more, 2 to 3 minutes.",
+    "Sprinkle with parsley, if using, and serve."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 3,
+    "serving_size_g": 200,
+    "sodium_mg": 176,
+    "name": "Chicken Marsala",
+    "potassium_mg": 214,
+    "fat_saturated_g": 4,
+    "fat_total_g": 11,
+    "calories": 322,
+    "cholesterol_mg": 74,
+    "protein_g": 19,
+    "carbohydrates_total_g": 38,
+    "servings": 9
+  }
+}

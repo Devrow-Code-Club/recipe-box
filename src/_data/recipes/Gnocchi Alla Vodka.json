@@ -1,0 +1,172 @@
+{
+  "title": "Gnocchi Alla Vodka",
+  "source": "https://www.delish.com/cooking/recipe-ideas/a26556220/penne-alla-vodka-recipe/",
+  "meal": "dinner",
+  "ingredients": [
+    "3 tbsp.butter",
+    {
+      "name": "1 shallot, minced",
+      "nutrition": {
+        "sugar_g": 3.4,
+        "fiber_g": 1.4,
+        "serving_size_g": 42.53,
+        "sodium_mg": 5,
+        "name": "shallot",
+        "potassium_mg": 25,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 31.3,
+        "cholesterol_mg": 0,
+        "protein_g": 1.1,
+        "carbohydrates_total_g": 7.2
+      }
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 6,
+        "sodium_mg": 1,
+        "name": "cloves garlic",
+        "potassium_mg": 9,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 8.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 2
+      }
+    },
+    "1/2c.tomato paste",
+    {
+      "name": "1/2tsp.crushed red pepper flakes",
+      "nutrition": {
+        "sugar_g": 5.25,
+        "fiber_g": 13.4,
+        "serving_size_g": 50,
+        "sodium_mg": 14.5,
+        "name": "red pepper flakes",
+        "potassium_mg": 143.5,
+        "fat_saturated_g": 1.65,
+        "fat_total_g": 8.75,
+        "calories": 155.55,
+        "cholesterol_mg": 0,
+        "protein_g": 6.1,
+        "carbohydrates_total_g": 28.7
+      }
+    },
+    "2 tbsp.vodka",
+    {
+      "name": "Kosher salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 3,
+        "sodium_mg": 1180,
+        "name": "kosher salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 package gnocchi",
+      "nutrition": {
+        "sugar_g": 0.8,
+        "fiber_g": 2.5,
+        "serving_size_g": 126.8,
+        "sodium_mg": 18,
+        "name": "gnocchi",
+        "potassium_mg": 103,
+        "fat_saturated_g": 0.4,
+        "fat_total_g": 1.5,
+        "calories": 256.9,
+        "cholesterol_mg": 37,
+        "protein_g": 7.7,
+        "carbohydrates_total_g": 51.2
+      }
+    },
+    {
+      "name": "1/2c.heavy cream",
+      "nutrition": {
+        "sugar_g": 1.45,
+        "fiber_g": 0,
+        "serving_size_g": 50,
+        "sodium_mg": 13.5,
+        "name": "cream",
+        "potassium_mg": 28.5,
+        "fat_saturated_g": 11.45,
+        "fat_total_g": 17.8,
+        "calories": 173.7,
+        "cholesterol_mg": 55.5,
+        "protein_g": 1.45,
+        "carbohydrates_total_g": 1.4
+      }
+    },
+    {
+      "name": "1/2c.freshly grated Parmesan, plus more for serving",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 50,
+        "sodium_mg": 890,
+        "name": "grated parmesan",
+        "potassium_mg": 314.5,
+        "fat_saturated_g": 7.65,
+        "fat_total_g": 13.8,
+        "calories": 204.8,
+        "cholesterol_mg": 42.5,
+        "protein_g": 14.2,
+        "carbohydrates_total_g": 7.05
+      }
+    },
+    {
+      "name": "Basil, for serving",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 2,
+        "serving_size_g": 100,
+        "sodium_mg": 4,
+        "name": "basil",
+        "potassium_mg": 56,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 24.4,
+        "cholesterol_mg": 0,
+        "protein_g": 4,
+        "carbohydrates_total_g": 2
+      }
+    }
+  ],
+  "directions": [
+    "In a large skillet over medium heat, melt butter. Add shallot and garlic and cook, stirring frequently, until softened, 4 to 5 minutes.",
+    "Add tomato paste and red pepper flakes and cook, stirring frequently, until paste has coated shallots and garlic and is beginning to darken, 5 minutes.",
+    "Add vodka to pot and stir to incorporate, scraping up any browned bits from the bottom of the pot. Turn off heat.",
+    "Bring a large pot of salted water to a boil and cook pasta until al dente. Reserve 2 cups of pasta water before draining.",
+    "Return sauce to medium heat and add 1/4 cup of pasta water and heavy cream, stirring to combine.",
+    "Add half the Parmesan and stir until melted.",
+    "Turn off heat and stir in cooked pasta.",
+    "Fold in remaining Parmesan, adding more pasta water (about a tablespoon at a time) if the sauce is looking dry.",
+    "Season with salt if needed. Serve topped with more Parmesan and torn basil leaves."
+  ],
+  "nutrition": {
+    "sugar_g": 6,
+    "fiber_g": 10,
+    "serving_size_g": 214,
+    "sodium_mg": 1063,
+    "name": "Gnocchi Alla Vodka",
+    "potassium_mg": 340,
+    "fat_saturated_g": 11,
+    "fat_total_g": 21,
+    "calories": 428,
+    "cholesterol_mg": 68,
+    "protein_g": 17,
+    "carbohydrates_total_g": 50,
+    "servings": 2
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "title": "Chicken Pot Pie",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound skinless, boneless chicken thigh",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 453.592,
+        "sodium_mg": 385,
+        "name": "boneless chicken",
+        "potassium_mg": 869,
+        "fat_saturated_g": 9.2,
+        "fat_total_g": 33.1,
+        "calories": 873.7,
+        "cholesterol_mg": 401,
+        "protein_g": 130.7,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 cup sliced carrots",
+      "nutrition": {
+        "sugar_g": 1.6,
+        "fiber_g": 1.4,
+        "serving_size_g": 46,
+        "sodium_mg": 26,
+        "name": "carrots",
+        "potassium_mg": 13,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 16.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 3.7
+      }
+    },
+    {
+      "name": "24 oz mushrooms",
+      "nutrition": {
+        "sugar_g": 15.9,
+        "fiber_g": 14.8,
+        "serving_size_g": 680.3879999999999,
+        "sodium_mg": 13,
+        "name": "mushrooms",
+        "potassium_mg": 586,
+        "fat_saturated_g": 0.6,
+        "fat_total_g": 3.5,
+        "calories": 189.5,
+        "cholesterol_mg": 0,
+        "protein_g": 14.7,
+        "carbohydrates_total_g": 35.6
+      }
+    },
+    {
+      "name": "1/2 cup sliced celery",
+      "nutrition": {
+        "sugar_g": 0.1125,
+        "fiber_g": 0.075,
+        "serving_size_g": 4.6875,
+        "sodium_mg": 4.25,
+        "name": "celery",
+        "potassium_mg": 1.125,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.0125,
+        "calories": 0.8375,
+        "cholesterol_mg": 0,
+        "protein_g": 0.0375,
+        "carbohydrates_total_g": 0.1875
+      }
+    },
+    {
+      "name": "1/3 cup butter",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 4.7333333333333325,
+        "sodium_mg": 30,
+        "name": "butter",
+        "potassium_mg": 1,
+        "fat_saturated_g": 2.4,
+        "fat_total_g": 3.7666666666666666,
+        "calories": 34.166666666666664,
+        "cholesterol_mg": 10,
+        "protein_g": 0.03333333333333333,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/3 cup chopped onion",
+      "nutrition": {
+        "sugar_g": 1.4666666666666668,
+        "fiber_g": 0.43333333333333335,
+        "serving_size_g": 31.333333333333332,
+        "sodium_mg": 0.6666666666666666,
+        "name": "onion",
+        "potassium_mg": 10.666666666666666,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.06666666666666667,
+        "calories": 14,
+        "cholesterol_mg": 0,
+        "protein_g": 0.43333333333333335,
+        "carbohydrates_total_g": 3.1666666666666665
+      }
+    },
+    {
+      "name": "1/3 cup all-purpose flour",
+      "nutrition": {
+        "sugar_g": 0.09999999999999999,
+        "fiber_g": 1.1333333333333333,
+        "serving_size_g": 41.666666666666664,
+        "sodium_mg": 0.6666666666666666,
+        "name": "flour",
+        "potassium_mg": 44.33333333333333,
+        "fat_saturated_g": 0.06666666666666667,
+        "fat_total_g": 0.39999999999999997,
+        "calories": 151.06666666666666,
+        "cholesterol_mg": 0,
+        "protein_g": 4.266666666666667,
+        "carbohydrates_total_g": 32.06666666666666
+      }
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.75,
+        "sodium_mg": 287.5,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.15,
+        "serving_size_g": 0.575,
+        "sodium_mg": 0,
+        "name": "black pepper",
+        "potassium_mg": 0.75,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.025,
+        "calories": 1.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.05,
+        "carbohydrates_total_g": 0.375
+      }
+    },
+    {
+      "name": "1/4 teaspoon celery seed",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.05,
+        "serving_size_g": 0.5,
+        "sodium_mg": 0.75,
+        "name": "celery seed",
+        "potassium_mg": 2.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.125,
+        "calories": 1.925,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.2
+      }
+    },
+    {
+      "name": "1 3/4 cups chicken broth",
+      "nutrition": {
+        "sugar_g": 1.9250000000000003,
+        "fiber_g": 0,
+        "serving_size_g": 435.75,
+        "sodium_mg": 1624,
+        "name": "chicken broth",
+        "potassium_mg": 15.75,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.875,
+        "calories": 26.95,
+        "cholesterol_mg": 8.75,
+        "protein_g": 2.8000000000000003,
+        "carbohydrates_total_g": 1.9250000000000003
+      }
+    },
+    {
+      "name": "2/3 cup milk",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 163.33333333333331,
+        "sodium_mg": 86,
+        "name": "milk",
+        "potassium_mg": 164,
+        "fat_saturated_g": 1.9333333333333331,
+        "fat_total_g": 3.1333333333333333,
+        "calories": 83.8,
+        "cholesterol_mg": 12.666666666666666,
+        "protein_g": 5.7333333333333325,
+        "carbohydrates_total_g": 8
+      }
+    },
+    {
+      "name": "2 unbaked pie crusts",
+      "nutrition": {
+        "sugar_g": 104.7,
+        "fiber_g": 81.1,
+        "serving_size_g": 2464,
+        "sodium_mg": 11448,
+        "name": "pie crusts",
+        "potassium_mg": 1998,
+        "fat_saturated_g": 227.3,
+        "fat_total_g": 697.1,
+        "calories": 12422.2,
+        "cholesterol_mg": 0,
+        "protein_g": 160.2,
+        "carbohydrates_total_g": 1377.7
+      }
+    }
+  ],
+  "directions": [
+    "Preheat oven to 425 degrees F (220 degrees C.)",
+    "In a saucepan, combine chicken, carrots, mushrooms, and celery. Add water to cover and boil for 15 minutes. Remove from heat, drain and set aside.",
+    "In the saucepan over medium heat, cook onions in butter until soft and translucent.",
+    "Stir in flour, salt, pepper, and celery seed.",
+    "Slowly stir in chicken broth and milk.",
+    "Simmer over medium-low heat until thick. Remove from heat and set aside.",
+    "Place the chicken mixture in bottom pie crust. Pour hot liquid mixture over.",
+    "Cover with top crust, seal edges, and cut away excess dough.",
+    "Make several small slits in the top to allow steam to escape.",
+    "Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden brown and filling is bubbly.",
+    "Cool for 10 minutes before serving."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 2,
+    "serving_size_g": 96,
+    "sodium_mg": 306,
+    "name": "Chicken Pot Pie",
+    "potassium_mg": 85,
+    "fat_saturated_g": 5,
+    "fat_total_g": 16,
+    "calories": 305,
+    "cholesterol_mg": 12,
+    "protein_g": 7,
+    "carbohydrates_total_g": 32,
+    "servings": 46
+  }
+}

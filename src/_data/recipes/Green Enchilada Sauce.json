@@ -1,0 +1,215 @@
+{
+  "title": "Green Enchilada Sauce",
+  "meal": "condiment",
+  "ingredients": [
+    {
+      "name": "2 tablespoons oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 28,
+        "sodium_mg": 0,
+        "name": "oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 1.8,
+        "fat_total_g": 28.2,
+        "calories": 247.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 cup finely chopped onion",
+      "nutrition": {
+        "sugar_g": 2.2,
+        "fiber_g": 0.65,
+        "serving_size_g": 47,
+        "sodium_mg": 1,
+        "name": "onion",
+        "potassium_mg": 16,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 21,
+        "cholesterol_mg": 0,
+        "protein_g": 0.65,
+        "carbohydrates_total_g": 4.75
+      }
+    },
+    {
+      "name": "1-2 garlic cloves, finely minced",
+      "nutrition": {
+        "sugar_g": 1,
+        "fiber_g": 2,
+        "serving_size_g": 100,
+        "sodium_mg": 17,
+        "name": "garlic cloves",
+        "potassium_mg": 154,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.7,
+        "calories": 153,
+        "cholesterol_mg": 0,
+        "protein_g": 6.4,
+        "carbohydrates_total_g": 33.4
+      }
+    },
+    {
+      "name": "3 tablespoons flour",
+      "nutrition": {
+        "sugar_g": 1,
+        "fiber_g": 10.1,
+        "serving_size_g": 375,
+        "sodium_mg": 7,
+        "name": "flour",
+        "potassium_mg": 399,
+        "fat_saturated_g": 0.6,
+        "fat_total_g": 3.7,
+        "calories": 1359.7,
+        "cholesterol_mg": 0,
+        "protein_g": 38.4,
+        "carbohydrates_total_g": 288.6
+      }
+    },
+    {
+      "name": "1/4 teaspoon cumin",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.05,
+        "serving_size_g": 0.525,
+        "sodium_mg": 0.75,
+        "name": "cumin",
+        "potassium_mg": 2.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.125,
+        "calories": 2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.225
+      }
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.15,
+        "serving_size_g": 0.575,
+        "sodium_mg": 0,
+        "name": "black pepper",
+        "potassium_mg": 0.75,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.025,
+        "calories": 1.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.05,
+        "carbohydrates_total_g": 0.375
+      }
+    },
+    {
+      "name": "1 1/2 cups low-sodium chicken or vegetable broth",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 127.5,
+        "sodium_mg": 91.5,
+        "name": "chicken",
+        "potassium_mg": 228,
+        "fat_saturated_g": 4.65,
+        "fat_total_g": 16.5,
+        "calories": 283.79999999999995,
+        "cholesterol_mg": 117,
+        "protein_g": 30.299999999999997,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 cup Anaheim or poblano chiles, roasted and peeled OR 1 cup canned diced green chiles, rinsed and drained",
+      "nutrition": {
+        "sugar_g": 1.5,
+        "fiber_g": 1.1,
+        "serving_size_g": 64,
+        "sodium_mg": 1,
+        "name": "poblano",
+        "potassium_mg": 12,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 12.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.5,
+        "carbohydrates_total_g": 3
+      }
+    },
+    {
+      "name": "1/4 teaspoon dried oregano",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.1,
+        "serving_size_g": 0.25,
+        "sodium_mg": 0,
+        "name": "oregano",
+        "potassium_mg": 0.25,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.675,
+        "cholesterol_mg": 0,
+        "protein_g": 0.025,
+        "carbohydrates_total_g": 0.175
+      }
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.75,
+        "sodium_mg": 287.5,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 medium jalapeno, finely diced (optional)",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 0.4,
+        "serving_size_g": 14,
+        "sodium_mg": 0,
+        "name": "jalapeno",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.9
+      }
+    }
+  ],
+  "directions": [
+    "In a medium saucepan, heat the oil over medium heat until hot. Add the onion and garlic and cover. Cook for 5-6 minutes, stirring once or twice to make sure the garlic and onions aren't sticking (adjust the heat if they are). Cook until the onions are soft but not browned.",
+    "Stir in the flour and cook for 2-3 minutes, stirring constantly. It's ok if the flour clumps around the onions, just keep stirring to let the flour get golden and toasty.",
+    "Gradually add the broth, whisking quickly and constantly to smooth out any lumps.",
+    "Add all the remaining ingredients and bring to a boil. Reduce the heat to low and simmer for 30 minutes, stirring occasionally. The sauce should be silky and thickened - able to coat a spoon but still drip off. Add more broth to thin out if needed.",
+    "Add additional salt to taste, if needed. The sauce can be processed in a blender if you prefer a smoother consistency. It will keep well in the fridge for up to 2 weeks. Otherwise, it can be frozen - probably up to a month or two if well sealed."
+  ],
+  "nutrition": {
+    "sugar_g": 0,
+    "fiber_g": 0,
+    "serving_size_g": 24,
+    "sodium_mg": 20,
+    "name": "Green Enchilada Sauce",
+    "potassium_mg": 21,
+    "fat_saturated_g": 0,
+    "fat_total_g": 1,
+    "calories": 50,
+    "cholesterol_mg": 3,
+    "protein_g": 2,
+    "carbohydrates_total_g": 8,
+    "servings": 43
+  }
+}

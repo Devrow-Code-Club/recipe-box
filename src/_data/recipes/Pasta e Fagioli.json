@@ -1,0 +1,301 @@
+{
+  "title": "Pasta e Fagioli",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup ditalini pasta",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 1.8,
+        "serving_size_g": 101.6,
+        "sodium_mg": 1,
+        "name": "ditalini",
+        "potassium_mg": 57,
+        "fat_saturated_g": 0.2,
+        "fat_total_g": 0.9,
+        "calories": 156.6,
+        "cholesterol_mg": 0,
+        "protein_g": 5.9,
+        "carbohydrates_total_g": 30.8
+      }
+    },
+    {
+      "name": "2 tablespoons olive oil, divided",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 27,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 3.7,
+        "fat_total_g": 27.3,
+        "calories": 234.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 pound spicy Italian sausage, casing removed",
+      "nutrition": {
+        "sugar_g": 8.5,
+        "fiber_g": 0.5,
+        "serving_size_g": 453.592,
+        "sodium_mg": 3380,
+        "name": "spicy italian sausage",
+        "potassium_mg": 777,
+        "fat_saturated_g": 46.2,
+        "fat_total_g": 122.4,
+        "calories": 1582.7,
+        "cholesterol_mg": 261,
+        "protein_g": 86.1,
+        "carbohydrates_total_g": 19
+      }
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 9,
+        "sodium_mg": 1,
+        "name": "cloves garlic",
+        "potassium_mg": 13,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 13.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.6,
+        "carbohydrates_total_g": 3
+      }
+    },
+    {
+      "name": "1 onion, diced",
+      "nutrition": {
+        "sugar_g": 4.4,
+        "fiber_g": 1.3,
+        "serving_size_g": 94,
+        "sodium_mg": 2,
+        "name": "onion",
+        "potassium_mg": 32,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 42,
+        "cholesterol_mg": 0,
+        "protein_g": 1.3,
+        "carbohydrates_total_g": 9.5
+      }
+    },
+    {
+      "name": "3 carrots, peeled and diced",
+      "nutrition": {
+        "sugar_g": 4.7,
+        "fiber_g": 4.1,
+        "serving_size_g": 138,
+        "sodium_mg": 78,
+        "name": "carrots",
+        "potassium_mg": 41,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 48.5,
+        "cholesterol_mg": 0,
+        "protein_g": 1,
+        "carbohydrates_total_g": 11.2
+      }
+    },
+    {
+      "name": "2 stalks celery, diced",
+      "nutrition": {
+        "sugar_g": 1.8,
+        "fiber_g": 1.2,
+        "serving_size_g": 75,
+        "sodium_mg": 68,
+        "name": "celery",
+        "potassium_mg": 18,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 13.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.6,
+        "carbohydrates_total_g": 3
+      }
+    },
+    {
+      "name": "3 cups chicken broth",
+      "nutrition": {
+        "sugar_g": 3.2,
+        "fiber_g": 0,
+        "serving_size_g": 747,
+        "sodium_mg": 2786,
+        "name": "chicken broth",
+        "potassium_mg": 29,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 1.6,
+        "calories": 46.2,
+        "cholesterol_mg": 15,
+        "protein_g": 4.8,
+        "carbohydrates_total_g": 3.4
+      }
+    },
+    {
+      "name": "1 (16-ounce) can tomato sauce",
+      "nutrition": {
+        "sugar_g": 8.8,
+        "fiber_g": 3.7,
+        "serving_size_g": 245,
+        "sodium_mg": 1156,
+        "name": "tomato sauce",
+        "potassium_mg": 65,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.8,
+        "calories": 60.2,
+        "cholesterol_mg": 0,
+        "protein_g": 3,
+        "carbohydrates_total_g": 13.2
+      }
+    },
+    {
+      "name": "1 (15-ounce) can diced tomatoes",
+      "nutrition": {
+        "sugar_g": 4.9,
+        "fiber_g": 3.6,
+        "serving_size_g": 190,
+        "sodium_mg": 218,
+        "name": "diced tomatoes",
+        "potassium_mg": 31,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.5,
+        "calories": 29.5,
+        "cholesterol_mg": 0,
+        "protein_g": 1.5,
+        "carbohydrates_total_g": 6.7
+      }
+    },
+    {
+      "name": "1 teaspoon dried basil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.3,
+        "serving_size_g": 0.7,
+        "sodium_mg": 0,
+        "name": "dried basil",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.3
+      }
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.4,
+        "serving_size_g": 1,
+        "sodium_mg": 0,
+        "name": "oregano",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.7
+      }
+    },
+    {
+      "name": "3/4 teaspoon dried thyme",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.07500000000000001,
+        "serving_size_g": 0.6000000000000001,
+        "sodium_mg": 0,
+        "name": "thyme",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.6000000000000001,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.15000000000000002
+      }
+    },
+    {
+      "name": "Kosher salt and freshly ground black pepper, to taste",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 39348,
+        "name": "kosher salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 (15-ounce) can red kidney beans, drained and rinsed",
+      "nutrition": {
+        "sugar_g": 1.4,
+        "fiber_g": 29,
+        "serving_size_g": 453.6,
+        "sodium_mg": 4,
+        "name": "red kidney beans",
+        "potassium_mg": 627,
+        "fat_saturated_g": 0.3,
+        "fat_total_g": 2.3,
+        "calories": 567.1,
+        "cholesterol_mg": 0,
+        "protein_g": 39.6,
+        "carbohydrates_total_g": 102.5
+      }
+    },
+    {
+      "name": "1 (15-ounce) can Great Northern beans, drained and rinsed",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 31.7,
+        "serving_size_g": 453.6,
+        "sodium_mg": 9,
+        "name": "great northern beans",
+        "potassium_mg": 735,
+        "fat_saturated_g": 0.6,
+        "fat_total_g": 2,
+        "calories": 529.7,
+        "cholesterol_mg": 0,
+        "protein_g": 38.1,
+        "carbohydrates_total_g": 96.5
+      }
+    }
+  ],
+  "directions": [
+    "In a large pot of boiling salted water, cook pasta according to package instructions; drain well and set aside.",
+    "Heat 1 tablespoon olive oil in a large stockpot or Dutch oven over medium heat. Add Italian sausage to the skillet and cook until browned, about 3-5 minutes, making sure to crumble the sausage as it cooks; drain excess fat and set aside.",
+    "Add remaining 1 tablespoon oil to the stockpot. Stir in garlic, onion, carrots and celery. Cook, stirring occasionally, until tender, about 3-4 minutes.",
+    "Whisk in chicken broth, tomato sauce, diced tomatoes, basil, oregano, thyme, Italian sausage and 1 cup water; season with salt and pepper, to taste. Bring to a boil; reduce heat and simmer, covered, until vegetables are tender, about 10-15 minutes.",
+    "Stir in pasta and beans until heated through.",
+    "Serve immediately."
+  ],
+  "nutrition": {
+    "sugar_g": 3,
+    "fiber_g": 9,
+    "serving_size_g": 274,
+    "sodium_mg": 3923,
+    "name": "Pasta e Fagioli",
+    "potassium_mg": 220,
+    "fat_saturated_g": 4,
+    "fat_total_g": 14,
+    "calories": 311,
+    "cholesterol_mg": 23,
+    "protein_g": 17,
+    "carbohydrates_total_g": 33,
+    "servings": 12
+  }
+}

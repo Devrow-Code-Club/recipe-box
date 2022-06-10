@@ -21,8 +21,8 @@ recipeDisplay.addEventListener('close-dialog', () => {
   recipeDialog.close();
 });
 
-document.body.addEventListener('see-recipe', ({ detail: recipe }) => {
-  recipeDisplay.recipe = recipe;
+document.body.addEventListener('see-recipe', ({ detail: recipeName }) => {
+  recipeDisplay.recipeName = recipeName;
   requestAnimationFrame(() => {
     recipeDialog.showModal();
   });

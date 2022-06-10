@@ -1,0 +1,164 @@
+{
+  "title": "Rice Pudding",
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup Arborio rice",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 186,
+        "sodium_mg": 0,
+        "name": "arborio rice",
+        "potassium_mg": 62,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 243.9,
+        "cholesterol_mg": 0,
+        "protein_g": 4.4,
+        "carbohydrates_total_g": 52.8
+      }
+    },
+    {
+      "name": "1 1/2 cups water",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 355.5,
+        "sodium_mg": 13.5,
+        "name": "water",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.375,
+        "sodium_mg": 143.75,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "2 cups whole milk, divided*",
+      "nutrition": {
+        "sugar_g": 24.7,
+        "fiber_g": 0,
+        "serving_size_g": 488,
+        "sodium_mg": 207,
+        "name": "whole milk",
+        "potassium_mg": 404,
+        "fat_saturated_g": 9.1,
+        "fat_total_g": 15.6,
+        "calories": 304.8,
+        "cholesterol_mg": 47,
+        "protein_g": 15.5,
+        "carbohydrates_total_g": 23.3
+      }
+    },
+    {
+      "name": "1/2 cup sugar",
+      "nutrition": {
+        "sugar_g": 2.1,
+        "fiber_g": 0,
+        "serving_size_g": 2.1,
+        "sodium_mg": 0,
+        "name": "sugar",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 8.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 2.1
+      }
+    },
+    {
+      "name": "2 eggs",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 143,
+        "name": "eggs",
+        "potassium_mg": 200,
+        "fat_saturated_g": 3.1,
+        "fat_total_g": 9.4,
+        "calories": 144.3,
+        "cholesterol_mg": 373,
+        "protein_g": 12.6,
+        "carbohydrates_total_g": 0.7
+      }
+    },
+    {
+      "name": "1/2 teaspoon vanilla extract",
+      "nutrition": {
+        "sugar_g": 0.25,
+        "fiber_g": 0,
+        "serving_size_g": 2.1,
+        "sodium_mg": 0,
+        "name": "vanilla extract",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 6.15,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.25
+      }
+    },
+    {
+      "name": "3/4 cup raisins",
+      "nutrition": {
+        "sugar_g": 19.125,
+        "fiber_g": 1.2000000000000002,
+        "serving_size_g": 32.25,
+        "sodium_mg": 3,
+        "name": "raisins",
+        "potassium_mg": 31.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.15000000000000002,
+        "calories": 94.94999999999999,
+        "cholesterol_mg": 0,
+        "protein_g": 0.9750000000000001,
+        "carbohydrates_total_g": 25.049999999999997
+      }
+    }
+  ],
+  "directions": [
+    "In pressure cooking pot, combine rice, water, and salt. Lock the lid in place and select High Pressure and 3 minutes cook time. When beep sounds turn off pressure cooker and use a natural pressure release for 10 minutes. After 10 minutes, release any remaining pressure with a quick pressure release.",
+    "Add 1 1/2 cups milk and sugar to rice in pressure cooking pot; stir to combine.",
+    "In a small mixing bowl, whisk eggs with remaining 1/2 cup milk and vanilla. Pour through a fine mesh strainer into pressure cooking pot. Select sauté and cook, stirring constantly, until mixture starts to boil. Turn off pressure cooker. Remove pot from the pressure cooker. Stir in raisins.",
+    "Pudding will thicken as it cools. Serve warm or pour into serving dishes and chill.",
+    "Served topped with whipped cream, and a sprinkle of cinnamon or nutmeg, if desired."
+  ],
+  "nutrition": {
+    "sugar_g": 6,
+    "fiber_g": 0,
+    "serving_size_g": 146,
+    "sodium_mg": 64,
+    "name": "Rice Pudding",
+    "potassium_mg": 87,
+    "fat_saturated_g": 2,
+    "fat_total_g": 3,
+    "calories": 100,
+    "cholesterol_mg": 53,
+    "protein_g": 4,
+    "carbohydrates_total_g": 13,
+    "servings": 8
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "title": "Baileys Irish Cream Brownies",
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "20 oz brownie mix",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 566.99,
+        "sodium_mg": 1740,
+        "name": "brownie mix",
+        "potassium_mg": 462,
+        "fat_saturated_g": 14.2,
+        "fat_total_g": 83.9,
+        "calories": 2493.4,
+        "cholesterol_mg": 0,
+        "protein_g": 22.9,
+        "carbohydrates_total_g": 437.9
+      }
+    },
+    {
+      "name": "16 tbsp unsalted butter",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0,
+        "serving_size_g": 227.2,
+        "sodium_mg": 24,
+        "name": "unsalted butter",
+        "potassium_mg": 54,
+        "fat_saturated_g": 115,
+        "fat_total_g": 183.9,
+        "calories": 1650.9,
+        "cholesterol_mg": 485,
+        "protein_g": 1.9,
+        "carbohydrates_total_g": 0.2
+      }
+    },
+    {
+      "name": "6 tablespoons Baileys Irish Cream",
+      "nutrition": {
+        "sugar_g": 66.9,
+        "fiber_g": 0,
+        "serving_size_g": 208.79999999999998,
+        "sodium_mg": 16,
+        "name": "baileys",
+        "potassium_mg": 12,
+        "fat_saturated_g": 0.2,
+        "fat_total_g": 0.6,
+        "calories": 645.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 66
+      }
+    },
+    {
+      "name": "3 cups powdered sugar",
+      "nutrition": {
+        "sugar_g": 349.4,
+        "fiber_g": 0,
+        "serving_size_g": 360,
+        "sodium_mg": 7,
+        "name": "powdered sugar",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1408.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 353
+      }
+    },
+    {
+      "name": "3/4 cup semi-sweet chocolate chips",
+      "nutrition": {
+        "sugar_g": 17.025,
+        "fiber_g": 1.875,
+        "serving_size_g": 31.5,
+        "sodium_mg": 3,
+        "name": "chocolate chips",
+        "potassium_mg": 40.5,
+        "fat_saturated_g": 5.625,
+        "fat_total_g": 9.375,
+        "calories": 147.22500000000002,
+        "cholesterol_mg": 0,
+        "protein_g": 1.35,
+        "carbohydrates_total_g": 20.325000000000003
+      }
+    },
+    {
+      "name": "2 tablespoons heavy cream",
+      "nutrition": {
+        "sugar_g": 1.7,
+        "fiber_g": 0,
+        "serving_size_g": 59.6,
+        "sodium_mg": 16,
+        "name": "heavy cream",
+        "potassium_mg": 35,
+        "fat_saturated_g": 13.8,
+        "fat_total_g": 21.8,
+        "calories": 207.6,
+        "cholesterol_mg": 66,
+        "protein_g": 1.7,
+        "carbohydrates_total_g": 1.6
+      }
+    },
+    {
+      "name": "8 tablespoons Baileys Irish Cream",
+      "nutrition": {
+        "sugar_g": 32.2,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 7,
+        "name": "irish cream",
+        "potassium_mg": 6,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 312.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 31.8
+      }
+    }
+  ],
+  "directions": [
+    "Prepare brownies according to package directions. Cool completely.",
+    "Beat butter on medium speed until fluffy. Add in Baileys and mix well.",
+    "Add powdered sugar a little at a time until completely incorporated. Beat until soft and fluffy.",
+    "Spread over brownies and refrigerate while making the Baileys ganache.",
+    "Combine Baileys and heavy cream in a sauce pan over medium high heat. Bring just to a boil and immediately pour over chocolate chips. Let sit 5 minutes without stirring.",
+    "Whisk until smooth and spread over frosted brownies. Let sit at room temperature about 30 minutes. Refrigerate until set."
+  ],
+  "nutrition": {
+    "sugar_g": 7,
+    "fiber_g": 0,
+    "serving_size_g": 24,
+    "sodium_mg": 23,
+    "name": "Baileys Irish Cream Brownies",
+    "potassium_mg": 8,
+    "fat_saturated_g": 2,
+    "fat_total_g": 4,
+    "calories": 100,
+    "cholesterol_mg": 7,
+    "protein_g": 0,
+    "carbohydrates_total_g": 13,
+    "servings": 80
+  }
+}

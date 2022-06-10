@@ -1,0 +1,216 @@
+{
+  "title": "Chicken Shawarma (Air-Fried)",
+  "source": "https://bluejeanchef.com/recipes/chicken-shawarma-wrap/",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 27,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 3.7,
+        "fat_total_g": 27.3,
+        "calories": 234.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "2 garlic cloves minced",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 6,
+        "sodium_mg": 1,
+        "name": "garlic cloves",
+        "potassium_mg": 9,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 9.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 2
+      }
+    },
+    {
+      "name": "4 tbsp lemon juice",
+      "nutrition": {
+        "sugar_g": 0.3,
+        "fiber_g": 0.2,
+        "serving_size_g": 20,
+        "sodium_mg": 4,
+        "name": "lemon juice",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 3.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 1.1
+      }
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 2.1,
+        "sodium_mg": 3,
+        "name": "ground cumin",
+        "potassium_mg": 10,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.5,
+        "calories": 8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 0.9
+      }
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.8,
+        "serving_size_g": 2.3,
+        "sodium_mg": 1,
+        "name": "paprika",
+        "potassium_mg": 7,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 6.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 1.2
+      }
+    },
+    {
+      "name": "1/2 teaspoon ground allspice",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 0.95,
+        "sodium_mg": 0.5,
+        "name": "ground allspice",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 2.5,
+        "cholesterol_mg": 0,
+        "protein_g": 0.05,
+        "carbohydrates_total_g": 0.7
+      }
+    },
+    {
+      "name": "1/4 teaspoon turmeric",
+      "nutrition": {
+        "sugar_g": 0.025,
+        "fiber_g": 0.175,
+        "serving_size_g": 0.75,
+        "sodium_mg": 0,
+        "name": "turmeric",
+        "potassium_mg": 2,
+        "fat_saturated_g": 0.025,
+        "fat_total_g": 0.025,
+        "calories": 2.325,
+        "cholesterol_mg": 0,
+        "protein_g": 0.075,
+        "carbohydrates_total_g": 0.5
+      }
+    },
+    {
+      "name": "1/8 teaspoon ground cinnamon",
+      "nutrition": {
+        "sugar_g": 0.0125,
+        "fiber_g": 0.175,
+        "serving_size_g": 0.325,
+        "sodium_mg": 0,
+        "name": "ground cinnamon",
+        "potassium_mg": 0.125,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.0125,
+        "carbohydrates_total_g": 0.2625
+      }
+    },
+    {
+      "name": "1 teaspoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 1.5,
+        "sodium_mg": 575,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 teaspoon freshly ground black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.3,
+        "serving_size_g": 1.15,
+        "sodium_mg": 0,
+        "name": "ground black pepper",
+        "potassium_mg": 1.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 2.9,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.75
+      }
+    },
+    {
+      "name": "1 1/2 pounds boneless chicken thighs",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 680.3879999999999,
+        "sodium_mg": 1182,
+        "name": "boneless chicken thighs",
+        "potassium_mg": 1381.5,
+        "fat_saturated_g": 16.200000000000003,
+        "fat_total_g": 53.099999999999994,
+        "calories": 1141.9499999999998,
+        "cholesterol_mg": 829.5,
+        "protein_g": 164.25,
+        "carbohydrates_total_g": 0
+      }
+    }
+  ],
+  "directions": [
+    "Combine the the olive oil, garlic, lemon juice, and spices in a small bowl, whisking well.",
+    "Cut the chicken breasts in half lengthwise. Place the chicken in a zipper sealable plastic bag and add the marinade.",
+    "Massage the chicken in the bag to coat all sides of the chicken with the marinade. Marinate the chicken in the refrigerator for 6 hours, or as long as overnight.",
+    "Pre-heat the air fryer to 380°F.",
+    "Transfer the marinated chicken breasts to the air fryer basket and air-fry at 380ºF for 8 to 10 minutes, flipping the chicken over halfway through the cooking process."
+  ],
+  "nutrition": {
+    "sugar_g": 0,
+    "fiber_g": 1,
+    "serving_size_g": 186,
+    "sodium_mg": 442,
+    "name": "Chicken Shawarma (Air-Fried)",
+    "potassium_mg": 353,
+    "fat_saturated_g": 5,
+    "fat_total_g": 20,
+    "calories": 353,
+    "cholesterol_mg": 207,
+    "protein_g": 41,
+    "carbohydrates_total_g": 2,
+    "servings": 4
+  }
+}

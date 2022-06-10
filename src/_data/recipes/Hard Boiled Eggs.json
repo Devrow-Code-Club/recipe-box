@@ -1,0 +1,45 @@
+{
+  "title": "Hard Boiled Eggs",
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "6 large eggs",
+      "nutrition": {
+        "sugar_g": 1.1,
+        "fiber_g": 0,
+        "serving_size_g": 300,
+        "sodium_mg": 421,
+        "name": "large eggs",
+        "potassium_mg": 603,
+        "fat_saturated_g": 9.4,
+        "fat_total_g": 28.8,
+        "calories": 421.1,
+        "cholesterol_mg": 1128,
+        "protein_g": 37.4,
+        "carbohydrates_total_g": 2.2
+      }
+    }
+  ],
+  "directions": [
+    "Set your timer for 6 minutes for soft boiled",
+    "10 minutes for hard boiled with a still translucent and bright yolk",
+    "12-15 minutes for cooked-through hard boiled.",
+    "If you have doubled up the eggs in the pan and they are not in a single layer, you may need to add a couple minutes",
+    "Remove eggs to a bowl of icy cold water"
+  ],
+  "nutrition": {
+    "sugar_g": 1,
+    "fiber_g": 0,
+    "serving_size_g": 150,
+    "sodium_mg": 211,
+    "name": "Hard Boiled Eggs",
+    "potassium_mg": 302,
+    "fat_saturated_g": 5,
+    "fat_total_g": 14,
+    "calories": 211,
+    "cholesterol_mg": 564,
+    "protein_g": 19,
+    "carbohydrates_total_g": 1,
+    "servings": 2
+  }
+}

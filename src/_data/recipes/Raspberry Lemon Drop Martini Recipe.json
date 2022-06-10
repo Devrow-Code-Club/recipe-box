@@ -1,0 +1,153 @@
+{
+  "title": "Raspberry Lemon Drop Martini Recipe",
+  "source": "https://cocktails.foodviva.com/martini-recipes/raspberry-lemon-drop-martini-recipe/",
+  "meal": "drink",
+  "ingredients": [
+    "Ingredients:",
+    {
+      "name": "45 ml (1 1/2 oz) Citroen Vodka",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 2835,
+        "sodium_mg": 28.5,
+        "name": "vodka",
+        "potassium_mg": 141,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 6674.849999999999,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "20 ml (2/3 oz) Chambord (Black Raspberry Liqueur)",
+      "nutrition": {
+        "sugar_g": 203.26666666666665,
+        "fiber_g": 0,
+        "serving_size_g": 618,
+        "sodium_mg": 9.333333333333332,
+        "name": "chambord",
+        "potassium_mg": 11.333333333333332,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1444.3333333333333,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 201.33333333333331
+      }
+    },
+    {
+      "name": "30 ml (1 oz) Simple Syrup",
+      "nutrition": {
+        "sugar_g": 4462.3,
+        "fiber_g": 0,
+        "serving_size_g": 9828,
+        "sodium_mg": 98,
+        "name": "simple syrup",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 17557.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 4512
+      }
+    },
+    {
+      "name": "15 ml (1/2 oz) Lemon Juice",
+      "nutrition": {
+        "sugar_g": 0.6,
+        "fiber_g": 0.3,
+        "serving_size_g": 37.5,
+        "sodium_mg": 8.5,
+        "name": "lemon juice",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 6.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.15,
+        "carbohydrates_total_g": 2.05
+      }
+    },
+    {
+      "name": "20 ml (2/3 oz) Triple Sec (optional)",
+      "nutrition": {
+        "sugar_g": 143.66666666666666,
+        "fiber_g": 0,
+        "serving_size_g": 492,
+        "sodium_mg": 4.666666666666666,
+        "name": "triple sec",
+        "potassium_mg": 13.333333333333332,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1328.5333333333333,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 142.86666666666667
+      }
+    },
+    {
+      "name": "1 Lemon Wheel",
+      "nutrition": {
+        "sugar_g": 1.05,
+        "fiber_g": 1.15,
+        "serving_size_g": 42,
+        "sodium_mg": 0.5,
+        "name": "lemon",
+        "potassium_mg": 6.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 12.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.45,
+        "carbohydrates_total_g": 3.9
+      }
+    },
+    {
+      "name": "Crushed Ice",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 50,
+        "sodium_mg": 0.5,
+        "name": "ice",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    }
+  ],
+  "directions": [
+    "Fill up cocktail shaker with crushed ice.",
+    "Add all ingredients (except Chambord and lemon wheel) into cocktail shaker and shake it until it is completely chilled.",
+    "Take chilled martini glass. Strain and pour mixed drink in it.",
+    "Slowly pour chambord over it. Chambord will settle at the bottom center of glass giving it a layered color.",
+    "Garnish with lemon wheel and serve.",
+    "Fill up cocktail shaker with crushed ice.",
+    "Add all ingredients (lemon wheel) into cocktail shaker and shake it thoroughly.",
+    "Strain and pour drink in chilled martini glass.",
+    "Garnish with skewered raspberries and serve."
+  ],
+  "nutrition": {
+    "sugar_g": 4814,
+    "fiber_g": 6,
+    "serving_size_g": 13969,
+    "sodium_mg": 151,
+    "name": "Raspberry Lemon Drop Martini Recipe",
+    "potassium_mg": 194,
+    "fat_saturated_g": 0,
+    "fat_total_g": 0,
+    "calories": 27059,
+    "cholesterol_mg": 0,
+    "protein_g": 1,
+    "carbohydrates_total_g": 4870,
+    "servings": 1
+  }
+}

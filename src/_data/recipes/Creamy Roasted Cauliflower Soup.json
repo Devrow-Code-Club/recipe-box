@@ -1,0 +1,210 @@
+{
+  "title": "Creamy Roasted Cauliflower Soup",
+  "source": "https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/#tasty-recipes-31675-jump-target",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large head cauliflower (about 2 pounds), cut into bite-size florets",
+      "nutrition": {
+        "sugar_g": 11.8,
+        "fiber_g": 13.4,
+        "serving_size_g": 575,
+        "sodium_mg": 85,
+        "name": "cauliflower",
+        "potassium_mg": 182,
+        "fat_saturated_g": 0.4,
+        "fat_total_g": 2.6,
+        "calories": 129.1,
+        "cholesterol_mg": 0,
+        "protein_g": 10.5,
+        "carbohydrates_total_g": 23.4
+      }
+    },
+    {
+      "name": "3 tablespoons extra-virgin olive oil, divided",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 40.5,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 5.6,
+        "fat_total_g": 41,
+        "calories": 352,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "Fine sea salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 100,
+        "sodium_mg": 38985,
+        "name": "sea salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 medium red onion, chopped",
+      "nutrition": {
+        "sugar_g": 4.4,
+        "fiber_g": 1.3,
+        "serving_size_g": 94,
+        "sodium_mg": 2,
+        "name": "red onion",
+        "potassium_mg": 32,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 41.1,
+        "cholesterol_mg": 0,
+        "protein_g": 1.3,
+        "carbohydrates_total_g": 9.5
+      }
+    },
+    {
+      "name": "2 cloves garlic, pressed or minced",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 6,
+        "sodium_mg": 1,
+        "name": "cloves garlic",
+        "potassium_mg": 9,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 8.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 2
+      }
+    },
+    {
+      "name": "4 cups (32 ounces) vegetable broth",
+      "nutrition": {
+        "sugar_g": 5,
+        "fiber_g": 0,
+        "serving_size_g": 880,
+        "sodium_mg": 2685,
+        "name": "vegetable broth",
+        "potassium_mg": 26,
+        "fat_saturated_g": 0.3,
+        "fat_total_g": 0.6,
+        "calories": 52.6,
+        "cholesterol_mg": 0,
+        "protein_g": 2.1,
+        "carbohydrates_total_g": 8.8
+      }
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 28.4,
+        "sodium_mg": 3,
+        "name": "unsalted butter",
+        "potassium_mg": 6,
+        "fat_saturated_g": 14.4,
+        "fat_total_g": 23,
+        "calories": 206.4,
+        "cholesterol_mg": 60,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 tablespoon fresh lemon juice, or more if needed",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0,
+        "serving_size_g": 5,
+        "sodium_mg": 1,
+        "name": "lemon juice",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.3
+      }
+    },
+    {
+      "name": "Scant 1/4 teaspoon ground nutmeg",
+      "nutrition": {
+        "sugar_g": 0.8,
+        "fiber_g": 5.175,
+        "serving_size_g": 25,
+        "sodium_mg": 3.75,
+        "name": "ground nutmeg",
+        "potassium_mg": 53.25,
+        "fat_saturated_g": 6.475,
+        "fat_total_g": 9.175,
+        "calories": 127.475,
+        "cholesterol_mg": 0,
+        "protein_g": 1.475,
+        "carbohydrates_total_g": 12.225
+      }
+    },
+    {
+      "name": "For garnish: 2 tablespoons finely chopped fresh flat-leaf parsley, chives and/or green onions",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.3,
+        "serving_size_g": 7.6,
+        "sodium_mg": 4,
+        "name": "parsley",
+        "potassium_mg": 4,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.5
+      }
+    }
+  ],
+  "directions": [
+    "Preheat the oven to 425 degrees Fahrenheit. If desired, line a large, rimmed baking sheet with parchment paper for easy cleanup.",
+    "On the baking sheet, toss the cauliflower with 2 tablespoons of the olive oil until lightly and evenly coated in oil.",
+    "Arrange the cauliflower in a single layer and sprinkle lightly with salt.",
+    "Bake until the cauliflower is tender and caramelized on the edges, 25 to 35 minutes, tossing halfway.",
+    "Once the cauliflower is almost done, in a Dutch oven or soup pot, warm the remaining 1 tablespoon olive oil over medium heat until shimmering.",
+    "Add the onion and 1/4 teaspoon salt.",
+    "Cook, stirring occasionally, until the onion is softened and turning translucent, 5 to 7 minutes.",
+    "Add the garlic and cook, stirring constantly, until fragrant, about 30 seconds",
+    "add the broth.",
+    "Reserve 4 of the prettiest roasted cauliflower florets for garnish. Then transfer the remaining cauliflower to the pot.",
+    "Increase the heat to medium-high and bring the mixture to a simmer, then reduce the heat as necessary to maintain a gentle simmer.",
+    "Cook, stirring occasionally, for 20 minutes, to give the flavors time to meld.",
+    "Once the soup is done cooking, remove the pot from the heat and let it cool for a few minutes.",
+    "Carefully transfer the hot soup to a blender, working in batches if necessary. (Do not fill past the maximum fill line or the soup could overflow!)",
+    "Add the butter and blend until smooth.",
+    "Add the lemon juice and nutmeg and blend again."
+  ],
+  "nutrition": {
+    "sugar_g": 9,
+    "fiber_g": 9,
+    "serving_size_g": 654,
+    "sodium_mg": 13929,
+    "name": "Creamy Roasted Cauliflower Soup",
+    "potassium_mg": 135,
+    "fat_saturated_g": 9,
+    "fat_total_g": 26,
+    "calories": 327,
+    "cholesterol_mg": 20,
+    "protein_g": 7,
+    "carbohydrates_total_g": 23,
+    "servings": 3
+  }
+}

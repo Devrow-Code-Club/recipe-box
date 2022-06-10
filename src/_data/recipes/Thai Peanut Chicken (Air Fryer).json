@@ -1,0 +1,250 @@
+{
+  "title": "Thai Peanut Chicken (Air Fryer)",
+  "source": "https://twosleevers.com/thai-peanut-chicken/",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound   Bone-in Skin-on Chicken Thighs",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 453.592,
+        "sodium_mg": 777,
+        "name": "chicken thighs",
+        "potassium_mg": 876,
+        "fat_saturated_g": 18.9,
+        "fat_total_g": 63.7,
+        "calories": 953.6,
+        "cholesterol_mg": 582,
+        "protein_g": 106.9,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "1/4 cup   Creamy Peanut Butter",
+      "nutrition": {
+        "sugar_g": 0.525,
+        "fiber_g": 0.475,
+        "serving_size_g": 8,
+        "sodium_mg": 37.5,
+        "name": "creamy peanut butter",
+        "potassium_mg": 26.5,
+        "fat_saturated_g": 0.75,
+        "fat_total_g": 3.925,
+        "calories": 45.8,
+        "cholesterol_mg": 0,
+        "protein_g": 1.75,
+        "carbohydrates_total_g": 1.925
+      }
+    },
+    {
+      "name": "1 tablespoon   Sriracha Sauce, (adjust for your spice needs)",
+      "nutrition": {
+        "sugar_g": 1,
+        "fiber_g": 0.1,
+        "serving_size_g": 6.5,
+        "sodium_mg": 138,
+        "name": "sriracha sauce",
+        "potassium_mg": 2,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 5.9,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 1.2
+      }
+    },
+    {
+      "name": "1 tablespoon   Soy Sauce",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 16,
+        "sodium_mg": 866,
+        "name": "soy sauce",
+        "potassium_mg": 26,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 8.5,
+        "cholesterol_mg": 0,
+        "protein_g": 1.3,
+        "carbohydrates_total_g": 0.8
+      }
+    },
+    {
+      "name": "2 tablespoons   Thai sweet chili sauce",
+      "nutrition": {
+        "sugar_g": 16.7,
+        "fiber_g": 0,
+        "serving_size_g": 29.22,
+        "sodium_mg": 8,
+        "name": "thai sweet chili sauce",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 68.9,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 17.5
+      }
+    },
+    {
+      "name": "2 tablespoons   lime juice",
+      "nutrition": {
+        "sugar_g": 1.5,
+        "fiber_g": 0.4,
+        "serving_size_g": 88,
+        "sodium_mg": 1,
+        "name": "lime juice",
+        "potassium_mg": 12,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 21.9,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 7.4
+      }
+    },
+    {
+      "name": "1 teaspoon   Minced Garlic",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.1,
+        "serving_size_g": 2.8,
+        "sodium_mg": 0,
+        "name": "minced garlic",
+        "potassium_mg": 4,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 4.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.9
+      }
+    },
+    {
+      "name": "1 teaspoon   Minced Ginger",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 2,
+        "sodium_mg": 0,
+        "name": "ginger",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "1/2 teaspoon   Kosher Salt, to taste",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.75,
+        "sodium_mg": 295,
+        "name": "kosher salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 cup   hot water",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 118.5,
+        "sodium_mg": 4.5,
+        "name": "water",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "5-6 teaspoons   Cilantro, finely chopped",
+      "nutrition": {
+        "sugar_g": 0.8,
+        "fiber_g": 2.8,
+        "serving_size_g": 100,
+        "sodium_mg": 45,
+        "name": "cilantro",
+        "potassium_mg": 48,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.5,
+        "calories": 22.9,
+        "cholesterol_mg": 0,
+        "protein_g": 2.3,
+        "carbohydrates_total_g": 3.8
+      }
+    },
+    {
+      "name": "1/4 cup   Chopped Green Scallions",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 3.75,
+        "sodium_mg": 0.5,
+        "name": "scallions",
+        "potassium_mg": 1.25,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.175,
+        "cholesterol_mg": 0,
+        "protein_g": 0.075,
+        "carbohydrates_total_g": 0.275
+      }
+    },
+    {
+      "name": "2-3 tablespoons   crushed peanuts",
+      "nutrition": {
+        "sugar_g": 5,
+        "fiber_g": 8.1,
+        "serving_size_g": 100,
+        "sodium_mg": 415,
+        "name": "peanuts",
+        "potassium_mg": 356,
+        "fat_saturated_g": 8.1,
+        "fat_total_g": 49.9,
+        "calories": 600.9,
+        "cholesterol_mg": 0,
+        "protein_g": 24.1,
+        "carbohydrates_total_g": 20.8
+      }
+    }
+  ],
+  "directions": [
+    "Mix together peanut butter, sriracha, soy sauce, sweet chili sauce, lime juice, and salt. Pour in the hot water and mix until you have a smooth mixture.",
+    "Place the chicken in a zip-top bag. Pour in half of the sauce and mix until the chicken is well coated. If you have the time, allow the chicken to marinate for 30 minutes or up to 24 hours in the refrigerator.",
+    "Remove the chicken from the bag, bringing with it as much of the marinade as you can. Place the coated chicken in the air fryer basket.",
+    "Set the air fryer to 350F for 20-22 minutes or until the chicken thighs are heated 165F at their thickest part.",
+    "Garnish with cilantro, onion, and peanuts. Serve with the rest of the sauce for dipping."
+  ],
+  "nutrition": {
+    "sugar_g": 5,
+    "fiber_g": 2,
+    "serving_size_g": 186,
+    "sodium_mg": 518,
+    "name": "Thai Peanut Chicken (Air Fryer)",
+    "potassium_mg": 271,
+    "fat_saturated_g": 6,
+    "fat_total_g": 24,
+    "calories": 347,
+    "cholesterol_mg": 116,
+    "protein_g": 27,
+    "carbohydrates_total_g": 11,
+    "servings": 5
+  }
+}

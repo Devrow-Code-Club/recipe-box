@@ -1,0 +1,287 @@
+{
+  "title": "Frikadellen",
+  "source": "https://www.daringgourmet.com/frikadeller-frikadellen/#recipe",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1/2 pound ground beef",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 226.796,
+        "sodium_mg": 208.5,
+        "name": "ground beef",
+        "potassium_mg": 507,
+        "fat_saturated_g": 14.7,
+        "fat_total_g": 38.8,
+        "calories": 631.75,
+        "cholesterol_mg": 204,
+        "protein_g": 61.75,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 pound ground pork",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 226.796,
+        "sodium_mg": 168,
+        "name": "ground pork",
+        "potassium_mg": 508.5,
+        "fat_saturated_g": 17.65,
+        "fat_total_g": 47.35,
+        "calories": 668.2,
+        "cholesterol_mg": 210.5,
+        "protein_g": 57.8,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 medium yellow onion",
+      "nutrition": {
+        "sugar_g": 4.4,
+        "fiber_g": 1.3,
+        "serving_size_g": 94,
+        "sodium_mg": 2,
+        "name": "yellow onion",
+        "potassium_mg": 32,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 40.8,
+        "cholesterol_mg": 0,
+        "protein_g": 1.3,
+        "carbohydrates_total_g": 9.5
+      }
+    },
+    {
+      "name": "50g stale bread",
+      "nutrition": {
+        "sugar_g": 2.8,
+        "fiber_g": 1.4,
+        "serving_size_g": 50,
+        "sodium_mg": 247,
+        "name": "bread",
+        "potassium_mg": 49,
+        "fat_saturated_g": 0.3,
+        "fat_total_g": 1.7,
+        "calories": 130.8,
+        "cholesterol_mg": 0,
+        "protein_g": 4.4,
+        "carbohydrates_total_g": 25.1
+      }
+    },
+    {
+      "name": "1/4 cup warm water or milk",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 59.25,
+        "sodium_mg": 2.25,
+        "name": "water",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 large egg",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0,
+        "serving_size_g": 50,
+        "sodium_mg": 72,
+        "name": "large egg",
+        "potassium_mg": 100,
+        "fat_saturated_g": 1.6,
+        "fat_total_g": 4.7,
+        "calories": 72.8,
+        "cholesterol_mg": 186,
+        "protein_g": 6.3,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.1,
+        "serving_size_g": 3,
+        "sodium_mg": 0,
+        "name": "clove garlic",
+        "potassium_mg": 4,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 4.5,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1
+      }
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.025,
+        "serving_size_g": 0.95,
+        "sodium_mg": 0.5,
+        "name": "parsley",
+        "potassium_mg": 0.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.35,
+        "cholesterol_mg": 0,
+        "protein_g": 0.025,
+        "carbohydrates_total_g": 0.05
+      }
+    },
+    {
+      "name": "1 1/2 teaspoons salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 2.25,
+        "sodium_mg": 862.5,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "3/4 teaspoon freshly ground black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.44999999999999996,
+        "serving_size_g": 1.7249999999999999,
+        "sodium_mg": 0,
+        "name": "ground black pepper",
+        "potassium_mg": 2.25,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.07500000000000001,
+        "calories": 4.35,
+        "cholesterol_mg": 0,
+        "protein_g": 0.15000000000000002,
+        "carbohydrates_total_g": 1.125
+      }
+    },
+    {
+      "name": "1 teaspoon prepared yellow mustard",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 5,
+        "sodium_mg": 54,
+        "name": "yellow mustard",
+        "potassium_mg": 5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 3.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.3
+      }
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.4,
+        "serving_size_g": 1,
+        "sodium_mg": 0,
+        "name": "oregano",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.7
+      }
+    },
+    {
+      "name": "1 teaspoon sweet Hungarian paprika",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.8,
+        "serving_size_g": 2.3,
+        "sodium_mg": 1,
+        "name": "paprika",
+        "potassium_mg": 7,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 6.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 1.2
+      }
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 40.5,
+        "sodium_mg": 0,
+        "name": "olive oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 5.6,
+        "fat_total_g": 41,
+        "calories": 352,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 tablespoon butter",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 14.2,
+        "sodium_mg": 90,
+        "name": "butter",
+        "potassium_mg": 3,
+        "fat_saturated_g": 7.2,
+        "fat_total_g": 11.3,
+        "calories": 102.5,
+        "cholesterol_mg": 30,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0
+      }
+    }
+  ],
+  "directions": [
+    "Break the bread up into small pieces, place them in a small bowl and pour water/milk over them and let them soak for 15 minutes while you're preparing the other ingredients.",
+    "Squeeze out any excess liquid.",
+    "Place all of the ingredients (except for the olive oil and butter) in a large bowl along with the onion mixture and the soaked bread.",
+    "Use your hands to thoroughly knead the mixture until well blended and the meat is smooth.",
+    "The more you knead it, the better the results. Form the meat mixture into balls according to desired size and slightly flatten them.",
+    "Cover and chill the patties in the fridge for at least 30 minutes.",
+    "Heat the olive oil and butter in a frying pan.",
+    "Once hot add the Frikadellen / Frikadeller and fry on both sides on higher heat until nicely browned, then lower the heat and continue to fry over medium heat until cooked through according to desired doneness. "
+  ],
+  "nutrition": {
+    "sugar_g": 1,
+    "fiber_g": 1,
+    "serving_size_g": 134,
+    "sodium_mg": 287,
+    "name": "Frikadellen",
+    "potassium_mg": 207,
+    "fat_saturated_g": 8,
+    "fat_total_g": 24,
+    "calories": 339,
+    "cholesterol_mg": 105,
+    "protein_g": 22,
+    "carbohydrates_total_g": 7,
+    "servings": 6
+  }
+}

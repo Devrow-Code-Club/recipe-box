@@ -1,0 +1,186 @@
+{
+  "title": "Honey Garlic Chicken",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1/3 cup honey",
+      "nutrition": {
+        "sugar_g": 5.766666666666667,
+        "fiber_g": 0,
+        "serving_size_g": 7,
+        "sodium_mg": 0,
+        "name": "honey",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 21.2,
+        "cholesterol_mg": 0,
+        "protein_g": 0.03333333333333333,
+        "carbohydrates_total_g": 5.799999999999999
+      }
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.2,
+        "serving_size_g": 12,
+        "sodium_mg": 2,
+        "name": "cloves garlic",
+        "potassium_mg": 18,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 17.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.8,
+        "carbohydrates_total_g": 4
+      }
+    },
+    {
+      "name": "1/2 cup soy sauce",
+      "nutrition": {
+        "sugar_g": 0.05,
+        "fiber_g": 0.05,
+        "serving_size_g": 8,
+        "sodium_mg": 433,
+        "name": "soy sauce",
+        "potassium_mg": 13,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 4.25,
+        "cholesterol_mg": 0,
+        "protein_g": 0.65,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "1/2 cup no salt ketchup",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.75,
+        "sodium_mg": 287.5,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 teaspoon dried oregano",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 0.5,
+        "sodium_mg": 0,
+        "name": "oregano",
+        "potassium_mg": 0.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.35,
+        "cholesterol_mg": 0,
+        "protein_g": 0.05,
+        "carbohydrates_total_g": 0.35
+      }
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.3,
+        "serving_size_g": 7.6,
+        "sodium_mg": 4,
+        "name": "parsley",
+        "potassium_mg": 4,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 0.5
+      }
+    },
+    {
+      "name": "1 tablespoon sesame seed oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 1.95,
+        "serving_size_g": 14.175,
+        "sodium_mg": 1.5,
+        "name": "sesame seed",
+        "potassium_mg": 90,
+        "fat_saturated_g": 0.95,
+        "fat_total_g": 6.9,
+        "calories": 81.6,
+        "cholesterol_mg": 0,
+        "protein_g": 2.4,
+        "carbohydrates_total_g": 3.7
+      }
+    },
+    {
+      "name": "4 to 6 bone-in, skinless chicken thighs",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 672,
+        "sodium_mg": 1180,
+        "name": "skinless chicken thighs",
+        "potassium_mg": 1374,
+        "fat_saturated_g": 16.1,
+        "fat_total_g": 52.6,
+        "calories": 1114.9,
+        "cholesterol_mg": 821,
+        "protein_g": 163.6,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1/2 tablespoon toasted sesame seeds, for garnish",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 2,
+        "serving_size_g": 14.175,
+        "sodium_mg": 1.5,
+        "name": "toasted sesame seeds",
+        "potassium_mg": 89.5,
+        "fat_saturated_g": 0.95,
+        "fat_total_g": 6.75,
+        "calories": 80.3,
+        "cholesterol_mg": 0,
+        "protein_g": 2.4,
+        "carbohydrates_total_g": 3.7
+      }
+    }
+  ],
+  "directions": [
+    "In a small mixing bowl combine honey, minced garlic, soy sauce, ketchup, oregano and parsley; mix until well combined and set aside.\"Instant",
+    "Heat the Instant Pot in sauté mode.",
+    "Add sesame oil to the pot.",
+    "Season chicken thighs with salt and pepper; arrange in the instant pot and cook for about 2 to 3 minutes per side.\"Instant",
+    "Add the prepared honey garlic sauce to the pot; cover and lock the lid. \"Instant",
+    "Cook in poultry mode for 20 minutes.",
+    "Turn off the pot and allow it to release the pressure, about 5 minutes.",
+    "Transfer chicken to a serving plate and spoon the sauce over the chicken.",
+    "Garnish with toasted sesame seeds and green onions.",
+    "Serve."
+  ],
+  "nutrition": {
+    "sugar_g": 2,
+    "fiber_g": 1,
+    "serving_size_g": 127,
+    "sodium_mg": 336,
+    "name": "Honey Garlic Chicken",
+    "potassium_mg": 229,
+    "fat_saturated_g": 4,
+    "fat_total_g": 24,
+    "calories": 322,
+    "cholesterol_mg": 117,
+    "protein_g": 24,
+    "carbohydrates_total_g": 5,
+    "servings": 7
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Prime Rib Roast",
+  "meal": "special dinner",
+  "ingredients": [
+    {
+      "name": "5 -7 lb prime rib roast",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": -3175.144,
+        "sodium_mg": -1972,
+        "name": "prime rib",
+        "potassium_mg": -5763,
+        "fat_saturated_g": -349.2,
+        "fat_total_g": -861.6,
+        "calories": -11064.4,
+        "cholesterol_mg": -2591,
+        "protein_g": -708.7,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 cup unsalted butter, softened",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 14.2,
+        "sodium_mg": 1,
+        "name": "unsalted butter",
+        "potassium_mg": 3,
+        "fat_saturated_g": 7.2,
+        "fat_total_g": 11.5,
+        "calories": 103.2,
+        "cholesterol_mg": 30,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "6 cloves garlic, minced",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.4,
+        "serving_size_g": 18,
+        "sodium_mg": 3,
+        "name": "cloves garlic",
+        "potassium_mg": 27,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 26.1,
+        "cholesterol_mg": 0,
+        "protein_g": 1.1,
+        "carbohydrates_total_g": 6
+      }
+    },
+    {
+      "name": "2 Tbsp fresh rosemary, chopped",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 1,
+        "serving_size_g": 2.4,
+        "sodium_mg": 1,
+        "name": "rosemary",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0.2,
+        "fat_total_g": 0.4,
+        "calories": 8.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 1.5
+      }
+    },
+    {
+      "name": "2 Tbsp fresh thyme, chopped",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.2,
+        "serving_size_g": 1.6,
+        "sodium_mg": 0,
+        "name": "thyme",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.4
+      }
+    },
+    {
+      "name": "1 Tbsp salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 1.5,
+        "sodium_mg": 575,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 Tbsp Lawry's seasoning salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.1,
+        "serving_size_g": 1.2,
+        "sodium_mg": 381,
+        "name": "seasoning salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.1
+      }
+    },
+    {
+      "name": "1 Tbsp black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.6,
+        "serving_size_g": 2.3,
+        "sodium_mg": 0,
+        "name": "black pepper",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 5.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1.5
+      }
+    }
+  ],
+  "directions": [
+    "Set sous vide machine to 56C/133F.",
+    "Salt the rib roast to taste. Put the roast in a freezer bag, and remove the air through a vacuum sealer or the displacement method. Drop prime rib in the bath for 8 hours.",
+    "Mix together softened butter, garlic, rosemary, thyme, salt and Lawry's seasoning salt together in a bowl until the compound butter is spreadable.",
+    "Remove bag from bath and immediate transfer the roast into an ice bath Let t.he roast chill for 10 minutes. Remove bag from ice bath, take rib roast out of the bag and thoroughly pat dry.",
+    "Preheat oven for 475F. Evenly coat garlic herbed compound butter on the entire prime rib. Place rib roast on a baking rack pan and cook for 15 minutes.",
+    "Remove rib roast from oven. Let rest for 5 minutes.  If it is a bone-in roast, carefully carve off the bones making sure not to cut into the roast. Carve the prime rib into slabs and enjoy this heavenly piece of meat. *Pro tip - brush the excess butter and garlic mixture from the pan onto each piece before serving."
+  ],
+  "nutrition": {
+    "sugar_g": 0,
+    "fiber_g": 2,
+    "serving_size_g": -3034,
+    "sodium_mg": -962,
+    "name": "Prime Rib Roast",
+    "potassium_mg": -5542,
+    "fat_saturated_g": -334,
+    "fat_total_g": -830,
+    "calories": -10611,
+    "cholesterol_mg": -2442,
+    "protein_g": -677,
+    "carbohydrates_total_g": 10,
+    "servings": 1
+  }
+}

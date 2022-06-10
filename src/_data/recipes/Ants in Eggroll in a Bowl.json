@@ -1,0 +1,344 @@
+{
+  "title": "Ants in Eggroll in a Bowl",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb. ground pork",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 453.592,
+        "sodium_mg": 336,
+        "name": "ground pork",
+        "potassium_mg": 1017,
+        "fat_saturated_g": 35.3,
+        "fat_total_g": 94.7,
+        "calories": 1336.4,
+        "cholesterol_mg": 421,
+        "protein_g": 115.6,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "4 1/2 ounces mung bean noodles",
+      "nutrition": {
+        "sugar_g": 2.6999999999999997,
+        "fiber_g": 9.450000000000001,
+        "serving_size_g": 127.57275,
+        "sodium_mg": 0,
+        "name": "mung bean",
+        "potassium_mg": 126,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.45,
+        "calories": 130.5,
+        "cholesterol_mg": 0,
+        "protein_g": 9,
+        "carbohydrates_total_g": 23.849999999999998
+      }
+    },
+    {
+      "name": "2 ounces soy sauce",
+      "nutrition": {
+        "sugar_g": 0.05,
+        "fiber_g": 0.125,
+        "serving_size_g": 14.17475,
+        "sodium_mg": 767.5,
+        "name": "soy sauce",
+        "potassium_mg": 23.75,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.075,
+        "calories": 7.525,
+        "cholesterol_mg": 0,
+        "protein_g": 1.15,
+        "carbohydrates_total_g": 0.675
+      }
+    },
+    {
+      "name": "1 tablespoon rice wine",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 174.6,
+        "sodium_mg": 3,
+        "name": "rice wine",
+        "potassium_mg": 10,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 235.5,
+        "cholesterol_mg": 0,
+        "protein_g": 0.9,
+        "carbohydrates_total_g": 8.6
+      }
+    },
+    {
+      "name": "1 tablespoon sambal chili paste",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0,
+        "serving_size_g": 4.96,
+        "sodium_mg": 100,
+        "name": "sambal",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 1,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.2
+      }
+    },
+    {
+      "name": "1 teaspoon cornstarch",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 1.2,
+        "serving_size_g": 128,
+        "sodium_mg": 11,
+        "name": "cornstarch",
+        "potassium_mg": 16,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 494.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.3,
+        "carbohydrates_total_g": 115.1
+      }
+    },
+    {
+      "name": "1 tablespoon canola oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 14,
+        "sodium_mg": 0,
+        "name": "canola oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 1,
+        "fat_total_g": 13.7,
+        "calories": 124.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 sweet onion, diced",
+      "nutrition": {
+        "sugar_g": 16.6,
+        "fiber_g": 2.9,
+        "serving_size_g": 331,
+        "sodium_mg": 26,
+        "name": "sweet onion",
+        "potassium_mg": 89,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.3,
+        "calories": 103.7,
+        "cholesterol_mg": 0,
+        "protein_g": 2.7,
+        "carbohydrates_total_g": 24.6
+      }
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 13.6,
+        "sodium_mg": 0,
+        "name": "sesame oil",
+        "potassium_mg": 0,
+        "fat_saturated_g": 1.9,
+        "fat_total_g": 13.7,
+        "calories": 116.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 14.9,
+        "sodium_mg": 0,
+        "name": "rice vinegar",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "2 teaspoons minced fresh garlic",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.1,
+        "serving_size_g": 6,
+        "sodium_mg": 1,
+        "name": "garlic",
+        "potassium_mg": 9,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 8.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.4,
+        "carbohydrates_total_g": 2
+      }
+    },
+    {
+      "name": "1 teaspoon ground ginger",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.3,
+        "serving_size_g": 1.8,
+        "sodium_mg": 0,
+        "name": "ground ginger",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 6.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1.3
+      }
+    },
+    {
+      "name": "1/4 cup less sodium soy sauce",
+      "nutrition": {
+        "sugar_g": 0.025,
+        "fiber_g": 0.025,
+        "serving_size_g": 4,
+        "sodium_mg": 216.5,
+        "name": "soy sauce",
+        "potassium_mg": 6.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.025,
+        "calories": 2.125,
+        "cholesterol_mg": 0,
+        "protein_g": 0.325,
+        "carbohydrates_total_g": 0.2
+      }
+    },
+    {
+      "name": "1 tablespoon hoisin sauce",
+      "nutrition": {
+        "sugar_g": 4.4,
+        "fiber_g": 0.5,
+        "serving_size_g": 16,
+        "sodium_mg": 254,
+        "name": "hoisin sauce",
+        "potassium_mg": 6,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.5,
+        "calories": 34.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.5,
+        "carbohydrates_total_g": 6.9
+      }
+    },
+    {
+      "name": "1 (16 ounce) bag coleslaw mix",
+      "nutrition": {
+        "sugar_g": 10.5,
+        "fiber_g": 2.1,
+        "serving_size_g": 109.5,
+        "sodium_mg": 243,
+        "name": "coleslaw",
+        "potassium_mg": 27,
+        "fat_saturated_g": 2.1,
+        "fat_total_g": 13.2,
+        "calories": 176,
+        "cholesterol_mg": 8,
+        "protein_g": 1,
+        "carbohydrates_total_g": 13.5
+      }
+    },
+    {
+      "name": "1/2 cup grated or “matchstick” carrots",
+      "nutrition": {
+        "sugar_g": 0.8,
+        "fiber_g": 0.7,
+        "serving_size_g": 23,
+        "sodium_mg": 13,
+        "name": "carrots",
+        "potassium_mg": 6.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.05,
+        "calories": 8.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.15,
+        "carbohydrates_total_g": 1.85
+      }
+    },
+    {
+      "name": "4 green onions, chopped, divided",
+      "nutrition": {
+        "sugar_g": 1.4,
+        "fiber_g": 1.6,
+        "serving_size_g": 60,
+        "sodium_mg": 9,
+        "name": "green onions",
+        "potassium_mg": 21,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 18.6,
+        "cholesterol_mg": 0,
+        "protein_g": 1.1,
+        "carbohydrates_total_g": 4.4
+      }
+    },
+    {
+      "name": "1/2 cup chicken broth",
+      "nutrition": {
+        "sugar_g": 0.55,
+        "fiber_g": 0,
+        "serving_size_g": 124.5,
+        "sodium_mg": 464,
+        "name": "chicken broth",
+        "potassium_mg": 4.5,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.25,
+        "calories": 7.7,
+        "cholesterol_mg": 2.5,
+        "protein_g": 0.8,
+        "carbohydrates_total_g": 0.55
+      }
+    }
+  ],
+  "directions": [
+    "Soak the noodles in enough hot water to cover by 1 inch for 20 minutes.",
+    "Use kitchen shears to cut the noodles into 3 to 4-inch pieces",
+    "drain thoroughly in a colander for 10 minutes.",
+    "Combine the soy sauce, rice wine, and chili paste in a medium bowl and whisk until smooth.",
+    "Add the cornstarch and whisk until combined.",
+    "Add the pork and mix until thoroughly integrated.",
+    "Set aside for 30 minutes.",
+    "Place a wok over high heat for 1 minute.",
+    "Add the oil and swirl to coat the bottom and sides of the pan. Once the oil shimmers, add the meat mixture.",
+    "Stir constantly for 2 minutes, breaking the meat up into very small pieces.",
+    "Add diced onion, sesame oil, and rice vinegar to the skillet. Cook, stirring, for a few more minutes (until onion is tender).",
+    "Add garlic, ginger, soy sauce, hoisin sauce (optional), coleslaw mix, and carrots to the skillet. Cook, stirring, for about 5-7 more minutes, or until cabbage is wilted.",
+    "Add 2/3 of the green onions and continue cooking and stirring until the meat is well browned and in very small pieces, approximately 2 minutes.",
+    "Reduce the heat to medium-high and add the broth. Cook until reduced, approximately 3 minutes.",
+    "Slowly add handfuls of the noodles to the pan, tossing with the meat mixture until combined and the pieces of meat cling to the noodles and no liquid remains. Serve immediately with the remaining green onions."
+  ],
+  "nutrition": {
+    "sugar_g": 6,
+    "fiber_g": 2,
+    "serving_size_g": 181,
+    "sodium_mg": 439,
+    "name": "Ants in Eggroll in a Bowl",
+    "potassium_mg": 138,
+    "fat_saturated_g": 3,
+    "fat_total_g": 12,
+    "calories": 310,
+    "cholesterol_mg": 36,
+    "protein_g": 14,
+    "carbohydrates_total_g": 32,
+    "servings": 12
+  }
+}

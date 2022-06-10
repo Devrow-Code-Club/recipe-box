@@ -1,0 +1,236 @@
+{
+  "title": "German Apple-Almond Cake",
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "4 medium apples",
+      "nutrition": {
+        "sugar_g": 75.3,
+        "fiber_g": 17.2,
+        "serving_size_g": 728,
+        "sodium_mg": 7,
+        "name": "apples",
+        "potassium_mg": 80,
+        "fat_saturated_g": 0.2,
+        "fat_total_g": 1.2,
+        "calories": 389,
+        "cholesterol_mg": 0,
+        "protein_g": 1.9,
+        "carbohydrates_total_g": 100.2
+      }
+    },
+    {
+      "name": "1 lemon, zested and juiced",
+      "nutrition": {
+        "sugar_g": 2.1,
+        "fiber_g": 2.3,
+        "serving_size_g": 84,
+        "sodium_mg": 1,
+        "name": "lemon",
+        "potassium_mg": 13,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.2,
+        "calories": 24.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.9,
+        "carbohydrates_total_g": 7.8
+      }
+    },
+    {
+      "name": "7 ounces (200g) almond paste",
+      "nutrition": {
+        "sugar_g": 71.7,
+        "fiber_g": 9.6,
+        "serving_size_g": 198.4465,
+        "sodium_mg": 17,
+        "name": "almond paste",
+        "potassium_mg": 515,
+        "fat_saturated_g": 5.2,
+        "fat_total_g": 54.9,
+        "calories": 885.3,
+        "cholesterol_mg": 0,
+        "protein_g": 17.9,
+        "carbohydrates_total_g": 93.6
+      }
+    },
+    {
+      "name": "1/3 cup sugar",
+      "nutrition": {
+        "sugar_g": 1.4,
+        "fiber_g": 0,
+        "serving_size_g": 1.4,
+        "sodium_mg": 0,
+        "name": "sugar",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 5.3999999999999995,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 1.4
+      }
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 0.75,
+        "sodium_mg": 287.5,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "14 tablespoons (200g) unsalted butter, melted and cooled",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0,
+        "serving_size_g": 198.79999999999998,
+        "sodium_mg": 21,
+        "name": "unsalted butter",
+        "potassium_mg": 47,
+        "fat_saturated_g": 100.7,
+        "fat_total_g": 161,
+        "calories": 1444.6,
+        "cholesterol_mg": 424,
+        "protein_g": 1.7,
+        "carbohydrates_total_g": 0.1
+      }
+    },
+    {
+      "name": "1 teaspoons almond extract",
+      "nutrition": {
+        "sugar_g": 0.5,
+        "fiber_g": 0,
+        "serving_size_g": 4.2,
+        "sodium_mg": 0,
+        "name": "almond extract",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 12.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0.5
+      }
+    },
+    {
+      "name": "4 large eggs, at room temperature",
+      "nutrition": {
+        "sugar_g": 0.8,
+        "fiber_g": 0,
+        "serving_size_g": 200,
+        "sodium_mg": 280,
+        "name": "large eggs",
+        "potassium_mg": 402,
+        "fat_saturated_g": 6.3,
+        "fat_total_g": 19.2,
+        "calories": 280.7,
+        "cholesterol_mg": 752,
+        "protein_g": 25,
+        "carbohydrates_total_g": 1.4
+      }
+    },
+    {
+      "name": "1 cup, 3 tablespoons (150g) flour",
+      "nutrition": {
+        "sugar_g": 1,
+        "fiber_g": 10.1,
+        "serving_size_g": 375,
+        "sodium_mg": 7,
+        "name": "flour",
+        "potassium_mg": 399,
+        "fat_saturated_g": 0.6,
+        "fat_total_g": 3.7,
+        "calories": 1359.7,
+        "cholesterol_mg": 0,
+        "protein_g": 38.4,
+        "carbohydrates_total_g": 288.6
+      }
+    },
+    {
+      "name": "9 tablespoons (80g) cornstarch",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 10.4,
+        "serving_size_g": 1152,
+        "sodium_mg": 104,
+        "name": "cornstarch",
+        "potassium_mg": 151,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.5,
+        "calories": 4451.1,
+        "cholesterol_mg": 0,
+        "protein_g": 3,
+        "carbohydrates_total_g": 1036.2
+      }
+    },
+    {
+      "name": "2 teaspoons baking powder, preferably aluminum free",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 9.2,
+        "sodium_mg": 977,
+        "name": "baking powder",
+        "potassium_mg": 198,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 5,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 2.5
+      }
+    },
+    {
+      "name": "1/4 cup (75g) apricot jam, strained if lumpy",
+      "nutrition": {
+        "sugar_g": 2.15,
+        "fiber_g": 0.025,
+        "serving_size_g": 5,
+        "sodium_mg": 1.75,
+        "name": "apricot jam",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 12.175,
+        "cholesterol_mg": 0,
+        "protein_g": 0.025,
+        "carbohydrates_total_g": 3.175
+      }
+    }
+  ],
+  "directions": [
+    "Butter a 9- to 10-inch (23cm) springform pan and line the bottom with parchment paper.",
+    "Peel and core the apples. Divide the lemon juice into two separate bowls. Slice two of the peeled and cored apples into 1/2-inch (1,25cm) slices, and toss the apple slices in one bowl of lemon juice. Dice the other two apples into 1/3-inch (1cm) cubes. Toss in the other bowl of lemon juice.",
+    "Preheat the oven to 350ºF (180ºC).",
+    "Using a grater with large holes, grate the almond paste into the bowl of a stand mixer fitted with the paddle attachment. Add the sugar and salt and mix until the almond paste is finely broken up.",
+    "Add the melted butter, almond extract, and lemon zest, and continue mixing until smooth. Add the eggs one at a time, stopping the mixer and scraping down the sides of the bowl after each addition.",
+    "Whisk together the flour, cornstarch and baking powder in a small bowl. Stir the dry ingredients into the almond batter mixture by hand, then fold in the diced apples, along with any lemon juice in the bowl.",
+    "Scrape the batter into the prepared pan and smooth the top. Place the sliced apples in concentric circles on top of the batter, pressing them in very lightly.",
+    "Bake the cake until the top is golden brown and a toothpick inserted into the center comes out clean, about 1 hour and 10 minutes.",
+    "Remove the cake from the oven. Warm the apricot jam in a small saucepan and brush it over the top while the cake is hot. Let the cake cool completely, then run a knife around the inside of the cake pan to release the cake, and remove the sides of the cake pan. Brush the top of the cake with the apricot jam."
+  ],
+  "nutrition": {
+    "sugar_g": 2,
+    "fiber_g": 1,
+    "serving_size_g": 34,
+    "sodium_mg": 19,
+    "name": "German Apple-Almond Cake",
+    "potassium_mg": 21,
+    "fat_saturated_g": 1,
+    "fat_total_g": 3,
+    "calories": 101,
+    "cholesterol_mg": 13,
+    "protein_g": 1,
+    "carbohydrates_total_g": 17,
+    "servings": 88
+  }
+}

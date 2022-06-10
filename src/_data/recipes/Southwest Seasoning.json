@@ -1,0 +1,195 @@
+{
+  "title": "Southwest Seasoning",
+  "source": "http://coffeecupsandcrafts.blogspot.com/2011/04/southwest-seasoning.html?spref=pi&m=1",
+  "meal": "seasoning",
+  "ingredients": [
+    {
+      "name": "2 tablespoons chili powder",
+      "nutrition": {
+        "sugar_g": 0.4,
+        "fiber_g": 1.9,
+        "serving_size_g": 5.4,
+        "sodium_mg": 156,
+        "name": "chili powder",
+        "potassium_mg": 15,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.8,
+        "calories": 15.1,
+        "cholesterol_mg": 0,
+        "protein_g": 0.7,
+        "carbohydrates_total_g": 2.7
+      }
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.4,
+        "serving_size_g": 4.2,
+        "sodium_mg": 6,
+        "name": "ground cumin",
+        "potassium_mg": 21,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.9,
+        "calories": 16,
+        "cholesterol_mg": 0,
+        "protein_g": 0.7,
+        "carbohydrates_total_g": 1.9
+      }
+    },
+    {
+      "name": "2 tablespoons paprika",
+      "nutrition": {
+        "sugar_g": 0.5,
+        "fiber_g": 1.6,
+        "serving_size_g": 4.6,
+        "sodium_mg": 3,
+        "name": "paprika",
+        "potassium_mg": 14,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.6,
+        "calories": 12.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.7,
+        "carbohydrates_total_g": 2.4
+      }
+    },
+    {
+      "name": "1 teaspoon black pepper",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.6,
+        "serving_size_g": 2.3,
+        "sodium_mg": 0,
+        "name": "black pepper",
+        "potassium_mg": 3,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.1,
+        "calories": 5.6,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1.5
+      }
+    },
+    {
+      "name": "1 tablespoon ground coriander",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.8,
+        "serving_size_g": 1.8,
+        "sodium_mg": 0,
+        "name": "ground coriander",
+        "potassium_mg": 7,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0.3,
+        "calories": 5.4,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1
+      }
+    },
+    {
+      "name": "1 teaspoon cayenne pepper",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.5,
+        "serving_size_g": 1.8,
+        "sodium_mg": 0,
+        "name": "cayenne pepper",
+        "potassium_mg": 5,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 5.8,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1
+      }
+    },
+    {
+      "name": "1 tablespoon garlic powder",
+      "nutrition": {
+        "sugar_g": 0.1,
+        "fiber_g": 0.3,
+        "serving_size_g": 3.1,
+        "sodium_mg": 1,
+        "name": "garlic powder",
+        "potassium_mg": 12,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 10.3,
+        "cholesterol_mg": 0,
+        "protein_g": 0.5,
+        "carbohydrates_total_g": 2.2
+      }
+    },
+    {
+      "name": "1 teaspoon crushed red pepper",
+      "nutrition": {
+        "sugar_g": 0.2,
+        "fiber_g": 0.5,
+        "serving_size_g": 1.8,
+        "sodium_mg": 0,
+        "name": "crushed red pepper",
+        "potassium_mg": 5,
+        "fat_saturated_g": 0.1,
+        "fat_total_g": 0.3,
+        "calories": 5.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.2,
+        "carbohydrates_total_g": 1
+      }
+    },
+    {
+      "name": "1 tablespoon salt",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0,
+        "serving_size_g": 1.5,
+        "sodium_mg": 575,
+        "name": "salt",
+        "potassium_mg": 0,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 0,
+        "cholesterol_mg": 0,
+        "protein_g": 0,
+        "carbohydrates_total_g": 0
+      }
+    },
+    {
+      "name": "1 tablespoon dried oregano",
+      "nutrition": {
+        "sugar_g": 0,
+        "fiber_g": 0.4,
+        "serving_size_g": 1,
+        "sodium_mg": 0,
+        "name": "oregano",
+        "potassium_mg": 1,
+        "fat_saturated_g": 0,
+        "fat_total_g": 0,
+        "calories": 2.7,
+        "cholesterol_mg": 0,
+        "protein_g": 0.1,
+        "carbohydrates_total_g": 0.7
+      }
+    }
+  ],
+  "directions": [
+    "Combine all ingredients thoroughly."
+  ],
+  "nutrition": {
+    "sugar_g": 2,
+    "fiber_g": 7,
+    "serving_size_g": 28,
+    "sodium_mg": 741,
+    "name": "Southwest Seasoning",
+    "potassium_mg": 83,
+    "fat_saturated_g": 1,
+    "fat_total_g": 3,
+    "calories": 79,
+    "cholesterol_mg": 0,
+    "protein_g": 4,
+    "carbohydrates_total_g": 14,
+    "servings": 1
+  }
+}

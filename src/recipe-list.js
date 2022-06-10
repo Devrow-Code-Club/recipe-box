@@ -49,11 +49,8 @@ class RecipeList extends LitElement {
   constructor() {
     super();
     this.recipes = [];
-    fetch('/_data/static-recipes.json')
-      .then(response => response.json())
-      .then(recipes => {
-        this.recipes = recipes.sort((a, b) => a.title > b.title ? 1 : -1);
-      });
+    fetch('/_data/recipesNames.json')
+      .then(response => response.json()).then(recipes => this.recipes = recipes);
   }
 
   add(recipe) {
@@ -85,7 +82,7 @@ class RecipeList extends LitElement {
       <section id="recipes">
         ${this.recipes.map(
           recipe => html`<div class="recipe">
-            <h3>${recipe.title}</h3>
+            <h3>${recipe}</h3>
             <div class="actions">
               <button class="add" @click=${this.add(recipe)}>${addIcon}</button>
               <button class="see" @click=${this.see(recipe)}>${seeIcon}</button>
