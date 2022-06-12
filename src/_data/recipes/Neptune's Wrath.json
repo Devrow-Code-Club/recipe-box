@@ -55,40 +55,43 @@
       }
     },
     {
-      "name": "3.4 oz Simple Syrup",
+      "name": "3/4 oz Simple Syrup",
       "nutrition": {
-        "sugar_g": 437.6,
+        "sugar_g": 9.675,
         "fiber_g": 0,
-        "serving_size_g": 963.8829999999999,
-        "sodium_mg": 9,
+        "serving_size_g": 21.262124999999997,
+        "sodium_mg": 0,
         "name": "simple syrup",
         "potassium_mg": 0,
         "fat_saturated_g": 0,
         "fat_total_g": 0,
-        "calories": 1721.9,
+        "calories": 37.95,
         "cholesterol_mg": 0,
         "protein_g": 0,
-        "carbohydrates_total_g": 442.5
+        "carbohydrates_total_g": 9.75
       }
     },
     {
-      "name": "Half an Egg White",
+      "name": "1/2 an Egg White",
       "nutrition": {
-        "sugar_g": 0.7,
+        "sugar_g": 0.1,
         "fiber_g": 0,
-        "serving_size_g": 100,
-        "sodium_mg": 168,
+        "serving_size_g": 16.5,
+        "sodium_mg": 27.5,
         "name": "egg white",
-        "potassium_mg": 15,
+        "potassium_mg": 2.5,
         "fat_saturated_g": 0,
-        "fat_total_g": 0.2,
-        "calories": 52.5,
+        "fat_total_g": 0.05,
+        "calories": 8.65,
         "cholesterol_mg": 0,
-        "protein_g": 11,
-        "carbohydrates_total_g": 0.7
+        "protein_g": 1.8,
+        "carbohydrates_total_g": 0.1
       }
     },
-    "1/2 oz Green Chartreuse"
+    {
+      "name": "1/2 oz Green Chartreuse",
+      "nutrition": {}
+    }
   ],
   "directions": [
     "Combine all the ingredients except the Green Chartreuse to your cocktail shaker",
@@ -98,18 +101,18 @@
     "Add flaming Green Chartreuse to top"
   ],
   "nutrition": {
-    "sugar_g": 439,
+    "sugar_g": 10,
     "fiber_g": 0,
-    "serving_size_g": 1135,
-    "sodium_mg": 182,
+    "serving_size_g": 109,
+    "sodium_mg": 32,
     "name": "Neptune's Wrath",
-    "potassium_mg": 18,
+    "potassium_mg": 6,
     "fat_saturated_g": 0,
     "fat_total_g": 0,
-    "calories": 1899,
+    "calories": 172,
     "cholesterol_mg": 0,
-    "protein_g": 11,
-    "carbohydrates_total_g": 444,
+    "protein_g": 2,
+    "carbohydrates_total_g": 11,
     "servings": 1
   }
 }
