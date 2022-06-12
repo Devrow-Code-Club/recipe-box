@@ -1859,5 +1859,24 @@
       "Stir once.",
       "Garnish with a lemon wedge or rind and serve."
     ]
+  },{
+    "title": "Neptune's Wrath",
+    "source": "https://stevethebartender.com.au/neptunes-wrath-absinthe-green-chartreuse-gin-sour/",
+    "meal": "drink",
+    "ingredients": [
+      "1 1/2 oz Gin",
+      "1/4 oz Absinthe",
+      "3/4 oz Fresh Lemon Juice",
+      "3.4 oz Simple Syrup",
+      "Half an Egg White",
+      "1/2 oz Green Chartreuse"
+    ],
+    "directions": [
+      "Combine all the ingredients except the Green Chartreuse to your cocktail shaker",
+      "Dry shake the ingredients to emulsify the egg white",
+      "Wet shake",
+      "Strain into a chilled cocktail glass",
+      "Add flaming Green Chartreuse to top"
+    ]
   }
 ]
