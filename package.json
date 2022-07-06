@@ -10,6 +10,7 @@
     "copy-index": "wireit",
     "copy-data": "wireit",
     "copy-bookmarklet": "wireit",
+    "preprocess-recipes": "wireit",
     "start": "wds --port 8041 --root-dir dist/",
     "serve": "wds --port 8040 --node-resolve --root-dir src/",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -31,10 +32,16 @@
       "command": "cp src/index.html dist/index.html"
     },
     "copy-data": {
-      "command": "cp -r src/_data dist/"
+      "command": "cp -r src/_data dist/",
+      "dependencies": [
+        "preprocess-recipes"
+      ]
     },
     "copy-bookmarklet": {
       "command": "cp src/bookmarklet.js dist/"
+    },
+    "preprocess-recipes": {
+      "command": "cd scripts && node preprocessRecipes.js"
     }
   },
   "repository": {
