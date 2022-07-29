@@ -1923,5 +1923,50 @@
       "Sprinkle over the remaining cheese, Swiss or Mozzarella first then Parmesan.",
       "Either broil on high or place in the air fryer at 400F for 5 minutes."
     ]
+  },{
+    "title": "Fried Rice",
+    "source": "https://www.gimmesomeoven.com/fried-rice-recipe/#tasty-recipes-62154",
+    "meal": "dinner",
+    "ingredients": [
+      "3 tablespoons oil, divided",
+      "2 large eggs, whisked",
+      "2 medium carrots, peeled and diced",
+      "1 small white onion,diced",
+      "3 cloves garlic, minced",
+      "salt and black pepper",
+      "4 cups cooked and chilled rice",
+      "3 green onions, thinly sliced",
+      "3–4 tablespoons soy sauce, or more to taste",
+      "1/2 teaspoonstoasted sesame oil"
+    ],
+    "directions": [
+      "Heat oil in a wok",
+      "add rice, carrots and onion, cook for 3-5 minutes",
+      "add garlic, salt and pepper and a healthy dash of gomaiso, cook another minute",
+      "add soy sauce and cook another minute",
+      "make a well and add the eggs, cook until scrambled",
+      "add soy sauce to taste and serve"
+    ]
+  },{
+    "title": "Egg Drop Soup",
+    "source": "https://www.simplyrecipes.com/recipes/egg_drop_soup/",
+    "meal": "dinner",
+    "ingredients": [
+      "3 large eggs, lightly beaten",
+      "4 cups chicken stock,homemadepreferred",
+      "1 tablespoon cornstarch",
+      "Scant 1/2 teaspoon grated ginger",
+      "1 tablespoon soy sauce",
+      "3 green onions, chopped",
+      "1/4 teaspoon white pepper",
+      "3/4 cup mushrooms"
+    ],
+    "directions": [
+      "Make the cornstarch slurry:  Measure out 1/2 cup of the stock and mix with the cornstarch until dissolved.",
+      "Put stock, ginger, soy sauce, onions, mushrooms, white pepper in pot and bring to boil:  Place the remaining chicken stock, ginger, soy sauce, green onions, mushrooms and white pepper in a pot and bring to a boil.<img src=\"https://www.simplyrecipes.com/thmb/bnRgQrCP5XHyJuygtdpihejngrQ=/600x400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-1-b30523882e7747a0b402373d561d466b.jpg\"srcset=\"https://www.simplyrecipes.com/thmb/OIxU2eSBsdNPBF1Dy0HxowwCL5Y=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-1-b30523882e7747a0b402373d561d466b.jpg 580w\"alt=\"Egg drop soup stock vegetables in pot\"width=\"600\"height=\"400\"class=\"img--noscript \" /> Elise Bauer",
+      "Stir in the corn starch slurry and reduce heat to a simmer.",
+      "Stir in beaten eggs:  Slowly pour in the beaten eggs while stirring the soup while stirring slowly. The egg will spread out into ribbons.<img src=\"https://www.simplyrecipes.com/thmb/_KjWrZI-Tn-tfsoeFdVbt0pq8II=/600x400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-2-4565c56a3fc1445aa7dc7b88950abef4.jpg\"srcset=\"https://www.simplyrecipes.com/thmb/G2-KEnlyzuZzKnsHiIDp-4XyWT4=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-2-4565c56a3fc1445aa7dc7b88950abef4.jpg 580w\"alt=\"Stirring in beaten eggs in egg drop soup with chop sticks \"width=\"600\"height=\"400\"class=\"img--noscript \" /> Elise Bauer<img src=\"https://www.simplyrecipes.com/thmb/ixRRtIE1_DL1suDCSPOKj1gaBLQ=/600x400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-3-4e455d8d022c436aa1c051cc1dc3177a.jpg\"srcset=\"https://www.simplyrecipes.com/thmb/tZ0J4O5_EGzH7GxpYcDja2Ty2OM=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-3-4e455d8d022c436aa1c051cc1dc3177a.jpg 580w\"alt=\"Egg Drop Soup Recipe Simmering On Stove \"width=\"600\"height=\"400\"class=\"img--noscript \" /> Elise Bauer",
+      "Serve:  Turn off the heat and garnish with a few more chopped green onions. Serve immediately."
+    ]
   }
 ]
