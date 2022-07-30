@@ -53,7 +53,7 @@ fs.writeFile('../src/_data/recipesNames.json', JSON.stringify(recipeNames, null,
 
 for (let recipe of recipes) {
   try {
-    if((await fs.stat(`../src/_data/recipes/${recipe.title}.json`).catch(e => false))?.isFile?.()) continue;
+    // if((await fs.stat(`../src/_data/recipes/${recipe.title}.json`).catch(e => false))?.isFile?.()) continue;
     const ingredientFractions = new Map();
     const ingredients = recipe.ingredients.map(ingredient => {
       const fraction = ingredient.match(/\d? ?\d\/\d/);
