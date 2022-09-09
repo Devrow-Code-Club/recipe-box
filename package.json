@@ -65,7 +65,7 @@
   "devDependencies": {
     "@web/dev-server": "^0.1.30",
     "esbuild": "^0.14.36",
-    "node-fetch": "^3.2.6",
+    "node-fetch": "^3.2.10",
     "wireit": "^0.3.1",
     "workbox-cli": "^6.5.3"
   },
