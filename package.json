@@ -8,6 +8,7 @@
     "build": "wireit",
     "bundle": "wireit",
     "copy-index": "wireit",
+    "copy-images": "wireit",
     "copy-data": "wireit",
     "copy-bookmarklet": "wireit",
     "preprocess-recipes": "wireit",
