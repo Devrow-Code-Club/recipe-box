@@ -21,6 +21,7 @@
       "dependencies": [
         "bundle",
         "copy-index",
+        "copy-images",
         "copy-data",
         "copy-bookmarklet"
       ]
@@ -30,6 +31,9 @@
     },
     "copy-index": {
       "command": "cp src/index.html dist/index.html"
+    },
+    "copy-images": {
+      "command": "cp -r src/images dist/"
     },
     "copy-data": {
       "command": "cp -r src/_data dist/",

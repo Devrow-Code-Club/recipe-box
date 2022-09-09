@@ -10,12 +10,18 @@ const recipeDialog = document.querySelector('#recipe-dialog');
 const recipeDisplay = recipeDialog.querySelector('recipe-display');
 const recipeList = document.querySelector('recipe-list');
 const foodList = document.querySelector('food-list');
+const helpersButton = document.querySelector('#helpers');
+const helpersDialog = document.querySelector('#helpers-dialog')
 
-recipeDialog.addEventListener('click', event => {
+[recipeDialog, helpersDialog].forEach(dialog => dialog.addEventListener('click', event => {
   if (event.target.tagName === 'DIALOG') {
     recipeDialog.close();
   }
-});
+}));
+
+helpersButton.addEventListener('click', event => {
+  helpersDialog.showModal();
+})
 
 recipeDisplay.addEventListener('close-dialog', () => {
   recipeDialog.close();
