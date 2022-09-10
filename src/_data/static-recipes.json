@@ -509,13 +509,12 @@
       "50g stale bread",
       "1/4 cup warm water or milk",
       "1 large egg",
-      "1 clove garlic, minced",
-      "1/4 cup chopped fresh parsley",
+      "3 cloves garlic, minced",
       "1 1/2 teaspoons salt",
       "3/4 teaspoon freshly ground black pepper",
       "1 teaspoon prepared yellow mustard",
-      "1 teaspoon dried oregano",
-      "1 teaspoon sweet Hungarian paprika",
+      "1 teaspoon seasoning salt",
+      "2 teaspoon onion powder",
       "3 tablespoons olive oil",
       "1 tablespoon butter"
     ],
@@ -1923,7 +1922,8 @@
       "Sprinkle over the remaining cheese, Swiss or Mozzarella first then Parmesan.",
       "Either broil on high or place in the air fryer at 400F for 5 minutes."
     ]
-  },{
+  },
+  {
     "title": "Fried Rice",
     "source": "https://www.gimmesomeoven.com/fried-rice-recipe/#tasty-recipes-62154",
     "meal": "dinner",
@@ -1947,7 +1947,8 @@
       "make a well and add the eggs, cook until scrambled",
       "add soy sauce to taste and serve"
     ]
-  },{
+  },
+  {
     "title": "Egg Drop Soup",
     "source": "https://www.simplyrecipes.com/recipes/egg_drop_soup/",
     "meal": "dinner",
@@ -1968,7 +1969,8 @@
       "Stir in beaten eggs:  Slowly pour in the beaten eggs while stirring the soup while stirring slowly. The egg will spread out into ribbons.<img src=\"https://www.simplyrecipes.com/thmb/_KjWrZI-Tn-tfsoeFdVbt0pq8II=/600x400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-2-4565c56a3fc1445aa7dc7b88950abef4.jpg\"srcset=\"https://www.simplyrecipes.com/thmb/G2-KEnlyzuZzKnsHiIDp-4XyWT4=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-2-4565c56a3fc1445aa7dc7b88950abef4.jpg 580w\"alt=\"Stirring in beaten eggs in egg drop soup with chop sticks \"width=\"600\"height=\"400\"class=\"img--noscript \" /> Elise Bauer<img src=\"https://www.simplyrecipes.com/thmb/ixRRtIE1_DL1suDCSPOKj1gaBLQ=/600x400/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-3-4e455d8d022c436aa1c051cc1dc3177a.jpg\"srcset=\"https://www.simplyrecipes.com/thmb/tZ0J4O5_EGzH7GxpYcDja2Ty2OM=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__05__egg-drop-soup-method-600-3-4e455d8d022c436aa1c051cc1dc3177a.jpg 580w\"alt=\"Egg Drop Soup Recipe Simmering On Stove \"width=\"600\"height=\"400\"class=\"img--noscript \" /> Elise Bauer",
       "Serve:  Turn off the heat and garnish with a few more chopped green onions. Serve immediately."
     ]
-  },{
+  },
+  {
     "title": "Beef and Broccoli",
     "source": "https://natashaskitchen.com/beef-and-broccoli/#jump-to-recipe",
     "meal": "dinner",
@@ -2000,7 +2002,8 @@
       "Add broccoli and stir to combine.",
       "Stir in 1-2 Tbsp water to thin the sauce if desired."
     ]
-  },{
+  },
+  {
     "title": "Cashew Chicken (Slow Cooker)",
     "source": "https://damndelicious.net/2014/10/27/slow-cooker-cashew-chicken/",
     "meal": "dinner",
@@ -2033,7 +2036,8 @@
       "Stir in zucchini and cook on low for an additional 10 minuts",
       "Serve immediately, garnished with green onions, if desired."
     ]
-  },{
+  },
+  {
     "title": "Carnitas (Mexican Slow Cooker Pulled Pork)",
     "source": "https://www.recipetineats.com/pork-carnitas-mexican-slow-cooker-pulled-pork/",
     "meal": "dinner",
@@ -2065,7 +2069,8 @@
       "Remove pork from skillet. Repeat in batches (takes me 4 batches) - don't crowd the pan.",
       "Just before serving, drizzle over more juices and serve hot, stuffed in tacos (see notes for sides, other serving suggestion and storage/make ahead)."
     ]
-  },{
+  },
+  {
     "title": "Orzo Pasta Salad",
     "source": "https://www.acedarspoon.com/summer-orzo-pasta-salad/",
     "meal": "dinner",
@@ -2096,7 +2101,8 @@
       "Sprinkle the basil over the salad and gently toss.",
       "When ready to serve add the tomatoes and toss."
     ]
-  },{
+  },
+  {
     "title": "Peruvian Green Sauce",
     "source": "https://www.pamperedchef.com/recipe/Main+Dishes/Peruvian+Green+Sauce/1608166",
     "meal": "side",
@@ -2113,7 +2119,8 @@
     "directions": [
       "combine the sauce ingredients in a Deluxe Cooking Blender or Manual Food Processor and pulse until combined."
     ]
-  },{
+  },
+  {
     "title": "Chicken Parmesan (Air Fryer)",
     "source": "https://www.pamperedchef.com/recipe/Main+Dishes/30+Minutes+or+Less/Air+Fryer+Chicken+Parmesan/1617984",
     "meal": "dinner",
@@ -2139,36 +2146,43 @@
       "Season the chicken with the salt. Add the flour to one Coating Tray. Whisk the eggs and milk together in a second coating tray. Grate the Parmesan with the Microplane® Adjustable Coarse Grater and combine with the panko and seasoning in the third coating tray.",
       "Coat each chicken breast in flour first, then the eggs, then the panko mixture.",
       "Divide the chicken onto two cooking trays of the Deluxe Air Fryer. Place the trays on the top and middle racks.",
-      "Cut the tomatoes in half with the Close & Cut; place them on the drip tray of the air fryer. Turn the wheel to select the setting; press the wheel to select AIR FRY. Turn the wheel to adjust the time to 18 minutes. Press the wheel to start. Switch the trays with the chicken halfway through cooking (you’ll hear beeps as a reminder). Cook until the internal temperature reaches 165°F (74°C).",
+      "Cut the tomatoes in half with the Close & Cut; place them on the drip tray of the air fryer. Turn the wheel to select the setting; press the wheel to select AIR FRY. Turn the wheel to adjust the time to 18 minutes. Press the wheel to start. Switch the trays with the chicken halfway through cooking (you'll hear beeps as a reminder). Cook until the internal temperature reaches 165°F (74°C).",
       "Slice the mozzarella with the Quick Slice. When the chicken is halfway through cooking, add the tortellini to the 3-qt. (3-L) Micro‑Cooker® Plus with enough water to cover the pasta. Microwave, covered, on HIGH, for 8 minutes.",
       "Drain the pasta and transfer it to a medium mixing bowl. Grate the Parmesan cheese into the bowl with the Microplane® Adjustable Fine Grater. Grate the basil into the bowl with the Herb Mill. Add the remaining pasta ingredients and toss to combine.",
       "When the timer is up, top each chicken breast with the mozzarella. Turn the wheel to select the AIR FRY setting; press the wheel to select. Turn the wheel to adjust the time to 2 minutes. Press the wheel to start.",
       "Add the tomatoes to the pasta mixture and serve with the chicken."
     ]
-  },{
+  },
+  {
     "title": "Unrolled Cabbage Rolls",
     "source": "https://www.pamperedchef.com/recipe/Main+Dishes/30+Minutes+or+Less/Unrolled+Cabbage+Rolls/1879567",
     "meal": "dinner",
     "ingredients": [
       "1 medium onion",
-      "8oz. (250 g)mushrooms",
+      "8 oz. (250 g) mushrooms",
       "1/2 head cabbage (about 12 oz./350 g), core and tough stems removed",
-      "1lb. (450 g)ground pork",
+      "1 lb. (450 g)ground pork",
       "2 garlic cloves, pressed",
       "1/4 tsp (1 mL)salt",
       "1/4 tsp (1 mL)pepper",
       "1 can (14.5 oz./398 g)diced  tomatoes, undrained",
       "1 can (8 oz./250 mL)tomato sauce",
       "1/2 cup (125 mL)beef or vegetable broth",
-      "2 tbsp (30 mL)Worcestershire sauce"    ],
+      "2 tbsp (30 mL)Worcestershire sauce"
+    ],
     "directions": [
-      "Use the Flex+ Food Processor fitted with the multiuse blade to finely chop the onion and mushrooms in batches; set aside. Slice the cabbage with the thick slicing blade; set aside.",
-      "Add the pork to the 5-qt. (4.7-L) Nonstick Saute Pan; cook over medium heat, breaking it up into chunks. After 3 minutes, add the onion and continue cooking until the meat is no longer pink, about 5-6 minutes.",
-      "Add the mushrooms, garlic, salt, and pepper. Cook until the mushrooms cook down to half the original size and release their moisture, about 5 minutes.",
-      "Add the cabbage, tomatoes, tomato sauce, broth, and Worcestershire sauce. Bring to a boil over medium heat, then reduce to medium-low and simmer uncovered until the cabbage is tender, about 10-12 minutes, stirring occasionally.",
-      "Serve as is, or over egg noodles or mashed potatoes, if you’d like."
+      "Use the Flex+ Food Processor fitted with the multiuse blade to finely chop the onion and mushrooms in batches; set aside.",
+      "Slice the cabbage with the thick slicing blade; set aside.",
+      "Add the pork to the 5-qt. (4.7-L) Nonstick Saute Pan; cook over medium heat, breaking it up into chunks.",
+      "After 3 minutes, add the onion and continue cooking until the meat is no longer pink, about 5-6 minutes.",
+      "Add the mushrooms, garlic, salt, and pepper.",
+      "Cook until the mushrooms cook down to half the original size and release their moisture, about 5 minutes.",
+      "Add the cabbage, tomatoes, tomato sauce, broth, and Worcestershire sauce.",
+      "Bring to a boil over medium heat, then reduce to medium-low and simmer uncovered until the cabbage is tender, about 10-12 minutes, stirring occasionally.",
+      "Serve as is, or over egg noodles or mashed potatoes, if you'd like."
     ]
-  },{
+  },
+  {
     "title": "Greek Potato & Green Bean Salad",
     "source": "https://www.pamperedchef.com/recipe/Main+Dishes/30+Minutes+or+Less/Greek+Potato+%26+Green+Bean+Salad/1432468",
     "meal": "dinner",
@@ -2192,7 +2206,8 @@
       "Place the salad greens in a large serving bowl. Transfer the green beans and chickpeas to the bowl. Drain the potatoes with the lid and transfer to the bowl.",
       "Top with olives and dressing, and toss to coat."
     ]
-  },{
+  },
+  {
     "title": "Sweet Potato Black Bean Enchilada Casserole",
     "source": "https://www.pamperedchef.com/recipe/Main+Dishes/Gluten-Free/Sweet+Potato+Black+Bean+Enchilada+Casserole/1432344",
     "meal": "dinner",
@@ -2215,6 +2230,26 @@
       "Microwave, covered, on HIGH for 6-8 minutes.",
       "Place an oven rack 2-4\" (5-10 cm) from the heating element. Preheat the broiler.",
       "Remove the pan from the microwave. Uncover and broil for 2-3 minutes, or until the cheese is melted and lightly browned. Serve with optional toppings."
+    ]
+  },
+  {
+    "title": "Potato Salad",
+    "source": "my head",
+    "meal": "side",
+    "ingredients": [
+      "4 russet potatoes, skinned and cut up",
+      "1/2 sweet onion, diced",
+      "8 pieces of cooked bacon, crumbled",
+      "6 hard boiled eggs, diced",
+      "1 tsp salt",
+      "1 tsp black pepper",
+      "1/4 cup mayo",
+      "2 tbsp red wine vinegar",
+      "2 tbsp water",
+      "2 tsp yellow mustard"
+    ],
+    "directions": [
+      "combine all ingredients and mix well"
     ]
   }
 ]
