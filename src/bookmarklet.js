@@ -59,7 +59,12 @@
         "ul li",
         "ol li"
       );
-      
+    if (document.querySelector("#shopify-section-article-template"))
+        return buildRecipeCard(
+          ".section__title-text.h2",
+          ".rk_ingredients ul > *",
+          ".rk_directions h4, .rk_directions li"
+        );
       return { message: "Could not extract recipe." };
   }
   const recipe = pullRecipeCard();
