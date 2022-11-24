@@ -21,6 +21,11 @@ permalink: "recipes/{{ recipe.title }}/"
       padding:0;
       margin:0;
       width:100%;
+      --primary: hsla(205, 28%, 40%, 1);
+      --accent: hsla(32, 100%, 75%, 1);
+      --bold-primary: hsla(225, 41%, 29%, 1);
+      --muted-primary: hsla(182, 21%, 50%, 1);
+      --muted-accent: hsla(53, 19%, 63%, 1);
     }
     body {
       flex-direction:column;
@@ -31,7 +36,8 @@ permalink: "recipes/{{ recipe.title }}/"
       left:8px;
       height:50px;
       width:50px;
-      background-color: #ddd;
+      background-color: var(--bold-primary);
+      color:white;
       display:flex;
       align-items:center;
       justify-content:center;
@@ -43,6 +49,7 @@ permalink: "recipes/{{ recipe.title }}/"
       display:grid;
       grid-template-columns: 66px 1fr;
       place-items:center;
+      background-color: var(--muted-primary);
     }
     h1, h2 {
       margin:0;
@@ -59,6 +66,8 @@ permalink: "recipes/{{ recipe.title }}/"
       justify-content:flex-start;
       font-size: 1.25rem;
       padding: 4px;
+      background-color: var(--primary);
+      color:white;
     }
     ul, ol {
       font-family: 'Caudex', serif;
@@ -73,6 +82,7 @@ permalink: "recipes/{{ recipe.title }}/"
     li {
       display:flex;
       align-items:center;
+      justify-content: space-between;
       width:100%;
       background-color:#dfdfdf;
       text-decoration: none;
@@ -83,8 +93,7 @@ permalink: "recipes/{{ recipe.title }}/"
       margin-right:16px;
     }
     li:nth-child(even) {
-      background-color: #333;
-      color:#fff;
+      background-color: var(--accent);
     }
     main {
       width: 100%;
@@ -92,11 +101,33 @@ permalink: "recipes/{{ recipe.title }}/"
     input:checked + span {
       text-decoration: line-through;
     }
+    #nutrition {
+      display:flex;
+      flex-direction:column;
+      border-top: 2px solid black;
+    }
+    #nutrition div {
+      display:flex;
+      flex-direction:row;
+      justify-content:space-between;
+      padding: 0 8px;
+    }
+    #nutrition div:nth-child(even) {
+      background-color: var(--bold-primary);
+      color: white;
+    }
+    #nutrition div[indented] {
+      padding-left: 16px;
+    }
   </style>
 </head>
 <body>
   <header>
-    <a href="/" id='back'><-</a>
+    <a href="/" id='back'>
+      <svg viewBox="0 0 32 32">
+        <path d="M20 8L12 16L20 24M20 8Z" stroke="#fff" fill="none"></path>
+      </svg>
+    </a>
     <h1>{{ recipe.title }}</h1>  
   </header>
   <main>
@@ -104,20 +135,70 @@ permalink: "recipes/{{ recipe.title }}/"
     <h2>Ingredients</h2>
     <ul>
       {% for ingredient in recipe.ingredients %}
-        <li>
+        <li class="ingredient">
           <label>
             <input type='checkbox' />
             <span>{{ ingredient }}</span>
           </label>
+          <span class="budget">
+          <span>{{ ingredient.nutrition.serving_size_g }}</span>g</span>
         </li>
       {% endfor %}
     </ul>
     <h2>Directions</h2>
     <ol>
       {% for direction in recipe.directions %}
-        <li>{{ direction }}</li>
+        <li class="direction">
+          <label>
+            <input type="checkbox" />
+            <span>{{ direction }}</span>
+          </label>
+        </li>
       {% endfor %}
     </ol>
+    <div id="nutrition">
+      <div>
+        <span>Service Size</span>
+        <span>{{ recipe.nutrition.serving_size_g }}g</span>
+      </div>
+      <div>
+        <span>Servings per Recipe</span>
+        <span>{{ recipe.nutrition.servings }}</span>
+      </div>
+      <div>
+        <span><b>Calories</b></span><span><b>{{ recipe.nutrition.calories }}</b></span>
+      </div>
+      <div>
+        <span>Fat</span><span>{{ recipe.nutrition.fat_total_g }}g</span>
+      </div>
+      <div indented>
+        <span>Saturated Fat</span><span>{{ recipe.nutrition.fat_saturated_g }}g</span>
+      </div>
+      <div>
+        <span>Cholesterol</span
+        ><span>{{ recipe.nutrition.cholesterol_mg }}mg</span>
+      </div>
+      <div>
+        <span>Sodium</span><span>{{ recipe.nutrition.sodium_mg }}mg</span>
+      </div>
+      <div>
+        <span>Potassium</span
+        ><span>{{ recipe.nutrition.potassium_mg }}mg</span>
+      </div>
+      <div>
+        <span>Carbs</span
+        ><span>{{ recipe.nutrition.carbohydrates_total_g }}g</span>
+      </div>
+      <div indented>
+        <span>Sugar</span><span>{{ recipe.nutrition.sugar_g }}g</span>
+      </div>
+      <div indented>
+        <span>fiber</span><span>{{ recipe.nutrition.fiber_g }}g</span>
+      </div>
+      <div>
+        <span>Protein</span><span>{{ recipe.nutrition.protein_g }}g</span>
+      </div>
+  </div>
   </main>
 </body>
 </html>

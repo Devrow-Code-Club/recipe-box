@@ -26,10 +26,13 @@ class RecipeList extends LitElement {
           overflow: hidden;
         }
         .actions {
-          display: flex;
+          display: grid;
+          grid-template-columns: 50% 50%;
         }
-        button {
+        button, a {
           aspect-ratio: 1 / 1;
+          display:grid;
+          place-items:center;
         }
         .add {
           background-color: var(--bold-primary);
@@ -49,7 +52,7 @@ class RecipeList extends LitElement {
   constructor() {
     super();
     this.recipes = [];
-    fetch('/_data/recipesNames.json')
+    fetch('/recipesNames.json')
       .then(response => response.json()).then(recipes => this.recipes = recipes);
   }
 
@@ -85,7 +88,7 @@ class RecipeList extends LitElement {
             <h3>${recipe}</h3>
             <div class="actions">
               <button class="add" @click=${this.add(recipe)}>${addIcon}</button>
-              <button class="see" @click=${this.see(recipe)}>${seeIcon}</button>
+              <a class="see" href="recipes/${recipe}/">${seeIcon}</a>
             </div>
           </div>`,
         )}

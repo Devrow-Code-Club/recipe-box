@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "sw-build": "wireit",
     "build": "wireit",
     "bundle": "wireit",
     "copy-index": "wireit",
@@ -18,6 +19,12 @@
   },
   "wireit": {
     "build": {
+      "command": "npx @11ty/eleventy --input=./src/ --output=./dist/",
+      "dependencies": [
+        "sw-build"
+      ]
+    },
+    "sw-build": {
       "command": "workbox injectManifest ./workbox-config.cjs",
       "dependencies": [
         "bundle",
@@ -37,7 +44,7 @@
       "command": "cp -r src/images dist/"
     },
     "copy-data": {
-      "command": "cp -r src/_data dist/",
+      "command": "cp -r src/_data/recipesNames.json dist/recipesNames.json",
       "dependencies": [
         "preprocess-recipes"
       ]
