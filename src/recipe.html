@@ -77,20 +77,26 @@ permalink: "recipes/{{ recipe.title }}/"
       padding-inline-start:0;
     }
     ul {
+      display:grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       list-style-type: none;
+      gap:8px;
+      padding:8px;
     }
     li {
       display:flex;
+      flex-direction:column;
       align-items:center;
-      justify-content: space-between;
+      justify-content: space-around;
       width:100%;
       background-color:#dfdfdf;
       text-decoration: none;
       color:#333;
       padding: 8px 16px;
+      cursor: pointer;
     }
     input[type="checkbox"] {
-      margin-right:16px;
+      display:none;
     }
     li:nth-child(even) {
       background-color: var(--accent);
@@ -141,7 +147,9 @@ permalink: "recipes/{{ recipe.title }}/"
             <span>{{ ingredient }}</span>
           </label>
           <span class="budget">
+          {% if ingredient.nutrition.serving_size_g %}
           <span>{{ ingredient.nutrition.serving_size_g }}</span>g</span>
+          {% endif %}
         </li>
       {% endfor %}
     </ul>
@@ -156,6 +164,7 @@ permalink: "recipes/{{ recipe.title }}/"
         </li>
       {% endfor %}
     </ol>
+    {% if recipe.nutrition.serving_size_g %}
     <div id="nutrition">
       <div>
         <span>Service Size</span>
@@ -199,6 +208,7 @@ permalink: "recipes/{{ recipe.title }}/"
         <span>Protein</span><span>{{ recipe.nutrition.protein_g }}g</span>
       </div>
   </div>
+  {% endif %}
   </main>
 </body>
 </html>
