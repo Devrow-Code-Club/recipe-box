@@ -98,8 +98,11 @@ permalink: "recipes/{{ recipe.title }}/"
       cursor: pointer;
       justify-content: space-around;
     }
-    input[type="checkbox"] {
+    ul li input[type="checkbox"] {
       display:none;
+    }
+    ul li label {
+      pointer-events: none;
     }
     li:nth-child(even) {
       background-color: var(--accent);
