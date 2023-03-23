@@ -2883,5 +2883,33 @@
       "Stir till creamy.",
       "Add the bacon and salt and pepper to taste."
     ]
+  },{
+    "title": "Enchilada Sauce",
+    "source": "https://houseofyumm.com/best-ever-enchilada-sauce-recipe/",
+    "meal": "sauce",
+    "ingredients": [
+      "¼ cup oil or butter, can use canola or vegetable oil",
+      "¼ cup all purpose flour",
+      "½ tsp ground black pepper",
+      "¾ tsp salt",
+      "1 tsp garlic powder",
+      "1 tsp onion powder",
+      "2 tsp ground cumin",
+      "½ tsp dried oregano",
+      "1 tbsp chili powder",
+      "2 cups beef broth, can sub with another type use a LOW or NO SODIUM",
+      "1 tbsp tomato paste"
+    ],
+    "directions": [
+      "Heat the oil or butter in a medium size skillet over medium heat.",
+      "Add in the flour and stir to mix.", 
+      "Allow this to cook for just 1-2 minutes.",
+      "Add in the spices.", 
+      "Stir to form a thick paste.",
+      "Stir in the broth and tomato paste.", 
+      "Stir until smooth.", 
+      "Continue to heat while stirring for several minutes until the sauce is slightly thickened.", 
+      "Keep the heat to just below a simmer."
+    ]
   }
 ]
