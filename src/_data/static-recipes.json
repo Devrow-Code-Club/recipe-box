@@ -745,7 +745,7 @@
     "title": "Meatloaf",
     "meal": "dinner",
     "ingredients": [
-      "2 pounds ground beef (or ground turkey, ground pork or a combination)",
+      "2 pounds ground beef",
       "2 large eggs",
       "4 Tablespoons ketchup",
       "2 Tablespoons Tamari Soy Sauce",
@@ -753,31 +753,15 @@
       "4 cloves garlic , minced (or 1 1/2 teaspoons garlic powder)",
       "1 teaspoon salt",
       "1/2 teaspoon freshly ground black pepper",
-      "1 teaspoon dried sage",
       "1/2 cup sweet onion , diced (or 3 teaspoons dried minced onion",
-      "1/2 cup breadcrumbs",
-      "1/2 cup ketchup",
-      "2 teaspoons dijon mustard",
-      "1/4 teaspoon ground nutmeg",
-      "--- Mashed Potatos ---",
-      "3 pounds Yukon Gold Potatoes , quartered",
-      "1 cup water",
-      "1/4 teaspoon salt",
-      "1/4 cup milk",
-      "1/4 cup sour cream",
-      "3 Tablespoons butter",
-      "1 teaspoon bouillon paste (I love 'Better than Bouillon)"
+      "1/2 cup breadcrumbs"
     ],
     "directions": [
       "Add all of the meatloaf ingredients to a large bowl and gently mix everything to combine (without over-working the meat).",
       "Form the meat mixture into a round loaf that will fit into your instant pot.",
       "Place the loaf on a large piece of aluminum foil and fold the edges up to make a secure nest for the meatloaf to rest in. (You want the edges high enough that grease from the loaf wont spill out onto the potatoes while cooking.)",
-      "Add the quartered potatoes, water, and salt to the bottom of the instant pot.",
       "Lay the IP wire rack on top of the potatoes. Place the aluminum foil \"nest\" with the meatloaf on top of the rack.",
-      "Secure the lid on the pot and close the pressure release valve. Select manual/High pressure and cook at high pressure for 25 minutes*.  When the timer beeps, allow the pressure to naturally release for 10 minutes.",
-      "While the meatloaf cooks, make the sauce by combining all of the sauce ingredients in a bowl.",
-      "Remove the IP lid, and carefully remove the meatloaf. Discard the aluminum foil and dippings. Spoon the meatloaf sauce over the top and cut into slices.",
-      "Add the milk, sour cream, butter, bouillon paste, and salt and pepper to the bottom of the instant pot with the mashed potatoes. Mash to combine (but don't over-mash the potatoes).  Taste and adjust seasonings, as needed."
+      "Secure the lid on the pot and close the pressure release valve. Select manual/High pressure and cook at high pressure for 25 minutes*.  When the timer beeps, allow the pressure to naturally release for 10 minutes."
     ]
   },
   {
@@ -3026,6 +3010,35 @@
       "Cover the pan with foil or an oven-safe lid.",
       "Bake covered for 2 hours",
       "After 2 hours, remove the lid or foil, and bake for another 30-40 minutes, until thickened."
+    ]
+  },
+  {
+    "title": "Garden Vegetable Soup",
+    "source": "https://www.foodnetwork.com/recipes/alton-brown/garden-vegetable-soup-recipe-1915670",
+    "meal": "dinner",
+    "ingredients": [
+      "4 tablespoons olive oil",
+      "2 cups chopped leeks, white part only (from approximately 3 medium leeks)",
+      "2 tablespoons finely minced garlic",
+      "2 cups carrots, peeled and chopped into rounds (approximately 2 medium)",
+      "2 cups peeled and diced potatoes",
+      "2 cups fresh green beans, broken or cut into 3/4-inch pieces",
+      "2 quarts chicken or vegetable broth",
+      "4 cups peeled, seeded, and chopped tomatoes",
+      "2 ears corn, kernels removed",
+      "1/2 teaspoon freshly ground black pepper",
+      "1 to 2 teaspoons freshly squeezed lemon juice"
+    ],
+    "directions": [
+      "Heat the olive oil in large, heavy-bottomed stockpot over medium-low heat",
+      "Once hot, add the leeks, garlic, and a pinch of salt and sweat until they begin to soften, approximately 7 to 8 minutes",
+      "Add the carrots, potatoes, and green beans and continue to cook for 4 to 5 more minutes, stirring occasionally.",
+      "Add the stock, increase the heat to high, and bring to a simmer",
+      "Once simmering, add the tomatoes, corn kernels, and pepper",
+      "Reduce the heat to low, cover, and cook until the vegetables are fork tender, approximately 25 to 30 minutes",
+      "Remove from heat and add lemon juice",
+      "Season, to taste, with kosher salt",
+      "Serve immediately."
     ]
   }
 ]
