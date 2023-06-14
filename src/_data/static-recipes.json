@@ -3040,5 +3040,24 @@
       "Season, to taste, with kosher salt",
       "Serve immediately."
     ]
+  },{
+    "title": "Ranch Dressing",
+    "source": "https://www.onceuponachef.com/recipes/homemade-buttermilk-ranch-dressing.html#tabrecipe",
+    "meal": "dressing",
+    "ingredients": [
+      "1/2 cup sour cream",
+      "1/2 cup buttermilk",
+      "1/4 cup mayonnaise, best quality such as Hellmann's or Duke's",
+      "2 garlic cloves, minced (see note)",
+      "1 scant teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1.5 teaspoons dried dill",
+      "1/4 cup finely chopped fresh chives",
+      "2 teaspoons fresh lemon juice",
+      "Few dashes Tabasco sauce, optional"
+    ],
+    "directions": [
+      "Combine all of the ingredients in a medium bowl and whisk well."
+    ]
   }
 ]
