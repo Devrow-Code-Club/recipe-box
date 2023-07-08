@@ -3618,7 +3618,35 @@
       "When measuring beer, don't include the foamy head in your measurement.",
       "Pour it down the side of the liquid measuring cup (to minimize the head), and then measure the liquid part only.",
       "Not a beer fan? Sub in any other carbonated beverage, including ginger ale, club soda or your favorite soft drink.",
-      "Shake off as much of the excess batter as possible when coating the onion rings in order to get the best ratio of onion to batter.",
+      "Shake off as much of the excess batter as possible when coating the onion rings in order to get the best ratio of onion to batter."
+    ]
+  },{
+    "title": "Chicken Frikasee",
+    "source": "",
+    "meal": "dinner",
+    "ingredients": [
+      "1 whole spatchcocked chicken",
+      "1 tbsp curry powder",
+      "2 teaspoon garlic powder",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "8 oz mushrooms",
+      "a packet of hollandaise",
+      "2 tbsp cornstarch",
+      "2 eggs"
+    ],
+    "directions": [
+      "cover chicken with water in a pot, add curry, garlic, salt and pepper",
+      "boil chicken until shreddable (45 minutes ish)",
+      "remove chicken",
+      "add mushrooms to the broth and continue to boil",
+      "shred chicken",
+      "once mushrooms are cooked, add hoillandaise and cornstarch in water to the broth",
+      "stir until thickened",
+      "stream the eggs into the thickened broth",
+      "add the chicken back",
+      "add salt/seasoned salt to taste",
+      "serve over curried rice"
     ]
   }
 ]
