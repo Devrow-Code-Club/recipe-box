@@ -11,6 +11,10 @@ class RecipeList extends LitElement {
       listStyles,
       css`
         section {
+          display:flex;
+          flex-direction:column;
+        }
+        details {
           display: grid;
           grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
           gap: 4px;
@@ -46,14 +50,17 @@ class RecipeList extends LitElement {
   }
 
   static get properties() {
-    return { recipes: { type: Array } };
+    return { alphaSortedRecipes: { type: Array } };
   }
 
   constructor() {
     super();
     this.recipes = [];
     fetch('/recipesNames.json')
-      .then(response => response.json()).then(recipes => this.recipes = recipes);
+      .then(response => response.json()).then(recipes => {
+        this.alphaSortedRecipes = Array.from(new Set(recipes.map(r => r.slice(0, 1).toUpperCase()))).map(letter => ([letter, recipes.filter(r => r.toUpperCase().startsWith(letter))]))
+
+      });
   }
 
   add(recipe) {
@@ -83,15 +90,23 @@ class RecipeList extends LitElement {
   render() {
     return html`<h2>Recipes</h2>
       <section id="recipes">
-        ${this.recipes.map(
-          recipe => html`<div class="recipe">
-            <h3>${recipe}</h3>
-            <div class="actions">
-              <button class="add" @click=${this.add(recipe)}>${addIcon}</button>
-              <a class="see" href="recipes/${recipe}/">${seeIcon}</a>
-            </div>
-          </div>`,
-        )}
+        ${this.alphaSortedRecipes.map(([letter, recipes]) => html`
+        <details>
+          <summary>
+            <h3>${letter}</h3>
+          </summary>
+        
+          ${recipes.map(
+            recipe => html`<div class="recipe">
+              <h3>${recipe}</h3>
+              <div class="actions">
+                <button class="add" @click=${this.add(recipe)}>${addIcon}</button>
+                <a class="see" href="recipes/${recipe}/">${seeIcon}</a>
+              </div>
+            </div>`,
+          )}
+        </details>
+        `)}
       </section>`;
   }
 }
