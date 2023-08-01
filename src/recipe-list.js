@@ -14,10 +14,13 @@ class RecipeList extends LitElement {
           display:flex;
           flex-direction:column;
         }
-        details {
+        .recipes {
           display: grid;
           grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
           gap: 4px;
+        }
+        summary {
+          list-style: none;
         }
         .recipe {
           text-align: center;
@@ -95,7 +98,7 @@ class RecipeList extends LitElement {
           <summary>
             <h3>${letter}</h3>
           </summary>
-        
+          <div class='recipes'>
           ${recipes.map(
             recipe => html`<div class="recipe">
               <h3>${recipe}</h3>
@@ -105,6 +108,7 @@ class RecipeList extends LitElement {
               </div>
             </div>`,
           )}
+          </div>
         </details>
         `)}
       </section>`;
