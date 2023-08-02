@@ -23,7 +23,11 @@
   }
   function pullRecipeCard() {
     if (document.querySelector('.easyrecipe')) return buildRecipeCard('.ERSName', '.ingredient', '.instruction');
-    if (location.host.match(/allrecipes.com/)) return buildRecipeCard(".recipe-main-header h1.heading-content", ".ingredients-item-name", '.instructions-section-item .paragraph')
+    if (location.host.match(/allrecipes.com/)) return buildRecipeCard(
+      ".recipe-main-header h1.heading-content, h1#article-heading_1-0",
+      ".ingredients-item-name. li.mntl-structured-ingredients__list-item",
+      ".instructions-section-item .paragraph, .recipe__steps-content ol li"
+    );
     if (location.host.match(/pamperedchef.com/)) return buildRecipeCard("#recipeName", "#rpIngredients li", '#rpDirections li')
     if (location.host.match(/food.com/)) return buildRecipeCard(".recipe-title", ".recipe-ingredients__item", '.recipe-directions__step')
     if (document.querySelector('.wprm-recipe-container .recipe-card-container')) return buildRecipeCard('.recipe-card-container', '.recipe-ingredients li', '.recipe-instructions li')
