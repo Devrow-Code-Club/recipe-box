@@ -3186,7 +3186,8 @@
     "directions": [
       "Combine ingredients, add some ice and and serve in your vessel of choice."
     ]
-  },{
+  },
+  {
     "title": "Mushroom Gravy",
     "source": "https://www.daringgourmet.com/best-brown-mushroom-gravy-from-scratch/#recipe",
     "meal": "side",
@@ -3217,7 +3218,8 @@
       "Whisk continually until the gravy is thickened.",
       "Cover and simmer on low, stirring occasionally, for 5-10 minutes."
     ]
-  },{
+  },
+  {
     "title": "Cauliflower Soup",
     "source": "https://lifemadesimplebakes.com/cheesy-cauliflower-soup-7/",
     "meal": "dinner",
@@ -3265,7 +3267,8 @@
       "Pour in the cream and continue to gently boil for an additional 10 minutes, then add the cheese and whisk to combine.",
       "Remove from the heat and garnish individual servings with parsley, if desired."
     ]
-  },{
+  },
+  {
     "title": "Corn Chowder",
     "source": "https://www.saltandlavender.com/easy-chicken-and-corn-chowder/",
     "meal": "dinner",
@@ -3304,7 +3307,8 @@
       "Season the soup with salt & pepper as needed.",
       "Garnish with the rest of the bacon and chopped scallions if desired."
     ]
-  },{
+  },
+  {
     "title": "Queso Blanco",
     "source": "https://culinaryginger.com/copycat-chipotle-queso-blanco/",
     "meal": "side",
@@ -3324,17 +3328,18 @@
       "¼ teaspoon salt or to taste"
     ],
     "directions": [
-      "To saucepan add the milk over medium heat.", 
-      "Stir in the onion, serrano peppers, poblano pepper, chipotle pepper and garlic.", 
+      "To saucepan add the milk over medium heat.",
+      "Stir in the onion, serrano peppers, poblano pepper, chipotle pepper and garlic.",
       "Mix cornstarch with just enough water so it dissolves, stir into the milk and bring to a light bubble, cook, stirring often until thickened.",
-      "Turn down to the heat to very low and whisk in the sour cream.", 
-      "Once the sour cream is incorporated, add a handful of cheese and stir until melted.", 
-      "Continue to add and handfuls of cheese and stir until all the cheese is used, making sure it is completely melted before adding another handful and ensure the queso is smooth.", 
+      "Turn down to the heat to very low and whisk in the sour cream.",
+      "Once the sour cream is incorporated, add a handful of cheese and stir until melted.",
+      "Continue to add and handfuls of cheese and stir until all the cheese is used, making sure it is completely melted before adding another handful and ensure the queso is smooth.",
       "If too hot, the queso may turn gritty and separate.",
-      "Stir in the tomato.", 
+      "Stir in the tomato.",
       "Remove from the heat and allow the queso to cool, it will get even thicker as it cools."
     ]
-  },{
+  },
+  {
     "title": "Potato Cream Cheese Soup",
     "source": "http://bakedinaz.com/potato-cream-cheese-soup-wildflower-bread-co-copycat/",
     "meal": "dinner",
@@ -3363,7 +3368,8 @@
       "Stir till creamy.",
       "Add the bacon and salt and pepper to taste."
     ]
-  },{
+  },
+  {
     "title": "Enchilada Sauce",
     "source": "https://houseofyumm.com/best-ever-enchilada-sauce-recipe/",
     "meal": "sauce",
@@ -3382,16 +3388,17 @@
     ],
     "directions": [
       "Heat the oil or butter in a medium size skillet over medium heat.",
-      "Add in the flour and stir to mix.", 
+      "Add in the flour and stir to mix.",
       "Allow this to cook for just 1-2 minutes.",
-      "Add in the spices.", 
+      "Add in the spices.",
       "Stir to form a thick paste.",
-      "Stir in the broth and tomato paste.", 
-      "Stir until smooth.", 
-      "Continue to heat while stirring for several minutes until the sauce is slightly thickened.", 
+      "Stir in the broth and tomato paste.",
+      "Stir until smooth.",
+      "Continue to heat while stirring for several minutes until the sauce is slightly thickened.",
       "Keep the heat to just below a simmer."
     ]
-  },{
+  },
+  {
     "title": "Cheesy Smothered Mushroom Chicken",
     "meal": "dinner",
     "ingredients": [
@@ -3436,7 +3443,8 @@
       "Spoon remaining sauce over chicken and potatoes.",
       "Garnish with scallion greens and serve."
     ]
-  },{
+  },
+  {
     "title": "Stir Fry",
     "source": "https://therecipecritic.com/vegetable-stir-fry/#wprm-recipe-container-68105",
     "meal": "dinner",
@@ -3462,7 +3470,8 @@
       "Pour over veggies and cook until the sauce has thickened.",
       "Garnish with chopped green onions and sesame seeds if desired"
     ]
-  },{
+  },
+  {
     "title": "Baked Beans from Scratch",
     "source": "https://amindfullmom.com/old-fashioned-baked-beans/",
     "meal": "side",
@@ -3536,7 +3545,8 @@
       "Season, to taste, with kosher salt",
       "Serve immediately."
     ]
-  },{
+  },
+  {
     "title": "Ranch Dressing",
     "source": "https://www.onceuponachef.com/recipes/homemade-buttermilk-ranch-dressing.html#tabrecipe",
     "meal": "dressing",
@@ -3587,7 +3597,8 @@
       "Pour most of the dressing over the pasta and toss until everything is well coated.",
       "Transfer to a serving platter, drizzle with the remaining dressing, and garnish with fresh chopped cilantro."
     ]
-  },{
+  },
+  {
     "title": "Beer-Battered Onion Rings",
     "source": "https://www.justataste.com/homemade-beer-battered-onion-rings-recipe/#wprm-recipe-container-30221",
     "meal": "side",
@@ -3620,7 +3631,8 @@
       "Not a beer fan? Sub in any other carbonated beverage, including ginger ale, club soda or your favorite soft drink.",
       "Shake off as much of the excess batter as possible when coating the onion rings in order to get the best ratio of onion to batter."
     ]
-  },{
+  },
+  {
     "title": "Chicken Frikasee",
     "source": "",
     "meal": "dinner",
@@ -3648,7 +3660,8 @@
       "add salt/seasoned salt to taste",
       "serve over curried rice"
     ]
-  },{
+  },
+  {
     "title": "Sticky Chinese Pork Belly",
     "source": "https://www.kitchensanctuary.com/sticky-chinese-pork-belly/",
     "meal": "dinner",
@@ -3685,7 +3698,8 @@
       "Remove from the heat and serve.",
       "I like to top with a few spring onions and chopped chillies.Chopped spring onions, Chopped red chillies"
     ]
-  },{
+  },
+  {
     "title": "Aji Verde (Spicy Peruvian Green Sauce)",
     "source": "https://cookieandkate.com/aji-verde-recipe/#tasty-recipes-33368-jump-target",
     "meal": "sauce",
@@ -3708,7 +3722,8 @@
       "If it doesn’t have enough zip, add another tablespoon of lime juice and/or a pinch of salt.",
       "Aji verde keeps well in the refrigerator, covered, for about 1 week."
     ]
-  },{
+  },
+  {
     "title": "Mayonnaise",
     "source": "https://www.pamperedchef.com/recipe/Side+Dishes/Flex+Plus/Easy+Homemade+Mayonnaise/1768267",
     "meal": "sauce",
@@ -3723,7 +3738,8 @@
       "Place all the ingredients, in the order listed, into the blending container; let the oil float to the top. Blend on low, keeping the blender stationary until mayonnaise begins to form, about 30 seconds.",
       "Slowly pull the blender up and side to side until the oil is emulsified and the mayonnaise is thick and smooth, about 30 seconds. Store refrigerated up to one week."
     ]
-  },{
+  },
+  {
     "title": "Chimichurri",
     "source": "https://theforkedspoon.com/chimichurri-recipe/",
     "meal": "sauce",
@@ -3742,6 +3758,23 @@
       "Add the chopped parsley, garlic, shallot, oregano, red chili (or crushed red pepper), red wine vinegar, salt, and pepper to the bowl of a food processor. Process until finely minced (take care not to turn it into a thick paste from over-processing).",
       "Transfer the mixture to a small bowl and pour the extra-virgin olive oil over the mixture. Gently mix to combine. Allow the Chimichurri to stand for 15 minutes, time permitting.",
       "Serve over your favorite grilled meats and vegetables or use as a marinade! Enjoy!"
+    ]
+  },
+  {
+    "title": "BBQ Sauce",
+    "source": "https://cooking.nytimes.com/recipes/1013116-homemade-bbq-sauce",
+    "meal": "sauce",
+    "ingredients": [
+      "⅔ cup ketchup",
+      "½ cup cider vinegar",
+      "¼ cup brown sugar",
+      "2 teaspoons pimentón (smoked Spanish paprika)",
+      "1 teaspoon ground cumin",
+      "1 teaspoon kosher salt",
+      "1 teaspoon freshly cracked black pepper}"
+    ],
+    "directions": [
+      "Combine all ingredients in a small saucepan, bring to a simmer over medium heat and cook for 5 minutes."
     ]
   }
 ]
