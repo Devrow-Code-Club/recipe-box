@@ -25,7 +25,7 @@
     if (document.querySelector('.easyrecipe')) return buildRecipeCard('.ERSName', '.ingredient', '.instruction');
     if (location.host.match(/allrecipes.com/)) return buildRecipeCard(
       ".recipe-main-header h1.heading-content, h1#article-heading_1-0",
-      ".ingredients-item-name. li.mntl-structured-ingredients__list-item",
+      ".ingredients-item-name, li.mntl-structured-ingredients__list-item",
       ".instructions-section-item .paragraph, .recipe__steps-content ol li"
     );
     if (location.host.match(/pamperedchef.com/)) return buildRecipeCard("#recipeName", "#rpIngredients li", '#rpDirections li')
