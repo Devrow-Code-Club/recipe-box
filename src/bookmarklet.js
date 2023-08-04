@@ -69,6 +69,12 @@
         ".rk_ingredients ul > *",
         ".rk_directions h4, .rk_directions li"
       );
+    if (document.querySelector("main#main-content header h1"))
+        return buildRecipeCard(
+          "main#main-content header h1",
+          "ul.ingredient-lists li",
+          "ul.directions li"
+        );
     return { message: "Could not extract recipe." };
   }
   const recipe = pullRecipeCard();
