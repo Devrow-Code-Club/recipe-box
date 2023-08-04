@@ -3776,5 +3776,50 @@
     "directions": [
       "Combine all ingredients in a small saucepan, bring to a simmer over medium heat and cook for 5 minutes."
     ]
+  },{
+    "title": "Buffalo Sauce",
+    "source": "https://www.allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/",
+    "meal": "sauce",
+    "ingredients": [
+      "⅔ cup hot pepper sauce (such as Frank's RedHot®)",
+      "½ cup cold unsalted butter",
+      "1 ½ tablespoons white vinegar",
+      "¼ teaspoon Worcestershire sauce",
+      "¼ teaspoon cayenne pepper",
+      "⅛ teaspoon garlic powder",
+      "salt to taste"
+    ],
+    "directions": [
+      "Gather all ingredients.",
+      "Combine hot sauce, butter, vinegar, Worcestershire sauce, cayenne, garlic powder, and salt in a pot over medium heat. Bring to a simmer while stirring with a whisk.",
+      "As soon as the liquid begins to bubble on the sides of the pot, remove from heat, stir with the whisk, and set aside for use."
+    ]
+  },{
+    "title": "Fried Chicken Wings",
+    "source": "https://www.allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/",
+    "meal": "dinner",
+    "ingredients": [
+      "½ cup all-purpose flour",
+      "¼ teaspoon ground paprika",
+      "¼ teaspoon cayenne pepper",
+      "¼ teaspoon salt",
+      "10  chicken wings",
+      "2 cups vegetable oil for frying, or as needed"
+    ],
+    "directions": [
+      "Whisk together flour, paprika, cayenne pepper, and salt in a large bowl.",
+      "Place chicken wings in the bowl with flour mixture and toss until evenly coated.",
+      "Transfer wings to a 9x13-inch glass baking dish and arrange in a single layer.",
+      "Cover and refrigerate for 1 to 1 1/2 hours.",
+      "Add about 1 inch oil to a deep, heavy skillet; heat to 375 degrees F (190 degrees C).",
+      "(The oil should be just enough to cover wings entirely.)",
+      "Meanwhile, combine butter, hot sauce, pepper, and garlic powder in a separate small saucepan over low heat.",
+      "Cook and stir until butter is melted and mixture is thoroughly blended.",
+      "Remove from the heat and reserve for serving.",
+      "Fry coated wings in the hot oil for 10 to 15 minutes, or until they begin to crisp and turn brown.",
+      "Maintain the oil temperature while cooking.",
+      "Remove cooked wings from hot oil and let drain on paper towels or a wire rack.",
+      "Transfer wings to a platter and drizzle hot sauce over top; or mix wings and hot sauce in a bowl until coated."
+    ]
   }
 ]
