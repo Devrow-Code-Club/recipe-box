@@ -3757,8 +3757,11 @@
       "⅔ cup good-quality extra-virgin olive oil"
     ],
     "directions": [
-      "Add the chopped parsley, garlic, shallot, oregano, red chili (or crushed red pepper), red wine vinegar, salt, and pepper to the bowl of a food processor. Process until finely minced (take care not to turn it into a thick paste from over-processing).",
-      "Transfer the mixture to a small bowl and pour the extra-virgin olive oil over the mixture. Gently mix to combine. Allow the Chimichurri to stand for 15 minutes, time permitting.",
+      "Add the chopped parsley, garlic, shallot, oregano, red chili (or crushed red pepper), red wine vinegar, salt, and pepper to the bowl of a food processor.",
+      "Process until finely minced (take care not to turn it into a thick paste from over-processing).",
+      "Transfer the mixture to a small bowl and pour the extra-virgin olive oil over the mixture.",
+      "Gently mix to combine.",
+      "Allow the Chimichurri to stand for 15 minutes, time permitting.",
       "Serve over your favorite grilled meats and vegetables or use as a marinade! Enjoy!"
     ]
   },
@@ -4092,5 +4095,32 @@
       "You may need to turn the heat down a bit so it doesn't boil furiously.",
       "Season with extra salt & pepper as needed and serve immediately."
     ]
-  }
+  },{
+  "title": "Ice Cream (Coffee flavor)",
+  "source": "https://www.simplyrecipes.com/recipes/coffee_ice_cream/",
+  "meal": "dessert",
+  "ingredients": [
+    "1 1/2 cups whole milk",
+    "3/4 cup sugar",
+    "double shot of espresso",
+    "Pinch salt",
+    "1 1/2 cups heavy cream, divided",
+    "5 large egg yolks",
+    "1/4 teaspoon vanilla extract",
+    "1/4 teaspoon finely ground coffee (press grinds through a fine mesh sieve)"
+  ],
+  "directions": [
+    "Heat the milk, sugar, espresso, salt, and cream in the cooking blender on SAUCE to the end of Stage 1.",
+    "Cancel before Stage 2",
+    "In a separate bowl, whisk the egg yolks together.",
+    "Slowly pour the heated milk and coffee mixture into the egg yolks, whisking constantly so that the egg yolks are tempered by the warm milk, but not cooked by it.",
+    "Scrape the warmed egg yolks back into the blender.",
+    "Run the blender again on SAUCE through Stage 1.",
+    "Cancel before Stage 2",
+    "Pour the custard through a fine mesh strainer into a bowl.",
+    "Mix in the vanilla and finely ground coffee.",
+    "Chill the mixture thoroughly in the refrigerator.",
+    "Freeze it in your ice cream maker according to the manufacturer's instructions."
+  ]
+}
 ]
