@@ -3781,7 +3781,8 @@
     "directions": [
       "Combine all ingredients in a small saucepan, bring to a simmer over medium heat and cook for 5 minutes."
     ]
-  },{
+  },
+  {
     "title": "Buffalo Sauce",
     "source": "https://www.allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/",
     "meal": "sauce",
@@ -3799,7 +3800,8 @@
       "Combine hot sauce, butter, vinegar, Worcestershire sauce, cayenne, garlic powder, and salt in a pot over medium heat. Bring to a simmer while stirring with a whisk.",
       "As soon as the liquid begins to bubble on the sides of the pot, remove from heat, stir with the whisk, and set aside for use."
     ]
-  },{
+  },
+  {
     "title": "Fried Chicken Wings",
     "source": "https://www.allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/",
     "meal": "dinner",
@@ -3826,7 +3828,8 @@
       "Remove cooked wings from hot oil and let drain on paper towels or a wire rack.",
       "Transfer wings to a platter and drizzle hot sauce over top; or mix wings and hot sauce in a bowl until coated."
     ]
-  },{
+  },
+  {
     "title": "French Fries",
     "source": "https://www.allrecipes.com/recipe/219634/chef-johns-french-fries/",
     "meal": "side",
@@ -3846,7 +3849,8 @@
       "Remove from the deep-fryer and blot with a paper towel.",
       "Sprinkle with salt to serve."
     ]
-  },{
+  },
+  {
     "title": "Curry Ketchup",
     "source": "https://www.thekitchenmaus.com/quick-curry-ketchup/#wprm-recipe-container-4586",
     "meal": "sauce",
@@ -3862,7 +3866,8 @@
     "directions": [
       "Simply put all the ingredients into a bowl and mix together very well. Let it rest overnight in the fridge to let the flavours meld."
     ]
-  },{
+  },
+  {
     "title": "Ambrosia Salad",
     "source": "https://www.thatskinnychickcanbake.com/best-ambrosia-salad-no-cool-whip/#mv-creation-228-jtr",
     "meal": "dessert",
@@ -3883,7 +3888,8 @@
       "Add all the rest of the ingredients except for the cherries, and use a rubber spatula to mix. Mix in the cherries.",
       "Chill for at least 2 hours before serving."
     ]
-  },{
+  },
+  {
     "title": "Potato Salad (German)",
     "source": "https://www.allrecipes.com/recipe/83097/authentic-german-potato-salad/",
     "meal": "side",
@@ -3914,7 +3920,8 @@
       "Garnish with parsley.",
       "Serve immediately."
     ]
-  },{
+  },
+  {
     "title": "Teriyaki Chicken",
     "source": "https://www.cookingclassy.com/teriyaki-chicken/#jump-to-recipe",
     "meal": "dinner",
@@ -3939,7 +3946,8 @@
       "Stir the sauce in with the cooked chicken and continue to cook and toss until sauce has thickened, about 30 - 60 seconds longer.",
       "Serve warm garnished with green onions and sesame seeds if desired."
     ]
-  },{
+  },
+  {
     "title": "Green Beans (Creamy)",
     "source": "https://thenoshery.com/creamy-green-beans/",
     "meal": "side",
@@ -3970,7 +3978,8 @@
       "Add the remainder of the stock, if the beans are still too thick add more stock until you get your desired creaminess.",
       "Season with salt and fresh cracked pepper to taste."
     ]
-  },{
+  },
+  {
     "title": "Quiche (Crustless)",
     "source": "https://www.wellplated.com/crustless-quiche/",
     "meal": "breakfast",
@@ -4004,7 +4013,8 @@
       "It should look puffed and golden at the edges, and when a thin, sharp knife is inserted in the center, the center should be cooked through without visible liquid.",
       "Let cool a few minutes."
     ]
-  },{
+  },
+  {
     "title": "Rice Pilaf",
     "source": "https://www.servedfromscratch.com/easy-homemade-rice-pilaf/",
     "meal": "side",
@@ -4039,7 +4049,8 @@
       "After 15 minutes, remove rice from heat and let rest, covered, for 3 minutes.",
       "Remove lid, garnish with parsley and then fluff with a fork and serve immediately."
     ]
-  },{
+  },
+  {
     "title": "Pork Tenderloin (Honey Garlic)",
     "source": "https://www.thereciperebel.com/honey-garlic-pork-tenderloin-recipe/",
     "meal": "dinner",
@@ -4065,7 +4076,8 @@
       "Remove from the oven and cover to rest for 10 minutes.",
       "Slice pork tenderloin and serve with sauce."
     ]
-  },{
+  },
+  {
     "title": "Pork Tenderloin (Creamy Mushroom)",
     "source": "https://www.saltandlavender.com/creamy-mushroom-pork-tenderloin/",
     "meal": "dinner",
@@ -4095,32 +4107,54 @@
       "You may need to turn the heat down a bit so it doesn't boil furiously.",
       "Season with extra salt & pepper as needed and serve immediately."
     ]
-  },{
-  "title": "Ice Cream (Coffee flavor)",
-  "source": "https://www.simplyrecipes.com/recipes/coffee_ice_cream/",
-  "meal": "dessert",
-  "ingredients": [
-    "1 1/2 cups whole milk",
-    "3/4 cup sugar",
-    "double shot of espresso",
-    "Pinch salt",
-    "1 1/2 cups heavy cream, divided",
-    "5 large egg yolks",
-    "1/4 teaspoon vanilla extract",
-    "1/4 teaspoon finely ground coffee (press grinds through a fine mesh sieve)"
-  ],
-  "directions": [
-    "Heat the milk, sugar, espresso, salt, and cream in the cooking blender on SAUCE to the end of Stage 1.",
-    "Cancel before Stage 2",
-    "In a separate bowl, whisk the egg yolks together.",
-    "Slowly pour the heated milk and coffee mixture into the egg yolks, whisking constantly so that the egg yolks are tempered by the warm milk, but not cooked by it.",
-    "Scrape the warmed egg yolks back into the blender.",
-    "Run the blender again on SAUCE through Stage 1.",
-    "Cancel before Stage 2",
-    "Pour the custard through a fine mesh strainer into a bowl.",
-    "Mix in the vanilla and finely ground coffee.",
-    "Chill the mixture thoroughly in the refrigerator.",
-    "Freeze it in your ice cream maker according to the manufacturer's instructions."
-  ]
-}
+  },
+  {
+    "title": "Ice Cream (Coffee flavor)",
+    "source": "https://www.simplyrecipes.com/recipes/coffee_ice_cream/",
+    "meal": "dessert",
+    "ingredients": [
+      "1 1/2 cups whole milk",
+      "3/4 cup sugar",
+      "double shot of espresso",
+      "Pinch salt",
+      "1 1/2 cups heavy cream, divided",
+      "5 large egg yolks",
+      "1/4 teaspoon vanilla extract",
+      "1/4 teaspoon finely ground coffee (press grinds through a fine mesh sieve)"
+    ],
+    "directions": [
+      "Heat the milk, sugar, espresso, salt, and cream in the cooking blender on SAUCE to the end of Stage 1.",
+      "Cancel before Stage 2",
+      "In a separate bowl, whisk the egg yolks together.",
+      "Slowly pour the heated milk and coffee mixture into the egg yolks, whisking constantly so that the egg yolks are tempered by the warm milk, but not cooked by it.",
+      "Scrape the warmed egg yolks back into the blender.",
+      "Run the blender again on SAUCE through Stage 1.",
+      "Cancel before Stage 2",
+      "Pour the custard through a fine mesh strainer into a bowl.",
+      "Mix in the vanilla and finely ground coffee.",
+      "Chill the mixture thoroughly in the refrigerator.",
+      "Freeze it in your ice cream maker according to the manufacturer's instructions."
+    ]
+  }, {
+    "title": "Machaca",
+    "source": "mom",
+    "meal": "dinner",
+    "ingredients": [
+      "5 lbs chuck roast",
+      "6 cloves garlic",
+      "1 teaspoon ground cumin",
+      "1 tablespoon oregano",
+      "2/3 pkg italian dressing mix",
+      "1/2 cup lemon juice",
+      "1 cup white wine vinegar",
+      "2 tablespoon oil"
+    ],
+    "directions": [
+      "cut the meat into large chunks and brown in oil",
+      "add garlic, saute for 1 minute",
+      "add seasonings",
+      "add water to cover meat",
+      "boil, partially covered, until the meat falls apart"
+    ]
+  }
 ]
