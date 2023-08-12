@@ -61,17 +61,13 @@ self.addEventListener("fetch", (event) => {
   console.log("cache check", requestUrl);
   event.respondWith(
     (async () => {
-      const cache = await caches.open(CACHE);
-      const match = await cache.match(requestUrl);
-      if (match) {
-        console.log("match found, cache response", match);
-        return match;
-      }
-
-      const response = await fetch(event.request);
-      if(response.status === 200) cache.put(requestUrl, response.clone());
-      console.log("match not found, caching -> network response", requestUrl);
-      return response;
+      return Promise.any([
+        caches.open(CACHE).then(cache => cache.match(requestUrl)),
+        fetch(event.request).then(response => {
+          if(response.status === 200) cache.put(requestUrl, response.clone());
+          return response;
+        })
+      ])
     })()
   );
 });

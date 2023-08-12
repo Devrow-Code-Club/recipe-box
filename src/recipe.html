@@ -101,7 +101,7 @@ permalink: "recipes/{{ recipe.title }}/"
       display:none;
     }
     ul li label {
-      pointer-events: none;
+      cursor: pointer;
       padding: 8px 16px;
     }
     li:nth-child(even) {
@@ -139,7 +139,7 @@ permalink: "recipes/{{ recipe.title }}/"
     });
 
     const main = document.querySelector('main');
-    querySelectorAll(input[type="checkbox"]).forEach(checkbox => {
+    document.querySelectorAll(input[type="checkbox"]).forEach(checkbox => {
       get(checkbox.id).then(({value, date}) => {
         const createdDate = new Date(date);
         if(date.toDateString() !== (new Date()).toDateString()) del(checkbox.id);
