@@ -91,7 +91,6 @@ permalink: "recipes/{{ recipe.title }}/"
       background-color:#dfdfdf;
       text-decoration: none;
       color:#333;
-      padding: 8px 16px;
     }
     ul li {
       flex-direction:column;
@@ -103,6 +102,7 @@ permalink: "recipes/{{ recipe.title }}/"
     }
     ul li label {
       pointer-events: none;
+      padding: 8px 16px;
     }
     li:nth-child(even) {
       background-color: var(--accent);
@@ -132,6 +132,13 @@ permalink: "recipes/{{ recipe.title }}/"
       padding-left: 16px;
     }
   </style>
+  <script type="module">
+    import { get, set, del } from 'https://jspm.dev/npm:idb-keyval@6.2.1';
+    const main = document.querySelector('main');
+    main.addEventListener('change', ({target}) => {
+      set(target.id, {value: target.value, date: new Date()});
+    })
+  </script>
 </head>
 <body>
   <header>
@@ -143,13 +150,13 @@ permalink: "recipes/{{ recipe.title }}/"
     <h1>{{ recipe.title }}</h1>  
   </header>
   <main>
-    <input type='hidden' value="{{ recipe.key }}" id='recipe-key' />
+    <input type='hidden' value="{{ recipe.title | slugify }}" id='recipe-key' />
     <h2>Ingredients</h2>
     <ul>
       {% for ingredient in recipe.ingredients %}
-        <li class="ingredient" onclick="javascript:this.querySelector('input').click()">
+        <li class="ingredient">
           <label>
-            <input type='checkbox' />
+            <input type='checkbox' id="{{recipe.title | slugify}}-ingredient-{{ loop.index }}" />
             <span>{{ ingredient }}</span>
           </label>
           <span class="budget">
@@ -164,7 +171,7 @@ permalink: "recipes/{{ recipe.title }}/"
       {% for direction in recipe.directions %}
         <li class="direction">
           <label>
-            <input type="checkbox" />
+            <input type="checkbox" id="{{recipe.title | slugify}}-direction-{{ loop.index }}" />
             <span>{{ direction }}</span>
           </label>
         </li>
