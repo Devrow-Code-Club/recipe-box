@@ -60,14 +60,11 @@ self.addEventListener("fetch", (event) => {
   }
   console.log("cache check", requestUrl);
   event.respondWith(
-    (async () => {
-      return Promise.any([
-        caches.open(CACHE).then(cache => cache.match(requestUrl)),
-        fetch(event.request).then(response => {
-          if(response.status === 200) cache.put(requestUrl, response.clone());
-          return response;
-        })
-      ])
-    })()
+    fetch(event.request).then(response => {
+      if(response.status === 200) cache.put(requestUrl, response.clone());
+      return response;
+    }).catch(error => {
+      caches.open(CACHE).then(cache => cache.match(requestUrl))
+    })
   );
 });
