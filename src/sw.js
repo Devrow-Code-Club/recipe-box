@@ -59,16 +59,14 @@ self.addEventListener("fetch", (event) => {
   }
 
   event.respondWith(
-    (async () => {
-      const [response, match] = (await Promise.allSettled([
-        fetch(event.request),
-        caches.open(CACHE).then(cache => cache.match(requestUrl))
-      ])).map(allSettled => allSettled.value);
+    fetch(event.request).then(async response => {
       if(response.status === 200) {
+        const cache = await caches.open(CACHE)
         cache.put(requestUrl, response.clone());
         return response;
       }
-      return match;
-    })()
+    }).catch(() => {
+      return caches.open(CACHE).then((cache) => cache.match(requestUrl));
+    })
   );
 });
