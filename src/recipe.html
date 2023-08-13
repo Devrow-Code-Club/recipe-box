@@ -152,7 +152,7 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
         const createdDate = new Date(date);
         if(date.toDateString() !== (new Date()).toDateString()) del(checkbox.id);
         else checkbox.value = value;
-      })
+      }).catch(() => null)
     })
     main.addEventListener('change', ({target}) => {
       set(target.id, {value: target.value, date: new Date()});
