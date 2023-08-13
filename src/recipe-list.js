@@ -59,9 +59,13 @@ class RecipeList extends LitElement {
     };
   }
 
-  constructor() {
-    super();
-    this.alphaSortedRecipes = Array.from(new Set(this.recipes.map(r => r.title.slice(0, 1).toUpperCase()))).map(letter => ([letter, recipes.filter(r => r.title.toUpperCase().startsWith(letter))]))
+  willUpdate(changedProperties) {
+    if(changedProperties.has('recipes')) this.alphaSortedRecipes = Array.from(
+      new Set(this.recipes.map((r) => r.title.slice(0, 1).toUpperCase()))
+    ).map((letter) => [
+      letter,
+      recipes.filter((r) => r.title.toUpperCase().startsWith(letter)),
+    ]);
   }
 
   add(recipe) {
