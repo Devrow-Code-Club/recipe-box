@@ -139,7 +139,7 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
     });
 
     const main = document.querySelector('main');
-    document.querySelectorAll(input[type="checkbox"]).forEach(checkbox => {
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
       get(checkbox.id).then(({value, date}) => {
         const createdDate = new Date(date);
         if(date.toDateString() !== (new Date()).toDateString()) del(checkbox.id);
