@@ -82,6 +82,7 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       list-style-type: none;
       gap:8px;
       padding:8px;
+      grid-row: 2
     }
     li {
       display:flex;
@@ -110,6 +111,8 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
     }
     main {
       width: 100%;
+      display:grid;
+      grid-template-columns: 1fr 3fr;
     }
     input:checked + span {
       text-decoration: line-through;
