@@ -64,7 +64,7 @@ class RecipeList extends LitElement {
       new Set(this.recipes.map((r) => r.title.slice(0, 1).toUpperCase()))
     ).map((letter) => [
       letter,
-      recipes.filter((r) => r.title.toUpperCase().startsWith(letter)),
+      this.recipes.filter((r) => r.title.toUpperCase().startsWith(letter)),
     ]);
   }
 
