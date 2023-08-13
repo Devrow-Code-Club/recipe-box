@@ -43,6 +43,13 @@
     }
   </style>
   <script type="module" src="index.js"></script>
+  <script type="module">
+    document.querySelector('recipe-list').recipes = [
+      {% for recipe in recipesNames %}
+      {title: "{{recipe}}", slug: "{{recipe | slugify}}"},
+      {% endfor %}
+    ];
+  </script>
 </head>
 <body>
   <h1>

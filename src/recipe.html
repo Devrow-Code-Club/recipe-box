@@ -3,7 +3,7 @@ pagination:
   data: static-recipes
   size: 1
   alias: recipe
-permalink: "recipes/{{ recipe.title }}/"
+permalink: "recipes/{{ recipe.title | slufigy }}/"
 ---
 <!DOCTYPE html>
 <html lang="en">

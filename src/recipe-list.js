@@ -53,17 +53,15 @@ class RecipeList extends LitElement {
   }
 
   static get properties() {
-    return { alphaSortedRecipes: { type: Array } };
+    return { 
+      recipes: {type: Array}, 
+      alphaSortedRecipes: { type: Array } 
+    };
   }
 
   constructor() {
     super();
-    this.recipes = [];
-    fetch('/recipesNames.json')
-      .then(response => response.json()).then(recipes => {
-        this.alphaSortedRecipes = Array.from(new Set(recipes.map(r => r.slice(0, 1).toUpperCase()))).map(letter => ([letter, recipes.filter(r => r.toUpperCase().startsWith(letter))]))
-
-      });
+    this.alphaSortedRecipes = Array.from(new Set(this.recipes.map(r => r.title.slice(0, 1).toUpperCase()))).map(letter => ([letter, recipes.filter(r => r.title.toUpperCase().startsWith(letter))]))
   }
 
   add(recipe) {
@@ -93,7 +91,7 @@ class RecipeList extends LitElement {
   render() {
     return html`<h2>Recipes</h2>
       <section id="recipes">
-        ${this.alphaSortedRecipes.map(([letter, recipes]) => html`
+        ${this.alphaSortedRecipes?.map(([letter, recipes]) => html`
         <details>
           <summary>
             <h3>${letter}</h3>
@@ -101,10 +99,10 @@ class RecipeList extends LitElement {
           <div class='recipes'>
           ${recipes.map(
             recipe => html`<div class="recipe">
-              <h3>${recipe}</h3>
+              <h3>${recipe.title}</h3>
               <div class="actions">
                 <button class="add" @click=${this.add(recipe)}>${addIcon}</button>
-                <a class="see" href="recipes/${recipe}/">${seeIcon}</a>
+                <a class="see" href="recipes/${recipe.slug}/">${seeIcon}</a>
               </div>
             </div>`,
           )}
