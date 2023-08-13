@@ -4156,5 +4156,34 @@
       "add water to cover meat",
       "boil, partially covered, until the meat falls apart"
     ]
+  },{
+    "title": "Lemon Zucchini Bread",
+    "source": "https://tastesbetterfromscratch.com/lemon-zucchini-bread/",
+    "meal": "dessert",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour (or half white whole wheat flour)",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon baking soda",
+      "1/2 teaspoon baking powder",
+      "3/4 cup granulated sugar",
+      "Zest of 1 large lemon",
+      "2 large eggs",
+      "1/2 cup oil (vegetable or canola oil)",
+      "1 1/2 teaspoons fresh lemon juice",
+      "1 cup grated zucchini* (unpeeled)",
+      "1 cup powdered sugar",
+      "4 teaspoons fresh lemon juice"
+    ],
+    "directions": [
+      "Preheat oven to 350 degrees F.Grease and flour a 8 x 4 inch loaf pan. Set aside.",
+      "In a large bowl,whisktogether the flour, salt, baking powder, and baking soda.",
+      "In another bowl,combine sugar and lemon zest and stir well.",
+      "Add eggs, oil, and lemon juice and stir until smooth. Stir in the dry ingredients until combined.",
+      "Fold the zucchini into the batter and pour the batter into the prepared loaf pan.",
+      "Bake for 45-50 minutes, or until toothpick inserted in the center comes out clean.",
+      "Allow to rest in the pan for 10 minutes before removing the loaf onto a wire cooling rack to cool completely.",
+      "While the bread is cooling, make the glaze by combining the powdered sugar and lemon juice in a small bowl until smooth.",
+      "Drizzle the glaze over the bread. Slice and serve."
+    ]
   }
 ]
