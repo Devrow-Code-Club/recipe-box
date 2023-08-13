@@ -63,7 +63,7 @@ self.addEventListener("fetch", (event) => {
       const [response, match] = await Promise.allSettled([
         fetch(event.request),
         caches.open(CACHE).then(cache => cache.match(requestUrl))
-      ]);
+      ]).map(allSettled => allSettled.value);
       if(response.status === 200) {
         cache.put(requestUrl, response.clone());
         return response;
