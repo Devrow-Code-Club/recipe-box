@@ -21,6 +21,7 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       padding:0;
       margin:0;
       width:100%;
+      height:100%;
       --primary: hsla(205, 28%, 40%, 1);
       --accent: hsla(32, 100%, 75%, 1);
       --bold-primary: hsla(225, 41%, 29%, 1);
@@ -75,13 +76,13 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       margin-block-start: 0;
       margin-block-end: 0;
       padding-inline-start:0;
+      max-height: 100%;
+      overflow-y: auto;
     }
     ul {
       display:grid;
       grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       list-style-type: none;
-      gap:8px;
-      padding:8px;
       grid-row: 2
     }
     li {
@@ -111,8 +112,10 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
     }
     main {
       width: 100%;
-      display:grid;
-      grid-template-columns: 1fr 3fr;
+      display: grid;
+      grid-template-columns: 1fr 1.5fr;
+      max-height: 100%;
+      overflow: auto;
     }
     input:checked + span {
       text-decoration: line-through;
