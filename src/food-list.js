@@ -212,7 +212,7 @@ class FoodList extends LitElement {
         <h2>Ingredients</h2>
         <ul>
           ${[...this.plan].slice(0, 3)?.map(food =>
-            food.ingredients.map(
+            food.ingredients?.map(
               ingredient => html` <li>
                 <label><input type="checkbox" @change=${this.strike} />${ingredient}</label>
               </li>`,
