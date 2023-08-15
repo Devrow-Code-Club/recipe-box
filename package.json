@@ -20,9 +20,7 @@
   "wireit": {
     "build": {
       "command": "npx @11ty/eleventy --input=./src/ --output=./dist/",
-      "dependencies": [
-        "sw-build"
-      ]
+      "dependencies": ["sw-build"]
     },
     "sw-build": {
       "command": "workbox injectManifest ./workbox-config.cjs",
@@ -31,7 +29,8 @@
         "copy-index",
         "copy-images",
         "copy-data",
-        "copy-bookmarklet"
+        "copy-bookmarklet",
+        "copy-assets"
       ]
     },
     "bundle": {
@@ -45,9 +44,10 @@
     },
     "copy-data": {
       "command": "cp -r src/_data/recipesNames.json dist/recipesNames.json",
-      "dependencies": [
-        "preprocess-recipes"
-      ]
+      "dependencies": ["preprocess-recipes"]
+    },
+    "copy-assets": {
+      "command": "cp -r src/assets/* dist/"
     },
     "copy-bookmarklet": {
       "command": "cp src/bookmarklet.js dist/"
