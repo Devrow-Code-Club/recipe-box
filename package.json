@@ -11,6 +11,7 @@
     "copy-index": "wireit",
     "copy-images": "wireit",
     "copy-data": "wireit",
+    "copy-assets": "wireit",
     "copy-bookmarklet": "wireit",
     "preprocess-recipes": "wireit",
     "start": "wds --port 8041 --root-dir dist/",
