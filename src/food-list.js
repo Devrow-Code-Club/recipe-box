@@ -196,7 +196,7 @@ class FoodList extends LitElement {
                   <span class="mono"
                     >(${new Date(new Date().setDate(this.today.getDate() + index)).getDate()})</span
                   >
-                  <button class="title" @click=${this.see(food)}>${food.title}</button>
+                  <button class="title" @click=${this.see(food)}>${food?.title}</button>
                 </div>`,
             )}
       </section>
