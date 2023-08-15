@@ -188,7 +188,7 @@ class FoodList extends LitElement {
       <section id="food-plan">
         ${!this.plan.length
           ? html`<h3>There is no plan yet.</h3>`
-          : this.plan.map(
+          : this.plan?.map(
               (food, index) =>
                 html`<div class="food-entry">
                   <button class="delete" @click=${this.delete(index)}>${trashIcon}</button>
@@ -211,7 +211,7 @@ class FoodList extends LitElement {
       <dialog @click=${this.dialogClick} id="ingredient-list-dialog">
         <h2>Ingredients</h2>
         <ul>
-          ${[...this.plan].slice(0, 3).map(food =>
+          ${[...this.plan].slice(0, 3)?.map(food =>
             food.ingredients.map(
               ingredient => html` <li>
                 <label><input type="checkbox" @change=${this.strike} />${ingredient}</label>
