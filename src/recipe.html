@@ -64,6 +64,11 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       align-items:center;
       justify-content: center;
     }
+    header h2 {
+      font-size: 0.9rem;
+      padding: 4px;
+      justify-content: space-between;
+    }
     h2 {
       justify-content:flex-start;
       font-size: 1.25rem;
@@ -168,6 +173,7 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       </svg>
     </a>
     <h1>{{ recipe.title }}</h1>  
+    <h2><a href="{{ recipe.source }}">Source</a><span>{{ recipe.meal }}</span></h2>
   </header>
   <main>
     <input type='hidden' value="{{ recipe.title | slugify }}" id='recipe-key' />
