@@ -3797,7 +3797,8 @@
     ],
     "directions": [
       "Gather all ingredients.",
-      "Combine hot sauce, butter, vinegar, Worcestershire sauce, cayenne, garlic powder, and salt in a pot over medium heat. Bring to a simmer while stirring with a whisk.",
+      "Combine hot sauce, butter, vinegar, Worcestershire sauce, cayenne, garlic powder, and salt in a pot over medium heat.",
+      "Bring to a simmer while stirring with a whisk.",
       "As soon as the liquid begins to bubble on the sides of the pot, remove from heat, stir with the whisk, and set aside for use."
     ]
   },
@@ -4489,6 +4490,20 @@
     "directions": [
       "Mix all the ingredients together in a small bowl until well combined.",
       "Store for up to 6 months in a cool dry place."
+    ]
+  },{
+    "title": "Bees Knees",
+    "source": "https://www.thepioneerwoman.com/food-cooking/recipes/a44602709/bees-knees-recipe/",
+    "meal": "drink",
+    "ingredients": [
+      "2 oz. gin",
+      "1 oz. honey syrup",
+      "1 oz. lemon juice"
+    ],
+    "directions": [
+      "In a cocktail shaker, combine the gin, honey syrup, and lemon juice with ice.",
+      "Cover and shake vigorously for about 10 seconds.",
+      "Strain into a chilled coupe class and serve with a lemon twist or edible flower."
     ]
   }
 ]
