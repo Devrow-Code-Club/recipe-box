@@ -3865,7 +3865,8 @@
       "1 teaspoon of Water"
     ],
     "directions": [
-      "Simply put all the ingredients into a bowl and mix together very well. Let it rest overnight in the fridge to let the flavours meld."
+      "Simply put all the ingredients into a bowl and mix together very well.",
+      "Let it rest overnight in the fridge to let the flavours meld."
     ]
   },
   {
@@ -4505,5 +4506,24 @@
       "Cover and shake vigorously for about 10 seconds.",
       "Strain into a chilled coupe class and serve with a lemon twist or edible flower."
     ]
-  }
+  },{
+  "title": "Sweet Cream Coffee Creamer",
+  "source": "https://www.orwhateveryoudo.com/2016/08/homemade-vanilla-sweet-cream-coffee-creamer.html",
+  "meal": "creamer",
+  "ingredients": [
+    "2 cups heavy whipping cream",
+    "1 cup sugar",
+    "1 tablespoon vanilla (or 1/2 vanilla bean, whole*)",
+    "2 cups whole milk"
+  ],
+  "directions": [
+    "Place heavy cream in a pan, and heat over medium heat until bubbling.",
+    "Add sugar, and cook for 2 minutes, stirring constantly.",
+    "Stir in vanilla extract, and remove from heat.",
+    "Mix in whole milk, and place in a jar in the fridge.",
+    "Shake before use.",
+    "*If using a vanilla bean, place it in the pot with the cream and let simmer during that stage for maximum flavor.",
+    "Leave in creamer to continue to infuse liquid even in the fridge."
+  ]
+}
 ]
