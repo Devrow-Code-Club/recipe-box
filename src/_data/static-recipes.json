@@ -4595,7 +4595,8 @@
       "When the steak is cooked throughout (about 7-10 minutes), add vegetables back to the skillet along with the reserved marinade.",
       "Serve with warm tortillas and desired optional garnishes."
     ]
-  },{
+  },
+  {
     "title": "Beer Cheese",
     "source": "https://www.spendwithpennies.com/beer-cheese-dip/#wprm-recipe-container-169972",
     "meal": "side",
@@ -4618,7 +4619,8 @@
       "Continue cooking over medium heat, add in mustard and Worcestershire, cooking sauce until thick and bubbly.",
       "Reduce heat to low, add cheeses, and stir just until melted and smooth."
     ]
-  },{
+  },
+  {
     "title": "Tortillas (flour)",
     "source": "https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/#wprm-recipe-container-28318",
     "meal": "side",
@@ -4650,7 +4652,8 @@
       "Flip to other side and cook for 15-20 seconds.",
       "Transfer to a tortilla warmer to rest"
     ]
-  },{
+  },
+  {
     "title": "Cookie (Chocolate Chip)",
     "source": "https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/?fbclid=IwAR2CCeGnpGMHuYsvqvKXm7QlrRS0CLy5ZY07YuIjXnAmYq8SALMGkdU6d4M",
     "meal": "dessert",
@@ -4679,7 +4682,8 @@
       "Take them out when they are just barely starting to turn brown.",
       "Let them sit on the baking pan for 2 minutes before removing to cooling rack."
     ]
-  },{
+  },
+  {
     "title": "Chicken and Dumplings",
     "source": "https://thecozycook.com/chicken-and-dumplings/",
     "meal": null,
@@ -4750,7 +4754,8 @@
       "If not, cover and simmer for a few more minutes.",
       "Once the middle is set, garnish with parsley and serve!"
     ]
-  },{
+  },
+  {
     "title": "Muffins (Pumpkin Cream Cheese)",
     "source": "https://sallysbakingaddiction.com/pumpkin-cheesecake-muffins/?fbclid=IwAR315iMVMczs0QfXrdYZgmqowICVDT12Xb3KFgIvvziYxVbsxs-A8QAFRD8",
     "meal": null,
@@ -4797,7 +4802,8 @@
       "Allow to cool for at least 10 minutes in the pan before serving.",
       "Cover leftover muffins tightly and store at room temperature for up to 2 days or in the refrigerator for up to 1 week."
     ]
-  },{
+  },
+  {
     "title": "Cucumber Salad (Asian)",
     "source": "https://thewoksoflife.com/smashed-asian-cucumber-salad/",
     "meal": "side",
@@ -4826,7 +4832,8 @@
       "Toss it well.",
       "Serve, garnished with sesame seeds and cilantro."
     ]
-  },{
+  },
+  {
     "title": "Krapfen (German Jelly Donuts)",
     "source": "https://www.recipesfromeurope.com/krapfen/#recipe",
     "meal": "dessert",
@@ -4874,6 +4881,33 @@
       "You can put as much jam or as little jam as you like, just make sure that not too much jam is dripping out of the hole.",
       "After filling the donut, dust it in powdered sugar.",
       "Then set it aside and fry, fill, and dust the rest of the Krapfen."
+    ]
+  },
+  {
+    "title": "Marinara",
+    "source": "no idea",
+    "meal": "sauce",
+    "ingredients": [
+      "128-ounce can whole San Marzano tomatoes, certified D.O.P. if possible",
+      "¼cup extra-virgin olive oil",
+      "7garlic cloves, peeled and slivered",
+      "Small dried whole chile, or pinch crushed red pepper flakes",
+      "1teaspoon kosher salt",
+      "1large fresh basil sprig, or ¼ teaspoon dried oregano, more to taste"
+    ],
+    "directions": [
+      "Pour tomatoes into a large bowl and crush with your hands.",
+      "Pour 1 cup water into can and slosh it around to get tomato juices.",
+      "Reserve.",
+      "In a large skillet (do not use a deep pot) over medium heat, heat the oil.",
+      "When it is hot, add garlic.",
+      "As soon as garlic is sizzling (do not let it brown), add the tomatoes, then the reserved tomato water.",
+      "Add whole chile or red pepper flakes, oregano (if using) and salt.",
+      "Stir.",
+      "Place basil sprig, including stem, on the surface (like a flower).",
+      "Let it wilt, then submerge in sauce.",
+      "Simmer sauce until thickened and oil on surface is a deep orange, about 15 minutes.",
+      "Discard basil and chile (if using)."
     ]
   }
 ]
