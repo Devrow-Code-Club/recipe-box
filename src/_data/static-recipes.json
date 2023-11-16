@@ -4899,7 +4899,8 @@
       "Simmer sauce until thickened and oil on surface is a deep orange, about 15 minutes.",
       "Discard basil and chile (if using)."
     ]
-  },{
+  },
+  {
     "title": "Rice (Spanish)",
     "source": "https://lilluna.com/food-tutorial-spanish-rice/#wprm-recipe-container-98784",
     "meal": "side",
@@ -4921,7 +4922,8 @@
       "Let simmer for 30-40 minutes or until all is cooked and there is no liquid left.",
       "Fluff before serving and ENJOY."
     ]
-  },{
+  },
+  {
     "title": "Cinnamon Rolls",
     "source": "https://www.ambitiouskitchen.com/best-cinnamon-rolls/?fbclid=IwAR33asLb5rVQJPFyjKNVUajsCwAyEVPudPoiAl8VspjO3h-g8dayCVtEOCU",
     "meal": "dessert",
@@ -4976,7 +4978,8 @@
       "Beat until smooth and fluffy.",
       "Spread over cinnamon rolls and serve immediately."
     ]
-  },{
+  },
+  {
     "title": "Onion-Braised Beef Brisket",
     "source": "https://www.onceuponachef.com/recipes/onion-braised-beef-brisket.html?fbclid=IwAR2EYo8uZhloJ-wiMfv1Tv_MbSFnl7_NuRvxyXUcgjHiOxRElRMTicYHB-U",
     "meal": "dinner",
@@ -5012,7 +5015,8 @@
       "The brisket is ready to serve with its juices, but it is even better the second day.",
       "(Note: If the sauce seems greasy, transfer the meat and vegetables to a platter and cover with foil to keep warm. Pour the sauce into a bowl and let sit until the fat rises to the top. Using a small ladle, spoon out the fat. Pour the skimmed gravy back over the meat.)"
     ]
-  },{
+  },
+  {
     "title": "Pumpkin Pudding from Scratch",
     "source": "https://www.bowlofdelicious.com/pumpkin-pudding/?fbclid=IwAR3MJVHzdzKYbOJmfvzKFpspTdVNi3r83qb6GMSRis-uI-7oJ7YPJpx0BSg",
     "meal": "dessert",
@@ -5044,7 +5048,8 @@
       "Press plastic wrap on the top to prevent a skin from forming, and refrigerate until cool (about 2 hours).",
       "Serve garnished with crumbled gingersnap cookies and whipped cream, if desired."
     ]
-  },{
+  },
+  {
     "title": "Maple Glaze",
     "source": "https://sallysbakingaddiction.com/maple-glazed-donuts/?fbclid=IwAR1X76rjQCI158zrAdnLb4Z6HmUYzUodvHlTWBPX765r0hPNWd4RkRqKDlM#tasty-recipes-74895",
     "meal": null,
@@ -5063,6 +5068,40 @@
       "The icing quickly thickens, so feel free to place it back over heat as you dip.",
       "Place dipped donuts back onto cooling rack as excess icing drips down.",
       "Feel free to double dip them (I usually do!)."
+    ]
+  },
+  {
+    "title": "Our Favorite Buttery Herb Stuffing",
+    "source": "https://www.howsweeteats.com/2020/11/best-stuffing-recipe/?fbclid=IwAR311kFO4BpJ3WVVF-SkYTVRk4edNY9UO3XbETRxLxLFX28j-9ePLJk-15U",
+    "meal": "side",
+    "ingredients": [
+      "12 ounces bread cubes",
+      "1/2 cup unsalted butter",
+      "1 diced sweet onion",
+      "1 cups diced celery",
+      "6 garlic cloves, minced",
+      "kosher salt and pepper",
+      "1 1/2 tablespoons chopped fresh sage",
+      "1 1/2 tablespoons chopped fresh parsley",
+      "1 1/2 tablespoons chopped fresh rosemary",
+      "1 1/4 cups chicken or vegetable stock",
+      "1 large eggs",
+      "a mixture of fresh herbs for sprinkling"
+    ],
+    "directions": [
+      "Preheat the oven to 350 degrees F.",
+      "Brush a 9x9 baking dish with melted butter.",
+      "Place the bread in a large mixing bowl.",
+      "Heat the butter in a large skillet or dutch oven over medium heat.",
+      "Once melted, stir in the onion, celery and garlic with a big pinch of salt and pepper.",
+      "Cook until the onions and celery soften, about 8 to 10 minutes.",
+      "Stir in the sage, parsley and rosemary.",
+      "Cook for another minute.",
+      "Stir in 1/2 cup of stock.",
+      "Pour the onion celery mixture over the bread crumbs and toss well to coat.",
+      "In a small bowl or measuring cup, whisk together the remaining stock and egg.",
+      "Pour that mixture into the bread cubes and stir and fold the bread cubes until thoroughly combined.",
+      "Bake the stuffing for 45 to 50 minutes, until the internal temperature registers 160 degrees F."
     ]
   }
 ]
