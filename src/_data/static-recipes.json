@@ -5071,39 +5071,6 @@
     ]
   },
   {
-    "title": "Stuffing / Dressing",
-    "source": "https://www.howsweeteats.com/2020/11/best-stuffing-recipe/?fbclid=IwAR311kFO4BpJ3WVVF-SkYTVRk4edNY9UO3XbETRxLxLFX28j-9ePLJk-15U",
-    "meal": "side",
-    "ingredients": [
-      "12 ounces bread cubes",
-      "1/2 cup unsalted butter",
-      "1 diced sweet onion",
-      "1 cups diced celery",
-      "6 garlic cloves, minced",
-      "kosher salt and pepper",
-      "1 1/2 tablespoons chopped fresh sage",
-      "1 1/2 tablespoons chopped fresh parsley",
-      "1 1/2 tablespoons chopped fresh rosemary",
-      "1 1/4 cups chicken or vegetable stock",
-      "1 large eggs",
-      "a mixture of fresh herbs for sprinkling"
-    ],
-    "directions": [
-      "Preheat the oven to 350 degrees F.",
-      "Brush a 9x9 baking dish with melted butter.",
-      "Place the bread in a large mixing bowl.",
-      "Heat the butter in a large skillet or dutch oven over medium heat.",
-      "Once melted, stir in the onion, celery and garlic with a big pinch of salt and pepper.",
-      "Cook until the onions and celery soften, about 8 to 10 minutes.",
-      "Stir in the sage, parsley and rosemary.",
-      "Cook for another minute.",
-      "Stir in 1/2 cup of stock.",
-      "Pour the onion celery mixture over the bread crumbs and toss well to coat.",
-      "In a small bowl or measuring cup, whisk together the remaining stock and egg.",
-      "Pour that mixture into the bread cubes and stir and fold the bread cubes until thoroughly combined.",
-      "Bake the stuffing for 45 to 50 minutes, until the internal temperature registers 160 degrees F."
-    ]
-  }, {
     "title": "Corn Casserole (Grandma Isolde's)",
     "source": "Mom",
     "meal": "side",
@@ -5129,7 +5096,8 @@
       "pour into pan, top with cheese",
       "bake at 375 for 40 - 45 minutes"
     ]
-  },{
+  },
+  {
     "title": "Oatmeal Breakfast Bars",
     "source": "https://feelgoodfoodie.net/recipe/oatmeal-breakfast-bars/",
     "meal": "breakfast",
@@ -5157,7 +5125,8 @@
       "Allow to cool on wire rack for 5 minutes before slicing.",
       "Cut into 16 bars."
     ]
-  },{
+  },
+  {
     "title": "Stuffing",
     "source": "https://www.howsweeteats.com/2020/11/best-stuffing-recipe/",
     "meal": "side",
@@ -5192,7 +5161,8 @@
       "Pour that mixture into the bread cubes and stir and fold the bread cubes until thoroughly combined.",
       "Bake the stuffing for 45 to 50 minutes, until the internal temperature registers 160 degrees F."
     ]
-  },{
+  },
+  {
     "title": "Pumpkin Pie",
     "source": "https://www.allrecipes.com/recipe/12089/mrs-siggs-fresh-pumpkin-pie/",
     "meal": "dessert",
@@ -5223,6 +5193,54 @@
       "Bake an additional 40 to 50 minutes, or until a toothpick inserted near the center comes out clean.",
       "Remove the strip of foil about 20 minutes before the pie is done so that the edge of the crust will be a light golden brown.",
       "Cool pie, and refrigerate overnight for best flavor."
+    ]
+  },
+  {
+    "title": "Roast Chicken",
+    "source": "",
+    "meal": "dinner",
+    "ingredients": [
+      "2 1/2 tablespoons unsalted butter, divided",
+      "1/3 cup finely diced carrots",
+      "1/3 cup finely diced onion",
+      "1/3 cup finely diced celery",
+      "1 teaspoon thyme, savory, or mixed herbs, or 2 fresh thyme or savory sprigs",
+      "1 (3 1/2 to 4-pound) chicken",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "Fresh flat-leaf parsley stems",
+      "Celery leaves",
+      "6 lemon slices, 1/8-inch thick",
+      "1/2 cup sliced onion",
+      "1/2 cup sliced carrots",
+      "1 tablespoon fresh lemon juice",
+      "3/4 cup chicken stock or broth"
+    ],
+    "directions": [
+      "Preheat the oven to 425°F.",
+      "Melt 1 tablespoon of the butter in a skillet.",
+      "Add the diced carrots, onion, and celery and cook over moderate heat until softened.",
+      "Stir in the herbs and set aside.",
+      "If desired, cut out and discard the wishbone.",
+      "Pull the neck skin up over the chicken breast and secure it to the back with a toothpick.",
+      "Salt and pepper the cavity and spoon in the cooked vegetables, a handful of parsley stems and celery leaves, and the lemon slices.",
+      "Massage the chicken all over with 1 tablespoon of the butter, then truss it.",
+      "Alternatively, tie drumstick ends together and tuck wings under the body.",
+      "Choose a flameproof roasting pan that is about 1 inch larger than the chicken and place a rack inside.",
+      "Salt the chicken all over and set it breast-side up on the rack.",
+      "Roast the chicken for 15 minutes and then brush with the remaining 1/2 tablespoon butter.",
+      "Scatter the sliced onion and carrot all around.",
+      "Reduce the oven temperature to 350°F.",
+      "Roast for 45 minutes, and then brush the lemon juice over the chicken.",
+      "If necessary, add 1/2 cup of water to the vegetables to prevent burning.",
+      "Roast for 1 hour and baste the chicken with pan juices.",
+      "Test for doneness; drumsticks should move easily in their sockets and their flesh should feel somewhat soft.",
+      "If not, continue roasting, basting and testing every 7 to 8 minutes, until an instant-read thermometer registers 165°F.",
+      "Spear the chicken through the shoulders and lift to drain; if juices run clear yellow, the chicken is done.",
+      "Let the chicken rest on a carving board for 15 minutes; discard the string.",
+      "Spoon all but 1 tablespoon of fat from the juices in the pan.",
+      "Add the stock and boil until lightly syrupy, 5 minutes.",
+      "Strain; you will have just enough to bathe each serving with a fragrant spoonful."
     ]
   }
 ]
