@@ -5140,7 +5140,6 @@
       "1 pound bulk hot Italian sausage",
       "kosher salt and pepper",
       "3 tablespoons chopped fresh sage",
-      "3 tablespoons chopped fresh rosemary",
       "2 1/2 cups chicken or vegetable stock",
       "2 large eggs"
     ],
@@ -5262,6 +5261,28 @@
       "Bake uncovered for 30-35 minutes or bubbly.",
       "Remove from oven and stir.",
       "Top with remaining onions and return to oven for an additional 10 minutes or until golden."
+    ]
+  },{
+    "title": "Cranberry Sauce",
+    "source": "jammin",
+    "meal": "dessert",
+    "ingredients": [
+      "1 bag of cranberries",
+      "1 box of cherry flavoured gelatin",
+      "1/4 cup of sugar",
+      "2 cups water",
+      "8 oz crushed pineapple, juice reserved",
+      "1/4 cup roasted chopped pecans"
+    ],
+    "directions": [
+      "Cook cranberries on medium heat with sugar until they start to break down.",
+      "Using reserved pineapple juice in a measuring cup, fill the rest of the way to 2 cups with water.",
+      "Bring to a boil.",
+      "Add gelatin and mix.",
+      "Stir until desolved.",
+      "Add pineapple and mix.",
+      "Add pecans and stir.",
+      "Put in a bowl or mold and place in the fridge."
     ]
   }
 ]
