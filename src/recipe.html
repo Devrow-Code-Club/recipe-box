@@ -51,11 +51,13 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
     }
     header {
       width:100%;
-      height: 66px;
       display:grid;
       grid-template-columns: 66px 1fr;
-      place-items:center;
+      grid-template-areas: 'back header' 'source source';
+      place-items: center;
       background-color: var(--muted-primary);
+      gap:4px;
+      border-bottom: 1px solid var(--bold-primary);
     }
     h1, h2 {
       margin:0;
@@ -72,6 +74,7 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       font-size: 0.9rem;
       padding: 4px;
       justify-content: space-between;
+      grid-area: source;
     }
     h2 {
       justify-content:flex-start;
@@ -93,7 +96,8 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       display:grid;
       grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       list-style-type: none;
-      grid-row: 2
+      grid-row: 2;
+      gap:1px;
     }
     li {
       display:flex;
@@ -126,7 +130,8 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
       grid-template-columns: 1fr 1.5fr;
       max-height: 100%;
       overflow: auto;
-      gap: 4px;
+      gap: 1px;
+      background-color: var(--bold-primary);
     }
     input:checked + span {
       text-decoration: line-through;
