@@ -13,8 +13,8 @@ permalink: "recipes/{{ recipe.title | slugify }}/"
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta property="og:title" content="{{ recipe.title }}" />
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ recipe.url }}" />
-  <meta property="og:image" content="https://v1.screenshot.11ty.dev/{{ recipe.url | url_encode }}/small/" />
+  <meta property="og:url" content="{{ page.url }}" />
+  <meta property="og:image" content="https://v1.screenshot.11ty.dev/{{ page.url | url_encode }}/small/" />
   <link rel="manifest" href="/manifest.webmanifest">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Caudex&family=Chelsea+Market&display=swap');
