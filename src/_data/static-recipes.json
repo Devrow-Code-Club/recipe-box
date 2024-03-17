@@ -5953,5 +5953,55 @@
       "Taste, season with a little more salt and pepper, if necessary.",
       "Serve over cooked, hot white rice."
     ]
+  },{
+    "title": "Belgian Waffle",
+    "source": "https://thesaltymarshmallow.com/homemade-belgian-waffle-recipe/",
+    "meal": null,
+    "ingredients": [
+      "2 1/4 Cups All Purpose Flour",
+      "1 Tablespoon Baking Powder",
+      "3 Tablespoons Sugar",
+      "1/2  Teaspoon Salt",
+      "1 Teaspoon Cinnamon",
+      "2 Large Eggs Separated",
+      "1/2 Cup Vegetable Oil",
+      "2 Cups Milk",
+      "1 Teaspoon Vanilla Extract"
+    ],
+    "directions": [
+      "Preheat your waffle iron, spray with non stick cooking spray and set aside.",
+      "In a large bowl whisk together the flour, baking powder, sugar, salt, and cinnamon.",
+      "In a medium bowl beat the egg whites with a hand mixer until stiff peaks form.  Set aside.",
+      "In a separate medium bowl mix together the egg yolks, vegetable oil, milk, and vanilla extract.",
+      "Add the egg yolk mixture to the dry ingredients and mix well.",
+      "Fold in the egg whites.",
+      "Pour the batter onto your hot waffle iron and cook according to manufacturer's directions**",
+      "Serve immediately with butter, syrup, powdered sugar or any other favorite toppings."
+    ]
+  },{
+    "title": "Cinnamon Apples",
+    "source": "https://joyfoodsunshine.com/stovetop-cinnamon-apples/#wprm-recipe-container-8858",
+    "meal": "dessert",
+    "ingredients": [
+      "3 apples (about 3 cups, chopped)",
+      "2 TBS water",
+      "1 TBS salted butter (or coconut oil)",
+      "1 TBS maple syrup",
+      "½ tsp ground cinnamon",
+      "1/8 tsp fine sea salt",
+      "¼ tsp pure vanilla extract"
+    ],
+    "directions": [
+      "Cut apples into same-sized pieces (about ½-1” cubes).",
+      "Put apples pieces into a skillet with 2 TBS water.",
+      "Cover the pan and cook over medium heat for about 5 minutes, stirring occasionally, until the apples become slightly soft and water is absorbed.",
+      "Add 1 TBS of butter to the skillet.",
+      "Stir apples and oil together until all the apples are coated.",
+      "Cook for 5 minutes, stirring every minute or so, until the apples become soft (you may need to cover them for the last 2 minutes).",
+      "Add Maple syrup, cinnamon, salt and vanilla.",
+      "Stir until well mixed.",
+      "Cook for about 5 more minutes, stirring every minute until the apples reach your desired softness!",
+      "Remove from heat and serve!"
+    ]
   }
 ]
