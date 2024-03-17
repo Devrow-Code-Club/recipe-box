@@ -6003,5 +6003,52 @@
       "Cook for about 5 more minutes, stirring every minute until the apples reach your desired softness!",
       "Remove from heat and serve!"
     ]
+  },{
+    "title": "Bailey's Fudgy Brownie Pudding",
+    "source": "https://www.delish.com/cooking/recipe-ideas/a42417784/skillet-brownie-pudding-recipe/",
+    "meal": "dessert",
+    "ingredients": [
+      "1 c. (2 sticks) unsalted butter, plus more for pan",
+      "3/4 c. (150 g.) granulated sugar",
+      "1/2 c. (85 g.) chopped 60% to 70% bittersweet chocolate",
+      "2 large eggs",
+      "3 tbsp. Baileys Irish cream, divided",
+      "1/3 c. (30 g.) unsweetened cocoa powder",
+      "1/4 c. (30 g.) all-purpose flour",
+      "1/4 tsp. kosher salt",
+      "3/4 c. heavy cream"
+    ],
+    "directions": [
+      "Preheat oven to 325° and butter an 8\" round cake pan or medium heatproof skillet.",
+      "Place inside a larger pan, such as a 13 1/2\"-by-10\" roasting pan.",
+      "In a medium saucepan over medium-low heat, cook butter and granulated sugar, stirring frequently, until butter melts and sugar dissolves, 7 to 9 minutes.",
+      "Remove from heat and stir in chocolate.",
+      "Let cool 5 minutes.",
+      "Whisk in eggs and 2 tablespoons Baileys.",
+      "In a medium bowl, whisk cocoa powder, flour, and salt to combine.",
+      "Fold dry ingredients into butter mixture, then stir until mixture resembles wet brownie batter.",
+      "Pour batter into prepared pan.",
+      "Pour hot water into larger pan until it reaches halfway up the sides of smaller pan.",
+      "Bake brownie pudding until a flaky crust forms, resembling the top of a traditional brownie, and the center is slightly underdone and almost jiggly, 30 to 40 minutes.",
+      "Let cool slightly.",
+      "Meanwhile, in a medium bowl, using an electric mixer on medium-high speed, beat cream and remaining 1 tablespoon Baileys until medium peaks form.",
+      "Top brownie pudding with whipped cream."
+    ]
+  },{
+    "title": "Irish Cream",
+    "source": "https://www.delish.com/cooking/recipe-ideas/a30778206/homemade-irish-cream-liqueur-recipe/",
+    "meal": "drink",
+    "ingredients": [
+      "1 2/3 c. Jameson Irish whiskey",
+      "1 c. half & half",
+      "1 (14-oz. can) sweetened condensed milk",
+      "1 tbsp. cocoa powder",
+      "2 tsp. pure vanilla extract"
+    ],
+    "directions": [
+      "Mix all ingredients in a blender until smooth.",
+      "Keep refrigerated.",
+      "Serve over ice or mixed into cocktails, shaking before each use."
+    ]
   }
 ]
