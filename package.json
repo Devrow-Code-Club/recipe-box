@@ -20,7 +20,7 @@
   },
   "wireit": {
     "build": {
-      "command": "npx @11ty/eleventy --input=./src/ --output=./dist/",
+      "command": "eleventy --input=./src/ --output=./dist/",
       "dependencies": ["sw-build"]
     },
     "sw-build": {
@@ -73,6 +73,7 @@
   "homepage": "https://github.com/Devrow-Code-Club/recipe-box#readme",
   "devDependencies": {
     "@web/dev-server": "^0.1.30",
+    "@11ty/eleventy": "^2.0.0",
     "esbuild": "^0.14.36",
     "node-fetch": "^3.2.10",
     "wireit": "^0.3.1",
