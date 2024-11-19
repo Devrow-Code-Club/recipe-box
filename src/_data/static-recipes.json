@@ -3797,7 +3797,7 @@
     ]
   },
   {
-    "title": "Fried Chicken Wings",
+    "title": "Chicken Wings (Fried)",
     "source": "https://www.allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/",
     "meal": "dinner",
     "ingredients": [
@@ -6570,6 +6570,34 @@
       "Bake for 20-28 minutes or until the crust is golden brown.",
       "Feel free to loosely cover the pizzas with aluminum foil after the 15 minute mark to prevent any heavy browning and uneven baking.",
       "Remove the pizzas from the oven and allow to cool in the pans placed on a wire rack for 10 minutes."
+    ]
+  },{
+    "title": "Chicken Wings (Dry-Rubbed Baked)",
+    "source": "https://www.thechunkychef.com/epic-dry-rubbed-baked-chicken-wings/#wprm-recipe-container-12298",
+    "meal": "dinner",
+    "ingredients": [
+      "1/2 Tbsp ancho chile pepper",
+      "1/2 Tbsp smoked paprika",
+      "1/2 Tbsp onion powder",
+      "1/2 Tbsp kosher salt",
+      "3/4 Tbsp light brown sugar, packed",
+      "3/4 tsp chili powder",
+      "3/4 tsp paprika",
+      "3/4 tsp cumin",
+      "1/2 tsp garlic powder",
+      "1/2 tsp cayenne pepper (less if you're worried about the heat level)",
+      "1/2 tsp dried mustard powder",
+      "1/4 tsp black pepper",
+      "1/4 tsp  dried oregano",
+      "1/4 tsp dried ground thyme",
+      "4 lbs chicken wings, thawed completely if using a frozen bag",
+      "2 Tbsp vegetable or canola oil"
+    ],
+    "directions": [
+      "Line a large baking sheet with 2 sheets of aluminum foil (or 1 heavy duty sheet). Top that with an oven safe cooling rack and spray it with non-stick cooking spray and set aside.",
+      "Combine all dry rub ingredients in a small mixing bowl, set aside. In a large mixing bowl, add chicken wings and vegetable oil. Use a rubber spatula to toss gently to coat.",
+      "Sprinkle in about half to 2/3 of the dry rub mixture and use your hands to massage it into all of the chicken wings, coating evenly. Feel free to use all the dry rub, but for a coating like in the photos, 1/2-2/3 of the mixture does just fine.",
+      "Preheat air fryer to 400 F degrees. Spritz with oil and add chicken wings to air fryer for 15 minutes."
     ]
   }
 ]
