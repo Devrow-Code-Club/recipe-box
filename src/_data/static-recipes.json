@@ -5247,7 +5247,8 @@
       "Add the stock and boil until lightly syrupy, 5 minutes.",
       "Strain; you will have just enough to bathe each serving with a fragrant spoonful."
     ]
-  },{
+  },
+  {
     "title": "Green Bean Casserole",
     "source": "https://www.spendwithpennies.com/classic-green-bean-casserole/",
     "meal": "side",
@@ -5268,7 +5269,8 @@
       "Remove from oven and stir.",
       "Top with remaining onions and return to oven for an additional 10 minutes or until golden."
     ]
-  },{
+  },
+  {
     "title": "Cranberry Sauce",
     "source": "jammin",
     "meal": "dessert",
@@ -5290,7 +5292,8 @@
       "Add pecans and stir.",
       "Put in a bowl or mold and place in the fridge."
     ]
-  },{
+  },
+  {
     "title": "Choco Tacos",
     "source": "https://www.acozykitchen.com/homemade-choco-tacos#wprm-recipe-container-37747",
     "meal": "dessert",
@@ -5317,7 +5320,7 @@
       "Press on it for 1 minute, then remove and allow to cool completely.",
       "Repeat until you’ve worked your way through all of the batter.",
       "You should end up with about 20 choco taco shells.",
-      
+
       "Line a baking sheet with parchment.",
       "Remove the ice cream from the fridge and allow to come to room temperature for about 10 minutes.",
       "Using a teaspoon, spoon it into the choco taco shells and transfer to the baking sheet.",
@@ -5326,7 +5329,8 @@
       "Dip the tops of the choco tacos in the chocolate; immediately add toppings.",
       "Transfer back to the freezer to refreeze for about 15 minutes or until you’re ready to serve."
     ]
-  },{
+  },
+  {
     "title": "Pepper Steak Stir Fry",
     "source": "https://www.dinneratthezoo.com/pepper-steak-stir-fry/#wprm-recipe-container-14390",
     "meal": "dinner",
@@ -5357,7 +5361,8 @@
       "Pour the sauce over the steak mixture and bring to a simmer.",
       "Cook for 2-3 minutes or until sauce has just thickened, then serve."
     ]
-  },{
+  },
+  {
     "title": "Apple Cider Doughnuts (Baked)",
     "source": "https://cooking.nytimes.com/recipes/1019593-baked-apple-cider-doughnuts",
     "meal": "dessert",
@@ -5394,7 +5399,8 @@
       "Let the doughnuts cool for 5 minutes after baking, then unmold them from the pans, brush with the melted butter and dredge them in the cinnamon sugar while they are still warm.",
       "Serve immediately, or let cool to room temperature."
     ]
-  },{
+  },
+  {
     "title": "Sugar Plums",
     "source": "https://gfreefoodie.com/sugar-plums/",
     "meal": "dessert",
@@ -5424,7 +5430,8 @@
       "Scoop the mixture into heaping 1 tablespoon portions and roll into 1 inch balls, and place on the paper.",
       "Roll the sugarplums in the sugar just before serving."
     ]
-  },{
+  },
+  {
     "title": "Chocolate Cream Pie",
     "source": "https://tastesbetterfromscratch.com/chocolate-cream-pie/",
     "meal": "dessert",
@@ -5466,7 +5473,8 @@
       "Continue mixing until soft peaks form, about 2-3 minutes.",
       "Spread whipped cream over pie and top with chocolate curls or shavings."
     ]
-  },{
+  },
+  {
     "title": "Chicken Drumsticks (Baked)",
     "source": "https://healthyrecipesblogs.com/baked-drumsticks/?fbclid=IwAR1KEt04b1-U-rwrJ-VImZFEl9S5ryek9HniXUxXj6ST0VCg2aMuTfR-AoY",
     "meal": "dinner",
@@ -5489,7 +5497,8 @@
       "Baste the drumsticks with the pan juices using a clean pastry brush.",
       "Serve immediately."
     ]
-  },{
+  },
+  {
     "title": "Lasagna Soup",
     "source": "https://tastesbetterfromscratch.com/lasagna-soup/",
     "meal": "dinner",
@@ -5529,18 +5538,19 @@
       "Ladle the hot soup into bowls, and dollop a scoop of the cheese mixture on top.",
       "Garnish with fresh basil"
     ]
-  },{
+  },
+  {
     "title": "Brittle",
     "meal": "snack",
     "source": "https://www.foodandwine.com/recipes/best-ever-nut-brittle",
     "ingredients": [
-"2 cups sugar",
-"1/2 cup water",
-"1 stick unsalted butter",
-"1/3 cup light corn syrup",
-"1/2 teaspoon baking soda",
-"12 ounces roasted salted peanuts, cashews, pistachios, and/or pecans",
-"Fleur de sel or crushed flaky sea salt, such as Maldon"
+      "2 cups sugar",
+      "1/2 cup water",
+      "1 stick unsalted butter",
+      "1/3 cup light corn syrup",
+      "1/2 teaspoon baking soda",
+      "12 ounces roasted salted peanuts, cashews, pistachios, and/or pecans",
+      "Fleur de sel or crushed flaky sea salt, such as Maldon"
     ],
     "directions": [
       "In a large saucepan, combine the sugar, water, butter, and corn syrup and bring to a boil.",
@@ -5553,7 +5563,8 @@
       "Let cool completely, about 30 minutes.",
       "Break the brittle into large shards."
     ]
-  },{
+  },
+  {
     "title": "Caramel-Pecan Apple Pie",
     "source": "https://www.tasteofhome.com/recipes/caramel-pecan-apple-pie/",
     "meal": "dessert",
@@ -5596,7 +5607,8 @@
       "Cool on a wire rack.",
       "If desired, serve with whipped cream and additional caramel topping."
     ]
-  },{
+  },
+  {
     "title": "Käsespätzle (German Cheese Spaetzle)",
     "source": "https://www.daringgourmet.com/kasespatzle-swabian-german-macaroni-and-cheese/#recipe",
     "meal": null,
@@ -5619,12 +5631,13 @@
       "Repeat, sprinkling each layer with some salt, ending with cheese and onions on top.",
       "Bake for 10 minutes or longer until the cheese is melted and the edges are just beginning to get a little crispy.Serve immediately."
     ]
-  },{
+  },
+  {
     "title": "Cheese Blintzes",
     "source": "https://www.dinneratthezoo.com/cheese-blintzes-recipe/?fbclid=IwAR2TpZI8jan7kawyQZpDRRQqYuhBbWIVZIo8XG2RRHfPtIOVuNvz47BrYUk#wprm-recipe-container-29674",
     "meal": "breakfast",
     "ingredients": [
-      "- crepes", 
+      "- crepes",
       "1 cup all-purpose flour",
       "1 tablespoon granulated sugar",
       "1/4 teaspoon kosher salt",
@@ -5660,7 +5673,8 @@
       "Melt the remaining 3 tablespoons of butter in a skillet.",
       "Place the blintzes in the skillet in a single layer and cook for 4 minutes per side or until golden brown."
     ]
-  },{
+  },
+  {
     "title": "Kielbasa and Potatoes (Hasselback)",
     "source": "https://streetsmartnutrition.com/kielbasa-sheet-pan-dinner-with-cheesy-hasselback-potatoes/#wprm-recipe-container-13791",
     "meal": "dinner",
@@ -5696,57 +5710,57 @@
       "Garnish with extra cheese and sprigs of fresh thyme.",
       "Serve immediately with any remaining glaze for dipping."
     ]
-  },{
-
-  "title": "Pita Bread",
-  "source": "https://www.themediterraneandish.com/homemade-pita-bread-recipe/#tasty-recipes-10391-jump-target",
-  "meal": "side",
-  "ingredients": [
-  "1 cup lukewarm water",
-  "2 tsp active dry yeast",
-  "½ tsp sugar",
-  "3 cups all-purpose flour, divided",
-  "1 to 2 teaspoon kosher salt",
-  "2 tbsp extra virgin olive oil"
-  ],
-  "directions": [
-    "Make sponge: In a large mixing bowl add the lukewarm water and stir in yeast and sugar until dissolved.",
-    "Add ½ cup flour and whisk together.",
-    "Place the mixing bowl in a warm place, uncovered to form a lose sponge.",
-    "Give it 15 minutes or so, the mixture should bubble.",
-    "Form the pita dough: Now add salt, olive oil and almost all the remaining flour (keep about ½ cup of the flour for dusting later).",
-    "Stir until mixture forms a shaggy mass (at this point, the dough has little to no gluten development and just looks like a sticky mess and you can easily pull bits off).",
-    "Dust with a little flour, then knead the mixture inside the bowl for about a minute to incorporate any stray bits.",
-    "Knead the dough: Dust a clean working surface with just a little bit of flour.",
-    "Knead lightly for a couple minutes or so until smooth.",
-    "Cover and let the dough rest for 10 minutes, then knead again for a couple more minutes.",
-    "The dough should be a little bit moist, you can help it with a little dusting of flour, but be careful not to add too much flour.",
-    "Let the dough rise.",
-    "Clean the mixing bowl and coat it lightly with extra virgin olive oil and put the dough back in the bowl.",
-    "Turn the dough a couple times in the bowl to coat with the olive oil.",
-    "Cover the mixing bowl tightly with plastic wrap then lay a kitchen towel over.",
-    "Put the bowl in a warm place.",
-    "Leave it alone for 1 hour or until the dough rises to double its size.",
-    "Divide the dough.",
-    "Deflate the dough and place it on a clean work surface.",
-    "Divide the dough into 7 to 8 equal pieces and shape them into balls.",
-    "Cover with a towel and leave them for 10 minutes or so to rest.",
-    "Shape the pitas.",
-    "Using a floured rolling pin, roll one of the pieces into a circle that's 8-9 inches wide and about a quarter inch thick.",
-    "It helps to lift and turn the dough frequently as you roll so that dough doesn't stick to your counter too much.",
-    "(If dough starts to stick, sprinkle a tiny bit of flour).",
-    "If the dough starts to spring back, set it aside to rest for a few minutes, then continue rolling.",
-    "Repeat with the other pieces of dough.",
-    "To cook pita on stovetop: Heat a cast iron skillet over medium-high heat.",
-    "Drizzle a tiny bit of extra virgin olive oil and wipe off any excess.",
-    "Working with one pita at a time, lay a rolled-out pita on the skillet and bake for 30 seconds, until bubbles start to form.",
-    "Using a spatula, flip the pita over and cook for 1-2 minutes on  the other side, until large toasted spots appear on the underside.",
-    "Flip again and cook another 1-2 minutes to toast the other side.",
-    "The pita is ready when it puffs up forming a pocket",
-    "Keep baked pita covered with a clean towel while you work on the rest."
-  ]
-
-  },{
+  },
+  {
+    "title": "Pita Bread",
+    "source": "https://www.themediterraneandish.com/homemade-pita-bread-recipe/#tasty-recipes-10391-jump-target",
+    "meal": "side",
+    "ingredients": [
+      "1 cup lukewarm water",
+      "2 tsp active dry yeast",
+      "½ tsp sugar",
+      "3 cups all-purpose flour, divided",
+      "1 to 2 teaspoon kosher salt",
+      "2 tbsp extra virgin olive oil"
+    ],
+    "directions": [
+      "Make sponge: In a large mixing bowl add the lukewarm water and stir in yeast and sugar until dissolved.",
+      "Add ½ cup flour and whisk together.",
+      "Place the mixing bowl in a warm place, uncovered to form a lose sponge.",
+      "Give it 15 minutes or so, the mixture should bubble.",
+      "Form the pita dough: Now add salt, olive oil and almost all the remaining flour (keep about ½ cup of the flour for dusting later).",
+      "Stir until mixture forms a shaggy mass (at this point, the dough has little to no gluten development and just looks like a sticky mess and you can easily pull bits off).",
+      "Dust with a little flour, then knead the mixture inside the bowl for about a minute to incorporate any stray bits.",
+      "Knead the dough: Dust a clean working surface with just a little bit of flour.",
+      "Knead lightly for a couple minutes or so until smooth.",
+      "Cover and let the dough rest for 10 minutes, then knead again for a couple more minutes.",
+      "The dough should be a little bit moist, you can help it with a little dusting of flour, but be careful not to add too much flour.",
+      "Let the dough rise.",
+      "Clean the mixing bowl and coat it lightly with extra virgin olive oil and put the dough back in the bowl.",
+      "Turn the dough a couple times in the bowl to coat with the olive oil.",
+      "Cover the mixing bowl tightly with plastic wrap then lay a kitchen towel over.",
+      "Put the bowl in a warm place.",
+      "Leave it alone for 1 hour or until the dough rises to double its size.",
+      "Divide the dough.",
+      "Deflate the dough and place it on a clean work surface.",
+      "Divide the dough into 7 to 8 equal pieces and shape them into balls.",
+      "Cover with a towel and leave them for 10 minutes or so to rest.",
+      "Shape the pitas.",
+      "Using a floured rolling pin, roll one of the pieces into a circle that's 8-9 inches wide and about a quarter inch thick.",
+      "It helps to lift and turn the dough frequently as you roll so that dough doesn't stick to your counter too much.",
+      "(If dough starts to stick, sprinkle a tiny bit of flour).",
+      "If the dough starts to spring back, set it aside to rest for a few minutes, then continue rolling.",
+      "Repeat with the other pieces of dough.",
+      "To cook pita on stovetop: Heat a cast iron skillet over medium-high heat.",
+      "Drizzle a tiny bit of extra virgin olive oil and wipe off any excess.",
+      "Working with one pita at a time, lay a rolled-out pita on the skillet and bake for 30 seconds, until bubbles start to form.",
+      "Using a spatula, flip the pita over and cook for 1-2 minutes on  the other side, until large toasted spots appear on the underside.",
+      "Flip again and cook another 1-2 minutes to toast the other side.",
+      "The pita is ready when it puffs up forming a pocket",
+      "Keep baked pita covered with a clean towel while you work on the rest."
+    ]
+  },
+  {
     "title": "Black Pepper Cauliflower",
     "source": "https://www.veganricha.com/black-pepper-cauliflower/#recipe",
     "meal": "side",
@@ -5795,7 +5809,8 @@
       "Toss to coat really well.",
       "Garnish with green onion and sesame seeds and serve as it is or with rice or quinoa."
     ]
-  },{
+  },
+  {
     "title": "Naan",
     "source": "https://lilluna.com/homemade-naan-bread/#wprm-recipe-container-119022",
     "meal": "side",
@@ -5828,7 +5843,8 @@
       "Brush the top (the bubbly side) of each naan with melted butter.",
       "I added garlic to my butter, but that is optional."
     ]
-  },{
+  },
+  {
     "title": "Chana Paneer",
     "source": "https://www.indianhealthyrecipes.com/chana-paneer-recipe-paneer-chana-masala/",
     "meal": "side",
@@ -5873,7 +5889,8 @@
       "Switch off.",
       "Add coriander leaves and keep covered."
     ]
-  },{
+  },
+  {
     "title": "Thai Peanut Noodles",
     "source": "https://www.crunchycreamysweet.com/thai-peanut-noodles/?fbclid=IwAR0iz1BBGsa9xiOOuCmleQWP1zYll1sS4nW7NqY67zuSPWTvKddUAMm0JHM",
     "meal": "dinner",
@@ -5899,7 +5916,8 @@
       "Toss to coat.",
       "Garnish noodles with chopped green onions and toasted sesame seeds."
     ]
-  },{
+  },
+  {
     "title": "Italian Grinders",
     "source": "https://smilesandwich.com/2022/07/08/italian-grinder-salad/?fbclid=IwAR0Eycp8K0bdLIa22air50htV0ZJwGWDfxyeg4yS6YpuHlO2V-woQ3LmTWo",
     "meal": "dinner",
@@ -5921,7 +5939,8 @@
       "chop and mix",
       "serve in a brotchen"
     ]
-  },{
+  },
+  {
     "title": "Cashew Chicken (stir fry)",
     "source": "https://bellyfull.net/easy-cashew-chicken-2/?fbclid=IwAR18Xf6hR6MGfRd-hkRXHk1yQ5eKTd2mxpSPrwJZyh_p8qOGf1CdYRrmAmY",
     "meal": "dinner",
@@ -5955,7 +5974,8 @@
       "Taste, season with a little more salt and pepper, if necessary.",
       "Serve over cooked, hot white rice."
     ]
-  },{
+  },
+  {
     "title": "Belgian Waffle",
     "source": "https://thesaltymarshmallow.com/homemade-belgian-waffle-recipe/",
     "meal": null,
@@ -5980,7 +6000,8 @@
       "Pour the batter onto your hot waffle iron and cook according to manufacturer's directions**",
       "Serve immediately with butter, syrup, powdered sugar or any other favorite toppings."
     ]
-  },{
+  },
+  {
     "title": "Cinnamon Apples",
     "source": "https://joyfoodsunshine.com/stovetop-cinnamon-apples/#wprm-recipe-container-8858",
     "meal": "dessert",
@@ -6005,7 +6026,8 @@
       "Cook for about 5 more minutes, stirring every minute until the apples reach your desired softness!",
       "Remove from heat and serve!"
     ]
-  },{
+  },
+  {
     "title": "Bailey's Fudgy Brownie Pudding",
     "source": "https://www.delish.com/cooking/recipe-ideas/a42417784/skillet-brownie-pudding-recipe/",
     "meal": "dessert",
@@ -6036,7 +6058,8 @@
       "Meanwhile, in a medium bowl, using an electric mixer on medium-high speed, beat cream and remaining 1 tablespoon Baileys until medium peaks form.",
       "Top brownie pudding with whipped cream."
     ]
-  },{
+  },
+  {
     "title": "Irish Cream",
     "source": "https://www.delish.com/cooking/recipe-ideas/a30778206/homemade-irish-cream-liqueur-recipe/",
     "meal": "drink",
@@ -6052,7 +6075,8 @@
       "Keep refrigerated.",
       "Serve over ice or mixed into cocktails, shaking before each use."
     ]
-  },{
+  },
+  {
     "title": "Russian Tea Cakes",
     "source": "https://www.crazyforcrust.com/moms-russian-tea-cakes/",
     "meal": "dessert",
@@ -6079,12 +6103,13 @@
       "Place on a rack to cool.",
       "Once cookies are cooled, you may want to re-roll them in more powdered sugar."
     ]
-  },{
+  },
+  {
     "title": "Carrot Cake Cookies",
     "source": "https://www.lecremedelacrumb.com/carrot-cake-cookies/",
     "meal": "dessert",
     "ingredients": [
-      "-- Cookies --", 
+      "-- Cookies --",
       "2 ¾ cup flour",
       "1 teaspoon baking soda",
       "¾ teaspoon salt",
@@ -6122,7 +6147,8 @@
       "Frost completely cooled cookies.",
       "Store in airtight container at room temperature up to 5 days."
     ]
-  },{
+  },
+  {
     "title": "Chou en purée (Wirsing)",
     "source": "https://everydayfrenchchef.com/recipes/vegetables/chou-en-puree/?fbclid=IwAR1cYOkM0dEyE1CwcZJ0hNymCQ9PnoJrdqUV0Lk3Rg2IYTY_4oOLjEKX-Uk",
     "meal": "side",
@@ -6150,7 +6176,8 @@
       "(Go easy on the nutmeg — a little goes a long way).",
       "Reheat gently before serving."
     ]
-  },{
+  },
+  {
     "title": "Ham and Bean Soup",
     "source": "https://thecozycook.com/ham-and-bean-soup/",
     "meal": "dinner",
@@ -6203,11 +6230,12 @@
       "This will allow most of the pressure to release naturally, allowing the soup to cook a little bit longer.",
       "Remove the ham bone/hock, the bay leaves, and thyme stems and serve!"
     ]
-  },{
+  },
+  {
     "title": "Rum Balls",
     "source": "https://www.selefina.com/recipes/chocolatey-rum-balls-recipe.html",
     "meal": "dessert",
-    "ingredients":[
+    "ingredients": [
       "4 cups vanilla wafers (makes about 2.25 cups wafer crumb)",
       "⅓ cup cacao powder, high-fat",
       "½ cup pecans or walnuts, finely chopped",
@@ -6227,30 +6255,30 @@
       "Serve chilled or at room temperature."
     ]
   },
-    {
-      "title": "Tocino (Sweet Cured Pork)",
-      "source": "https://www.foxyfolksy.com/tocino-recipe-sweet-cured-pork/#recipe",
-      "meal": "breakfast",
-      "ingredients": [
-        "2 pounds pork (butt, shoulder, ham or belly) - cut into ¼ inch thin",
-        "¾ cup brown sugar",
-        "1 ½ tablespoons salt",
-        "3 cloves garlic - finely minced",
-        "1 tablespoon soy sauce",
-        "2 tablespoons rice vinegar",
-        "¼ cup fruit juice, (pineapple, apple) (optional)",
-        "½ tablespoons finely ground black pepper",
-        "1 tablespoon rice flour (optional)",
-        "natural red food color (optional)"
-      ],
-      "directions": [
-        "In a big bowl, combine all ingredients except for the pork slices. Mix until well blended.",
-        "Add the pork and mix using the hand, use hand gloves to avoid stains. Mix for several minutes to an hour.",
-        "Transfer to a container with a cover and let it sit overnight on the counter.",
-        "Mix again for a couple of times before putting in the fridge. Cure for 24 hours or up to 3 days. Can be frozen afterwards and stored longer."
-      ]
-    
-  },{
+  {
+    "title": "Tocino (Sweet Cured Pork)",
+    "source": "https://www.foxyfolksy.com/tocino-recipe-sweet-cured-pork/#recipe",
+    "meal": "breakfast",
+    "ingredients": [
+      "2 pounds pork (butt, shoulder, ham or belly) - cut into ¼ inch thin",
+      "¾ cup brown sugar",
+      "1 ½ tablespoons salt",
+      "3 cloves garlic - finely minced",
+      "1 tablespoon soy sauce",
+      "2 tablespoons rice vinegar",
+      "¼ cup fruit juice, (pineapple, apple) (optional)",
+      "½ tablespoons finely ground black pepper",
+      "1 tablespoon rice flour (optional)",
+      "natural red food color (optional)"
+    ],
+    "directions": [
+      "In a big bowl, combine all ingredients except for the pork slices. Mix until well blended.",
+      "Add the pork and mix using the hand, use hand gloves to avoid stains. Mix for several minutes to an hour.",
+      "Transfer to a container with a cover and let it sit overnight on the counter.",
+      "Mix again for a couple of times before putting in the fridge. Cure for 24 hours or up to 3 days. Can be frozen afterwards and stored longer."
+    ]
+  },
+  {
     "title": "Bagels",
     "source": "https://sallysbakingaddiction.com/homemade-bagels/#tasty-recipes-66512",
     "meal": "bread",
@@ -6305,7 +6333,8 @@
       "Remove from the oven and allow bagels to cool on the baking sheets for 20 minutes, then transfer to a wire rack to cool completely.",
       "Slice, toast, top, whatever you want!Cover leftover bagels tightly and store at room temperature for a few days or in the refrigerator for up to 1 week."
     ]
-  },{
+  },
+  {
     "title": "Focaccia",
     "source": "https://www.bonappetit.com/recipe/easy-no-knead-focaccia",
     "meal": "dinner",
@@ -6348,7 +6377,8 @@
       "Peel and grate in 2–4 garlic cloves with a Microplane (use 2 cloves if you’re garlic-shy or up to 4 if you love it).",
       "Return to medium heat and cook, stirring often, until garlic is just lightly toasted, 30–45 seconds. (Or, if you prefer raw garlic to toasted garlic, you can grate the garlic into the hot butter, off heat, then brush right away.)"
     ]
-  },{
+  },
+  {
     "title": "Cheesecake ",
     "source": "https://sugarspunrun.com/best-cheesecake-recipe/",
     "meal": "dessert",
@@ -6385,7 +6415,8 @@
       "Once 10 minutes has passed, use a knife to gently loosen the crust from the inside of the springform pan (this will help prevent cracks as your cheesecake cools and shrinks). Do not remove the ring of the springform pan.",
       "Allow cheesecake to cool another 1-2 hours or until near room temperature before transferring to refrigerator and allowing to cool overnight or at least 6 hours."
     ]
-  },{
+  },
+  {
     "title": "Pecan Pound Cake",
     "source": "https://www.soulfullymade.com/pecan-pound-cake-recipe/#wprm-recipe-container-16491",
     "meal": "dessert",
@@ -6419,7 +6450,8 @@
       "Check at about 45 minutes and if the cake is browning too quickly add foil over the top and finish baking.",
       "Cool in pan for 15 minutes and then turn onto a cooling rack to finish cooling."
     ]
-  },{
+  },
+  {
     "title": "Aprikosenkuchen",
     "source": "https://www.diversivore.com/aprikosenkuchen-german-apricot-cake/#recipe",
     "meal": "dessert",
@@ -6465,7 +6497,8 @@
       "Simmer for 7-10 minutes, crushing and stirring the apricots until they've been reduced to a soft puree.",
       "Strain the liquid from the apricot puree to use for glazing the cake."
     ]
-  },{
+  },
+  {
     "title": "Queso Dip",
     "source": "https://www.recipetineats.com/queso-dip-mexican-cheese-dip/#wprm-recipe-container-22439",
     "meal": "side",
@@ -6497,7 +6530,8 @@
       "Serve warm or at room temperature - it will be soft and scoopable even when it cools.",
       "Store in the refrigerator."
     ]
-  },{
+  },
+  {
     "title": "Fried Rice (Gochujang)",
     "source": "https://www.goodhousekeeping.com/food-recipes/a42349049/gochujang-fried-rice-recipe/",
     "meal": "dinner",
@@ -6532,7 +6566,8 @@
       "In nonstick or cast-iron skillet, heat remaining tablespoon oil on medium and cook eggs to desired doneness.",
       "Serve over rice topped with scallions, cilantro and sesame seeds."
     ]
-  },{
+  },
+  {
     "title": "Deep Dish Pizza Dough",
     "source": "https://sallysbakingaddiction.com/how-to-make-chicago-style-deep-dish-pizza/",
     "meal": "dinner",
@@ -6571,7 +6606,8 @@
       "Feel free to loosely cover the pizzas with aluminum foil after the 15 minute mark to prevent any heavy browning and uneven baking.",
       "Remove the pizzas from the oven and allow to cool in the pans placed on a wire rack for 10 minutes."
     ]
-  },{
+  },
+  {
     "title": "Chicken Wings (Dry-Rubbed Baked)",
     "source": "https://www.thechunkychef.com/epic-dry-rubbed-baked-chicken-wings/#wprm-recipe-container-12298",
     "meal": "dinner",
@@ -6599,5 +6635,106 @@
       "Sprinkle in about half to 2/3 of the dry rub mixture and use your hands to massage it into all of the chicken wings, coating evenly. Feel free to use all the dry rub, but for a coating like in the photos, 1/2-2/3 of the mixture does just fine.",
       "Preheat air fryer to 400 F degrees. Spritz with oil and add chicken wings to air fryer for 15 minutes."
     ]
+  },
+  {
+    "title": "Bean Salad - Mediterranean",
+    "source": "https://cookieandkate.com/mediterranean-bean-salad-recipe/",
+    "meal": "lunch",
+    "ingredients": [
+      "2 cans red kidney beans (15 ounces each), rinsed and drained, or 3 cups cooked kidney beans",
+      "1 can chickpeas (15 ounces), rinsed and drained, or 1 ½ cups cooked chickpeas",
+      "1 small red onion, diced (about 1 cup)",
+      "2 stalks celery, sliced in half or thirds lengthwise and chopped (about ¾ cup)",
+      "1 medium cucumber, peeled, seeded and diced",
+      "¾ cup chopped fresh parsley",
+      "2 tablespoons chopped fresh dill or mint",
+      "¼ cup extra-virgin olive oil",
+      "¼ cup lemon juice (about 1 ½ lemons)",
+      "3 cloves garlic, pressed or minced",
+      "¾ teaspoon salt",
+      "Small pinch red pepper flakes"
+    ],
+    "directions": [
+      "In a serving bowl, combine the prepared kidney beans, chickpeas, onion, celery, cucumber, parsley and dill.",
+      "Make the lemon dressing: In a small bowl, whisk together the olive oil, lemon juice, garlic, salt and pepper flakes until well blended. Pour the dressing over the salad and stir until combined.",
+      "Serve immediately for the most flavor, or let it marinate in the refrigerator, covered, for a couple of hours or longer. Leftovers will keep well, covered and refrigerated, for up to 4 days. If necessary, wake up leftovers with a little sprinkle of salt or drizzle of lemon juice."
+    ]
+  },
+  {
+    "title": "Bean Salad - Italian Grinder",
+    "source": "https://kaleforniakravings.com/easy-italian-grinder-bean-salad/",
+    "meal": "lunch",
+    "ingredients": [
+      "1 (15oz.) canned garbanzo beans (chickpeas), drained & rinsed",
+      "1 (15oz.) canned white beans (We use cannellini beans)",
+      "4 oz. sliced salami, cut into thin strips",
+      "½ cup sliced pepperoncini, chopped",
+      "¼ cup red onion, thinly sliced",
+      "½ cup fresh basil, thinly sliced",
+      "6 oz. mozzarella pearls",
+      "¼ cup olive oil",
+      "¼ cup red wine vinegar",
+      "1-2 garlic cloves, minced",
+      "1 tsp dried oregano",
+      "¼ tsp red pepper flakes",
+      "Salt, to taste",
+      "Cracked black pepper, to taste"
+    ],
+    "directions": [
+      "Make the vinaigrette. Whisk the olive oil, red wine vinegar, garlic, oregano and red pepper flakes together in small measuring glass or salad dressing bottle. Season with salt and black pepper to taste. (I'm very generous with the amount of salt.)Cover and keep it stored in the refrigerator.",
+      "Toss. Add the salad ingredients to a large bowl and pour your desired amount of vinaigrette over the top. Toss until the salad is coated to your liking. (Taste and adjust the salt and pepper, if needed.)",
+      "Serve. Serve immediately or cover the salad let it chill for at least 30 minutes before serving."
+    ]
+  },
+  {
+    "title": "Bean Salad - Chipotle Chicken",
+    "source": "https://www.tablefortwoblog.com/chipotle-chicken-dense-bean-salad/",
+    "meal": "lunch",
+    "ingredients": [
+      "1   recipe for chipotle chicken, or about 1 ½ cups diced or shredded chicken",
+      "¼ cup  (56 g) mayonnaise",
+      "¼ cup  (59 ml) olive oil",
+      "Juice of 1 lime + zest",
+      "½ teaspoon   ground cumin",
+      "1 clove   garlic",
+      "1   chipotle pepper in adobo sauce + a little bit of the liquid",
+      "Salt and pepper, to taste",
+      "15 ounce  (425 g) can of garbanzo/chickpeas, rinsed and drained",
+      "15 ounce  (425 g) can of great northern beans, rinsed and drained",
+      "⅔ cup  (109 g) corn kernels",
+      "3   ripe avocados, diced",
+      "1   medium red bell pepper, diced",
+      "1   medium yellow bell pepper, diced"
+    ],
+    "directions": [
+      "Make the recipe for the chipotle chicken and chop into 1\" cubes and set aside.",
+      "Make the dressing: in a tall container, add all the ingredients for the dressing then take an immersion blender and blend until smooth.\"an",
+      "Put together the salad: In a very large bowl, add chickpeas, great northern beans, corn, avocados, bell peppers, and chicken. Gently toss to evenly distribute ingredients.\"diced",
+      "Pour dressing all over then toss to incorporate.\"diced",
+      "Serve at room temperature or chilled."
+    ]
+  },
+  {
+    "title": "Bean Salad - Chimichurri Steak",
+    "source": "https://www.copymethat.com/r/6GvFUZiMz/steak-chimichurri-bean-salad/",
+    "meal": "lunch",
+    "ingredients": [
+      "1 lb of flank steak",
+      "A salty steak seasoning, I like @nanaskitchenc",
+      "1 shallot",
+      "1 bunch of parsley",
+      "1 bunch of cilantro",
+      "1 clove of garlic",
+      "1/2 cup chopped roasted red peppers, I use @mezzetta",
+      "1 can of garbanzo beans",
+      "1 can of white beans (I like great northern)",
+      "1 container of mini mozzarella balls",
+      "1/4 cup red wine vinegar",
+      "1/2 cup olive oil",
+      "Pinch of red pepper flakes",
+      "Big pinch of seal salt",
+      "The juice of 1 lemon"
+    ],
+    "directions": ["Mix all ingredients in a bowl and enjoy."]
   }
 ]
